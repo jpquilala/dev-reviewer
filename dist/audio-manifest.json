@@ -1,0 +1,2410 @@
+{
+  "version": 3,
+  "provider": "ElevenLabs",
+  "model": "eleven_v4",
+  "selectedVoice": "Jessica",
+  "voiceId": "cgSgspJ2msm6clMCkdW9",
+  "recordingStatus": "available-except-latin",
+  "supportedRecordedLanguages": [
+    "en-US",
+    "fil-PH",
+    "de-DE"
+  ],
+  "unavailableLanguages": {
+    "la": "Latin is not supported by this model. A verified Latin recording is still needed."
+  },
+  "uniqueRecordings": 492,
+  "clips": {
+    "cue:welcome": {
+      "src": "assets/audio/jessica-000.mp3?v=7eac5c657b77"
+    },
+    "cue:finish": {
+      "src": "assets/audio/jessica-001.mp3?v=74dd00f71de7"
+    },
+    "test:en-US": {
+      "src": "assets/audio/jessica-002.mp3?v=48136ee2a723"
+    },
+    "test:fil-PH": {
+      "src": "assets/audio/jessica-003.mp3?v=0543a5a52ec6"
+    },
+    "test:de-DE": {
+      "src": "assets/audio/jessica-004.mp3?v=d2f5cfc83ef5"
+    },
+    "word-0:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-1:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-2:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-3:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-4:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-5:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-6:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-7:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-8:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-9:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-10:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-11:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-12:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-13:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-14:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-15:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-16:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-17:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-18:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-19:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-20:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-21:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-22:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-23:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-24:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-25:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-26:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-27:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-28:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-29:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-30:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-31:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-32:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-33:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-34:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-35:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-36:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-37:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-38:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-39:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-40:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-41:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-42:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-43:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-44:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-45:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-46:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-47:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-48:prompt": {
+      "src": "assets/audio/jessica-006.mp3?v=59ea51f22872"
+    },
+    "word-0:answer": {
+      "src": "assets/audio/jessica-007.mp3?v=33fad62fecdc"
+    },
+    "word-1:answer": {
+      "src": "assets/audio/jessica-008.mp3?v=1ec857aa0233"
+    },
+    "word-2:answer": {
+      "src": "assets/audio/jessica-009.mp3?v=b4a25c799dfb"
+    },
+    "word-3:answer": {
+      "src": "assets/audio/jessica-010.mp3?v=02c57a0a4d28"
+    },
+    "word-4:answer": {
+      "src": "assets/audio/jessica-011.mp3?v=2ce69e7f5c60"
+    },
+    "word-5:answer": {
+      "src": "assets/audio/jessica-012.mp3?v=1b2cd2daf1bb"
+    },
+    "word-6:answer": {
+      "src": "assets/audio/jessica-013.mp3?v=b52ad8e0eda3"
+    },
+    "word-7:answer": {
+      "src": "assets/audio/jessica-014.mp3?v=b5dd0f44f27e"
+    },
+    "word-8:answer": {
+      "src": "assets/audio/jessica-015.mp3?v=ebe18324cf7d"
+    },
+    "word-9:answer": {
+      "src": "assets/audio/jessica-016.mp3?v=f6baa3270655"
+    },
+    "word-10:answer": {
+      "src": "assets/audio/jessica-017.mp3?v=dea771139e0a"
+    },
+    "word-11:answer": {
+      "src": "assets/audio/jessica-018.mp3?v=80e47ebca019"
+    },
+    "word-12:answer": {
+      "src": "assets/audio/jessica-019.mp3?v=2126b7770da2"
+    },
+    "word-13:answer": {
+      "src": "assets/audio/jessica-020.mp3?v=13e3e938d4d3"
+    },
+    "word-14:answer": {
+      "src": "assets/audio/jessica-021.mp3?v=991d0ba70e4b"
+    },
+    "word-15:answer": {
+      "src": "assets/audio/jessica-022.mp3?v=27acf31ac2a2"
+    },
+    "word-16:answer": {
+      "src": "assets/audio/jessica-023.mp3?v=0da67296d43c"
+    },
+    "word-17:answer": {
+      "src": "assets/audio/jessica-024.mp3?v=a6378f58d08a"
+    },
+    "word-18:answer": {
+      "src": "assets/audio/jessica-025.mp3?v=dded57ce2a2a"
+    },
+    "word-19:answer": {
+      "src": "assets/audio/jessica-026.mp3?v=3f5aeea52b4a"
+    },
+    "word-20:answer": {
+      "src": "assets/audio/jessica-027.mp3?v=cefd70fb32e8"
+    },
+    "word-21:answer": {
+      "src": "assets/audio/jessica-028.mp3?v=1c295f8ac328"
+    },
+    "word-22:answer": {
+      "src": "assets/audio/jessica-029.mp3?v=c6cb455157ed"
+    },
+    "word-23:answer": {
+      "src": "assets/audio/jessica-030.mp3?v=ecc19cb1ebe2"
+    },
+    "word-24:answer": {
+      "src": "assets/audio/jessica-031.mp3?v=e8bb166bae6a"
+    },
+    "word-25:answer": {
+      "src": "assets/audio/jessica-032.mp3?v=5c778a12906a"
+    },
+    "word-26:answer": {
+      "src": "assets/audio/jessica-033.mp3?v=c4ac936280b4"
+    },
+    "word-27:answer": {
+      "src": "assets/audio/jessica-034.mp3?v=417410326020"
+    },
+    "word-28:answer": {
+      "src": "assets/audio/jessica-035.mp3?v=6c0f5c091f8c"
+    },
+    "word-29:answer": {
+      "src": "assets/audio/jessica-036.mp3?v=96adc86ce3c8"
+    },
+    "word-30:answer": {
+      "src": "assets/audio/jessica-037.mp3?v=bf034b02ef6f"
+    },
+    "word-31:answer": {
+      "src": "assets/audio/jessica-038.mp3?v=9e7003a5ff58"
+    },
+    "word-32:answer": {
+      "src": "assets/audio/jessica-039.mp3?v=b379b25b8311"
+    },
+    "word-33:answer": {
+      "src": "assets/audio/jessica-040.mp3?v=8542b9ee089c"
+    },
+    "word-34:answer": {
+      "src": "assets/audio/jessica-041.mp3?v=26fa82969862"
+    },
+    "word-35:answer": {
+      "src": "assets/audio/jessica-042.mp3?v=7578eff9809c"
+    },
+    "word-36:answer": {
+      "src": "assets/audio/jessica-043.mp3?v=d80145b28325"
+    },
+    "word-37:answer": {
+      "src": "assets/audio/jessica-044.mp3?v=3378f72fcb8b"
+    },
+    "word-38:answer": {
+      "src": "assets/audio/jessica-045.mp3?v=1ce2bdf9e7ac"
+    },
+    "word-39:answer": {
+      "src": "assets/audio/jessica-046.mp3?v=6150b03a29dc"
+    },
+    "word-40:answer": {
+      "src": "assets/audio/jessica-047.mp3?v=1045c1390e58"
+    },
+    "word-41:answer": {
+      "src": "assets/audio/jessica-048.mp3?v=565705c1aa67"
+    },
+    "word-42:answer": {
+      "src": "assets/audio/jessica-049.mp3?v=e18039cc43ed"
+    },
+    "word-43:answer": {
+      "src": "assets/audio/jessica-050.mp3?v=eacf4f620416"
+    },
+    "word-44:answer": {
+      "src": "assets/audio/jessica-051.mp3?v=cae4093eb34f"
+    },
+    "word-45:answer": {
+      "src": "assets/audio/jessica-052.mp3?v=d33d95133c40"
+    },
+    "word-46:answer": {
+      "src": "assets/audio/jessica-053.mp3?v=57208cbd2482"
+    },
+    "word-47:answer": {
+      "src": "assets/audio/jessica-054.mp3?v=38b915839ce1"
+    },
+    "word-48:answer": {
+      "src": "assets/audio/jessica-055.mp3?v=92eb6ebe0cf4"
+    },
+    "phrase-0:prompt": {
+      "src": "assets/audio/jessica-056.mp3?v=c44746f51ebe"
+    },
+    "phrase-1:prompt": {
+      "src": "assets/audio/jessica-056.mp3?v=c44746f51ebe"
+    },
+    "phrase-2:prompt": {
+      "src": "assets/audio/jessica-056.mp3?v=c44746f51ebe"
+    },
+    "phrase-3:prompt": {
+      "src": "assets/audio/jessica-056.mp3?v=c44746f51ebe"
+    },
+    "phrase-4:prompt": {
+      "src": "assets/audio/jessica-056.mp3?v=c44746f51ebe"
+    },
+    "phrase-5:prompt": {
+      "src": "assets/audio/jessica-056.mp3?v=c44746f51ebe"
+    },
+    "phrase-6:prompt": {
+      "src": "assets/audio/jessica-056.mp3?v=c44746f51ebe"
+    },
+    "phrase-7:prompt": {
+      "src": "assets/audio/jessica-056.mp3?v=c44746f51ebe"
+    },
+    "phrase-8:prompt": {
+      "src": "assets/audio/jessica-056.mp3?v=c44746f51ebe"
+    },
+    "phrase-9:prompt": {
+      "src": "assets/audio/jessica-056.mp3?v=c44746f51ebe"
+    },
+    "phrase-10:prompt": {
+      "src": "assets/audio/jessica-056.mp3?v=c44746f51ebe"
+    },
+    "phrase-11:prompt": {
+      "src": "assets/audio/jessica-056.mp3?v=c44746f51ebe"
+    },
+    "phrase-12:prompt": {
+      "src": "assets/audio/jessica-056.mp3?v=c44746f51ebe"
+    },
+    "phrase-13:prompt": {
+      "src": "assets/audio/jessica-056.mp3?v=c44746f51ebe"
+    },
+    "phrase-14:prompt": {
+      "src": "assets/audio/jessica-056.mp3?v=c44746f51ebe"
+    },
+    "phrase-15:prompt": {
+      "src": "assets/audio/jessica-056.mp3?v=c44746f51ebe"
+    },
+    "phrase-16:prompt": {
+      "src": "assets/audio/jessica-056.mp3?v=c44746f51ebe"
+    },
+    "phrase-17:prompt": {
+      "src": "assets/audio/jessica-056.mp3?v=c44746f51ebe"
+    },
+    "phrase-18:prompt": {
+      "src": "assets/audio/jessica-056.mp3?v=c44746f51ebe"
+    },
+    "phrase-19:prompt": {
+      "src": "assets/audio/jessica-056.mp3?v=c44746f51ebe"
+    },
+    "phrase-20:prompt": {
+      "src": "assets/audio/jessica-056.mp3?v=c44746f51ebe"
+    },
+    "phrase-21:prompt": {
+      "src": "assets/audio/jessica-056.mp3?v=c44746f51ebe"
+    },
+    "phrase-22:prompt": {
+      "src": "assets/audio/jessica-056.mp3?v=c44746f51ebe"
+    },
+    "phrase-23:prompt": {
+      "src": "assets/audio/jessica-056.mp3?v=c44746f51ebe"
+    },
+    "phrase-24:prompt": {
+      "src": "assets/audio/jessica-056.mp3?v=c44746f51ebe"
+    },
+    "phrase-25:prompt": {
+      "src": "assets/audio/jessica-056.mp3?v=c44746f51ebe"
+    },
+    "phrase-26:prompt": {
+      "src": "assets/audio/jessica-056.mp3?v=c44746f51ebe"
+    },
+    "phrase-27:prompt": {
+      "src": "assets/audio/jessica-056.mp3?v=c44746f51ebe"
+    },
+    "phrase-28:prompt": {
+      "src": "assets/audio/jessica-056.mp3?v=c44746f51ebe"
+    },
+    "phrase-29:prompt": {
+      "src": "assets/audio/jessica-056.mp3?v=c44746f51ebe"
+    },
+    "phrase-30:prompt": {
+      "src": "assets/audio/jessica-056.mp3?v=c44746f51ebe"
+    },
+    "phrase-0:answer": {
+      "src": "assets/audio/jessica-057.mp3?v=939ab87d0a9c"
+    },
+    "phrase-1:answer": {
+      "src": "assets/audio/jessica-058.mp3?v=3f1529875616"
+    },
+    "phrase-2:answer": {
+      "src": "assets/audio/jessica-059.mp3?v=cd4860d156af"
+    },
+    "phrase-3:answer": {
+      "src": "assets/audio/jessica-060.mp3?v=19a1db43a396"
+    },
+    "phrase-4:answer": {
+      "src": "assets/audio/jessica-061.mp3?v=f7bf1750c9ea"
+    },
+    "phrase-5:answer": {
+      "src": "assets/audio/jessica-062.mp3?v=2b0cb8c13a1c"
+    },
+    "phrase-6:answer": {
+      "src": "assets/audio/jessica-063.mp3?v=2aae102057ff"
+    },
+    "phrase-7:answer": {
+      "src": "assets/audio/jessica-064.mp3?v=d371a05469cd"
+    },
+    "phrase-8:answer": {
+      "src": "assets/audio/jessica-065.mp3?v=8ba08b22a8d2"
+    },
+    "phrase-9:answer": {
+      "src": "assets/audio/jessica-066.mp3?v=23db82967c02"
+    },
+    "phrase-10:answer": {
+      "src": "assets/audio/jessica-067.mp3?v=d1088161dda6"
+    },
+    "phrase-11:answer": {
+      "src": "assets/audio/jessica-068.mp3?v=d7d97bfb42c2"
+    },
+    "phrase-12:answer": {
+      "src": "assets/audio/jessica-069.mp3?v=d5b603010c1e"
+    },
+    "phrase-13:answer": {
+      "src": "assets/audio/jessica-070.mp3?v=cfebd89479d8"
+    },
+    "phrase-14:answer": {
+      "src": "assets/audio/jessica-071.mp3?v=e730d1e64f56"
+    },
+    "phrase-15:answer": {
+      "src": "assets/audio/jessica-072.mp3?v=fff38144c6ce"
+    },
+    "phrase-16:answer": {
+      "src": "assets/audio/jessica-073.mp3?v=7def2668418c"
+    },
+    "phrase-17:answer": {
+      "src": "assets/audio/jessica-074.mp3?v=174e4b682dd8"
+    },
+    "phrase-18:answer": {
+      "src": "assets/audio/jessica-075.mp3?v=c92c21c1d026"
+    },
+    "phrase-19:answer": {
+      "src": "assets/audio/jessica-076.mp3?v=1ceebf3805fd"
+    },
+    "phrase-20:answer": {
+      "src": "assets/audio/jessica-077.mp3?v=2459f8115d4a"
+    },
+    "phrase-21:answer": {
+      "src": "assets/audio/jessica-078.mp3?v=65db7d209a16"
+    },
+    "phrase-22:answer": {
+      "src": "assets/audio/jessica-079.mp3?v=45510b955558"
+    },
+    "phrase-23:answer": {
+      "src": "assets/audio/jessica-080.mp3?v=3de7bd1f54da"
+    },
+    "phrase-24:answer": {
+      "src": "assets/audio/jessica-081.mp3?v=92f092174c1f"
+    },
+    "phrase-25:answer": {
+      "src": "assets/audio/jessica-082.mp3?v=f75f2ccec60d"
+    },
+    "phrase-26:answer": {
+      "src": "assets/audio/jessica-083.mp3?v=adddb6191736"
+    },
+    "phrase-27:answer": {
+      "src": "assets/audio/jessica-084.mp3?v=fa7df93411ad"
+    },
+    "phrase-28:answer": {
+      "src": "assets/audio/jessica-085.mp3?v=61c6f3d1cc2f"
+    },
+    "phrase-29:answer": {
+      "src": "assets/audio/jessica-086.mp3?v=c915f597ee90"
+    },
+    "phrase-30:answer": {
+      "src": "assets/audio/jessica-087.mp3?v=c160898ced9f"
+    },
+    "adjective-0:prompt": {
+      "src": "assets/audio/jessica-088.mp3?v=ea395cdc89b7"
+    },
+    "adjective-0:answer": {
+      "src": "assets/audio/jessica-089.mp3?v=06068cfbe90d"
+    },
+    "adjective-1:prompt": {
+      "src": "assets/audio/jessica-090.mp3?v=319826cc2f38"
+    },
+    "adjective-1:answer": {
+      "src": "assets/audio/jessica-091.mp3?v=8f517d75215e"
+    },
+    "adjective-2:prompt": {
+      "src": "assets/audio/jessica-092.mp3?v=4e8541b9b810"
+    },
+    "adjective-2:answer": {
+      "src": "assets/audio/jessica-093.mp3?v=0ee8091546ca"
+    },
+    "adjective-3:prompt": {
+      "src": "assets/audio/jessica-094.mp3?v=ac06f2d4b813"
+    },
+    "adjective-3:answer": {
+      "src": "assets/audio/jessica-095.mp3?v=266d8d1999c8"
+    },
+    "adjective-4:prompt": {
+      "src": "assets/audio/jessica-096.mp3?v=b3e318a6ce29"
+    },
+    "adjective-4:answer": {
+      "src": "assets/audio/jessica-097.mp3?v=36a6dcc32729"
+    },
+    "adjective-5:prompt": {
+      "src": "assets/audio/jessica-098.mp3?v=9968a76c9492"
+    },
+    "adjective-5:answer": {
+      "src": "assets/audio/jessica-099.mp3?v=87072dfecbc9"
+    },
+    "adjective-6:prompt": {
+      "src": "assets/audio/jessica-100.mp3?v=c531b10a944c"
+    },
+    "adjective-6:answer": {
+      "src": "assets/audio/jessica-101.mp3?v=93d475e65570"
+    },
+    "adjective-7:prompt": {
+      "src": "assets/audio/jessica-102.mp3?v=18f7c4a489ac"
+    },
+    "adjective-7:answer": {
+      "src": "assets/audio/jessica-103.mp3?v=4554de98d5ca"
+    },
+    "adjective-8:prompt": {
+      "src": "assets/audio/jessica-104.mp3?v=20c1f7626e1a"
+    },
+    "adjective-8:answer": {
+      "src": "assets/audio/jessica-105.mp3?v=0c3477a182d6"
+    },
+    "adjective-9:prompt": {
+      "src": "assets/audio/jessica-106.mp3?v=79306757c4fd"
+    },
+    "adjective-9:answer": {
+      "src": "assets/audio/jessica-107.mp3?v=a25da77282c8"
+    },
+    "adjective-10:prompt": {
+      "src": "assets/audio/jessica-108.mp3?v=f459417a6756"
+    },
+    "adjective-10:answer": {
+      "src": "assets/audio/jessica-109.mp3?v=9531ea78ae74"
+    },
+    "adjective-11:prompt": {
+      "src": "assets/audio/jessica-110.mp3?v=51c50f073176"
+    },
+    "adjective-11:answer": {
+      "src": "assets/audio/jessica-111.mp3?v=7bc0dd9b7a43"
+    },
+    "adjective-12:prompt": {
+      "src": "assets/audio/jessica-112.mp3?v=cc404d6dc6ad"
+    },
+    "adjective-12:answer": {
+      "src": "assets/audio/jessica-113.mp3?v=f0158a89803a"
+    },
+    "adjective-13:prompt": {
+      "src": "assets/audio/jessica-114.mp3?v=66607a828c8b"
+    },
+    "adjective-13:answer": {
+      "src": "assets/audio/jessica-115.mp3?v=94abf2a7f2af"
+    },
+    "adjective-14:prompt": {
+      "src": "assets/audio/jessica-116.mp3?v=ccb9970a1103"
+    },
+    "adjective-14:answer": {
+      "src": "assets/audio/jessica-117.mp3?v=64e05d7db1e1"
+    },
+    "adjective-15:prompt": {
+      "src": "assets/audio/jessica-118.mp3?v=2be9f41e288a"
+    },
+    "adjective-15:answer": {
+      "src": "assets/audio/jessica-119.mp3?v=eeeb96ddfde5"
+    },
+    "adjective-16:prompt": {
+      "src": "assets/audio/jessica-120.mp3?v=223b53d9707a"
+    },
+    "adjective-16:answer": {
+      "src": "assets/audio/jessica-121.mp3?v=56b2af46723c"
+    },
+    "adjective-17:prompt": {
+      "src": "assets/audio/jessica-122.mp3?v=863fc4404fd7"
+    },
+    "adjective-17:answer": {
+      "src": "assets/audio/jessica-123.mp3?v=48df78d1ca7a"
+    },
+    "adjective-18:prompt": {
+      "src": "assets/audio/jessica-124.mp3?v=830980387e9f"
+    },
+    "adjective-18:answer": {
+      "src": "assets/audio/jessica-125.mp3?v=30446fee2980"
+    },
+    "adjective-19:prompt": {
+      "src": "assets/audio/jessica-126.mp3?v=a228fbc04945"
+    },
+    "adjective-19:answer": {
+      "src": "assets/audio/jessica-127.mp3?v=5d53c502c49b"
+    },
+    "adjective-20:prompt": {
+      "src": "assets/audio/jessica-128.mp3?v=90e6080c008d"
+    },
+    "adjective-20:answer": {
+      "src": "assets/audio/jessica-129.mp3?v=7bbb68df928a"
+    },
+    "adjective-21:prompt": {
+      "src": "assets/audio/jessica-130.mp3?v=f3cd2642e231"
+    },
+    "adjective-21:answer": {
+      "src": "assets/audio/jessica-131.mp3?v=e7e081cbcc8a"
+    },
+    "adjective-22:prompt": {
+      "src": "assets/audio/jessica-132.mp3?v=b1dd617f5ace"
+    },
+    "adjective-22:answer": {
+      "src": "assets/audio/jessica-133.mp3?v=a8c4851c9ce5"
+    },
+    "adjective-23:prompt": {
+      "src": "assets/audio/jessica-134.mp3?v=498ce9098685"
+    },
+    "adjective-23:answer": {
+      "src": "assets/audio/jessica-135.mp3?v=a2b848cafa50"
+    },
+    "adjective-24:prompt": {
+      "src": "assets/audio/jessica-136.mp3?v=b1da815a94fe"
+    },
+    "adjective-24:answer": {
+      "src": "assets/audio/jessica-137.mp3?v=462df14a1267"
+    },
+    "adjective-25:prompt": {
+      "src": "assets/audio/jessica-138.mp3?v=ecca77a83a9d"
+    },
+    "adjective-25:answer": {
+      "src": "assets/audio/jessica-139.mp3?v=305ebea14596"
+    },
+    "adjective-26:prompt": {
+      "src": "assets/audio/jessica-140.mp3?v=e794a158b0f6"
+    },
+    "adjective-26:answer": {
+      "src": "assets/audio/jessica-141.mp3?v=c291be70a063"
+    },
+    "adjective-27:prompt": {
+      "src": "assets/audio/jessica-142.mp3?v=ed47866a1790"
+    },
+    "adjective-27:answer": {
+      "src": "assets/audio/jessica-143.mp3?v=51e2d70f0a6e"
+    },
+    "adjective-28:prompt": {
+      "src": "assets/audio/jessica-144.mp3?v=287c8ed95948"
+    },
+    "adjective-28:answer": {
+      "src": "assets/audio/jessica-145.mp3?v=1e8505ed9cf1"
+    },
+    "adjective-29:prompt": {
+      "src": "assets/audio/jessica-146.mp3?v=6b0901448061"
+    },
+    "adjective-29:answer": {
+      "src": "assets/audio/jessica-147.mp3?v=a01c17108f60"
+    },
+    "adjective-30:prompt": {
+      "src": "assets/audio/jessica-148.mp3?v=ce46ad474e10"
+    },
+    "adjective-30:answer": {
+      "src": "assets/audio/jessica-149.mp3?v=dc6d480b86eb"
+    },
+    "adjective-31:prompt": {
+      "src": "assets/audio/jessica-150.mp3?v=c329498ee3f1"
+    },
+    "adjective-31:answer": {
+      "src": "assets/audio/jessica-151.mp3?v=a800bf8bae0b"
+    },
+    "adjective-32:prompt": {
+      "src": "assets/audio/jessica-152.mp3?v=458aabb155e7"
+    },
+    "adjective-32:answer": {
+      "src": "assets/audio/jessica-153.mp3?v=b0d472e4c37b"
+    },
+    "adjective-33:prompt": {
+      "src": "assets/audio/jessica-154.mp3?v=733cfd067d23"
+    },
+    "adjective-33:answer": {
+      "src": "assets/audio/jessica-155.mp3?v=3b8a6575b330"
+    },
+    "adjective-34:prompt": {
+      "src": "assets/audio/jessica-156.mp3?v=8cd1c6fd30a3"
+    },
+    "adjective-34:answer": {
+      "src": "assets/audio/jessica-157.mp3?v=501bfe569f40"
+    },
+    "adjective-35:prompt": {
+      "src": "assets/audio/jessica-158.mp3?v=af2e60614393"
+    },
+    "adjective-35:answer": {
+      "src": "assets/audio/jessica-159.mp3?v=2581811b977f"
+    },
+    "adjective-36:prompt": {
+      "src": "assets/audio/jessica-160.mp3?v=ba0666dfe891"
+    },
+    "adjective-36:answer": {
+      "src": "assets/audio/jessica-161.mp3?v=4b52a998a50c"
+    },
+    "adjective-37:prompt": {
+      "src": "assets/audio/jessica-162.mp3?v=dd10d9a37baf"
+    },
+    "adjective-37:answer": {
+      "src": "assets/audio/jessica-163.mp3?v=f4c5e7019ee2"
+    },
+    "after-136:prompt": {
+      "src": "assets/audio/jessica-164.mp3?v=a5e0d34fbbf1"
+    },
+    "after-136:answer": {
+      "src": "assets/audio/jessica-165.mp3?v=9244ac5d4ce5"
+    },
+    "after-154:prompt": {
+      "src": "assets/audio/jessica-166.mp3?v=e282e8d5a1a7"
+    },
+    "after-154:answer": {
+      "src": "assets/audio/jessica-167.mp3?v=6dfb5eefc383"
+    },
+    "after-198:prompt": {
+      "src": "assets/audio/jessica-168.mp3?v=9d76fae9fcf2"
+    },
+    "after-198:answer": {
+      "src": "assets/audio/jessica-169.mp3?v=55a08fc16c30"
+    },
+    "after-209:prompt": {
+      "src": "assets/audio/jessica-170.mp3?v=7c255187c6c5"
+    },
+    "after-209:answer": {
+      "src": "assets/audio/jessica-171.mp3?v=104a69d87c9d"
+    },
+    "after-131:prompt": {
+      "src": "assets/audio/jessica-172.mp3?v=6e24fc4c3d4c"
+    },
+    "after-131:answer": {
+      "src": "assets/audio/jessica-173.mp3?v=8682aca21d89"
+    },
+    "after-132:prompt": {
+      "src": "assets/audio/jessica-174.mp3?v=f34c5556e5bb"
+    },
+    "after-132:answer": {
+      "src": "assets/audio/jessica-175.mp3?v=1b25e2146b54"
+    },
+    "after-133:prompt": {
+      "src": "assets/audio/jessica-176.mp3?v=eb890b6afaa1"
+    },
+    "after-133:answer": {
+      "src": "assets/audio/jessica-177.mp3?v=455bf17ab9ba"
+    },
+    "after-134:prompt": {
+      "src": "assets/audio/jessica-178.mp3?v=a1ffbefbd328"
+    },
+    "after-134:answer": {
+      "src": "assets/audio/jessica-179.mp3?v=d6c59d77f551"
+    },
+    "after-135:prompt": {
+      "src": "assets/audio/jessica-180.mp3?v=48010dce732d"
+    },
+    "after-135:answer": {
+      "src": "assets/audio/jessica-181.mp3?v=786bc10a2d63"
+    },
+    "after-137:prompt": {
+      "src": "assets/audio/jessica-182.mp3?v=0a4eb62d7ec8"
+    },
+    "after-137:answer": {
+      "src": "assets/audio/jessica-183.mp3?v=91a3f8908591"
+    },
+    "after-138:prompt": {
+      "src": "assets/audio/jessica-184.mp3?v=66346839b81a"
+    },
+    "after-138:answer": {
+      "src": "assets/audio/jessica-185.mp3?v=1897ff47a132"
+    },
+    "after-139:prompt": {
+      "src": "assets/audio/jessica-186.mp3?v=94d4acc9897a"
+    },
+    "after-139:answer": {
+      "src": "assets/audio/jessica-187.mp3?v=1a6ec1d387bf"
+    },
+    "after-140:prompt": {
+      "src": "assets/audio/jessica-188.mp3?v=e22f998fc4f0"
+    },
+    "after-140:answer": {
+      "src": "assets/audio/jessica-189.mp3?v=f67ae6f5c20b"
+    },
+    "after-141:prompt": {
+      "src": "assets/audio/jessica-190.mp3?v=80c260ac437e"
+    },
+    "after-141:answer": {
+      "src": "assets/audio/jessica-191.mp3?v=94cb3b14bf7a"
+    },
+    "after-142:prompt": {
+      "src": "assets/audio/jessica-192.mp3?v=793acf6c1845"
+    },
+    "after-142:answer": {
+      "src": "assets/audio/jessica-193.mp3?v=f6f90a6b9285"
+    },
+    "after-143:prompt": {
+      "src": "assets/audio/jessica-194.mp3?v=fb52d181892e"
+    },
+    "after-143:answer": {
+      "src": "assets/audio/jessica-195.mp3?v=e91915d3829c"
+    },
+    "after-144:prompt": {
+      "src": "assets/audio/jessica-196.mp3?v=d7550c7c3d39"
+    },
+    "after-144:answer": {
+      "src": "assets/audio/jessica-197.mp3?v=fe2bf583d01d"
+    },
+    "after-145:prompt": {
+      "src": "assets/audio/jessica-198.mp3?v=de650b42befd"
+    },
+    "after-145:answer": {
+      "src": "assets/audio/jessica-199.mp3?v=75b40057c90c"
+    },
+    "after-146:prompt": {
+      "src": "assets/audio/jessica-200.mp3?v=7925b0560834"
+    },
+    "after-146:answer": {
+      "src": "assets/audio/jessica-201.mp3?v=204c3cc4c50a"
+    },
+    "after-147:prompt": {
+      "src": "assets/audio/jessica-202.mp3?v=5dcc46051ff7"
+    },
+    "after-147:answer": {
+      "src": "assets/audio/jessica-203.mp3?v=1d7a8eedd992"
+    },
+    "after-148:prompt": {
+      "src": "assets/audio/jessica-204.mp3?v=333ccace29b8"
+    },
+    "after-148:answer": {
+      "src": "assets/audio/jessica-205.mp3?v=5ab85b0956a6"
+    },
+    "after-149:prompt": {
+      "src": "assets/audio/jessica-206.mp3?v=4daa02a2b58c"
+    },
+    "after-149:answer": {
+      "src": "assets/audio/jessica-207.mp3?v=1ca669227b14"
+    },
+    "after-150:prompt": {
+      "src": "assets/audio/jessica-208.mp3?v=5a0576995855"
+    },
+    "after-150:answer": {
+      "src": "assets/audio/jessica-209.mp3?v=69fecdf2ab31"
+    },
+    "after-151:prompt": {
+      "src": "assets/audio/jessica-210.mp3?v=f16882aa52a4"
+    },
+    "after-151:answer": {
+      "src": "assets/audio/jessica-211.mp3?v=90c5a33e4146"
+    },
+    "after-152:prompt": {
+      "src": "assets/audio/jessica-212.mp3?v=bcb10adc4a57"
+    },
+    "after-152:answer": {
+      "src": "assets/audio/jessica-213.mp3?v=e57f1d3866f4"
+    },
+    "after-153:prompt": {
+      "src": "assets/audio/jessica-214.mp3?v=4165a9b33ff5"
+    },
+    "after-153:answer": {
+      "src": "assets/audio/jessica-215.mp3?v=d5f7dd340e4f"
+    },
+    "after-155:prompt": {
+      "src": "assets/audio/jessica-216.mp3?v=3ed12c906975"
+    },
+    "after-155:answer": {
+      "src": "assets/audio/jessica-217.mp3?v=e7d7247444da"
+    },
+    "after-156:prompt": {
+      "src": "assets/audio/jessica-218.mp3?v=f1f466fc99df"
+    },
+    "after-156:answer": {
+      "src": "assets/audio/jessica-219.mp3?v=746b7a2739e6"
+    },
+    "after-157:prompt": {
+      "src": "assets/audio/jessica-220.mp3?v=5b2b5587eb04"
+    },
+    "after-157:answer": {
+      "src": "assets/audio/jessica-221.mp3?v=eac1df98501a"
+    },
+    "after-158:prompt": {
+      "src": "assets/audio/jessica-222.mp3?v=4def8c06762d"
+    },
+    "after-158:answer": {
+      "src": "assets/audio/jessica-223.mp3?v=819000d3cf4b"
+    },
+    "after-159:prompt": {
+      "src": "assets/audio/jessica-224.mp3?v=cc85b688c0f5"
+    },
+    "after-159:answer": {
+      "src": "assets/audio/jessica-225.mp3?v=3ee723446a7b"
+    },
+    "after-160:prompt": {
+      "src": "assets/audio/jessica-226.mp3?v=b2166ab58bdd"
+    },
+    "after-160:answer": {
+      "src": "assets/audio/jessica-227.mp3?v=c9845a03ba30"
+    },
+    "after-161:prompt": {
+      "src": "assets/audio/jessica-228.mp3?v=475f3ad00124"
+    },
+    "after-161:answer": {
+      "src": "assets/audio/jessica-229.mp3?v=0006771a7297"
+    },
+    "after-162:prompt": {
+      "src": "assets/audio/jessica-230.mp3?v=d7c820d7122c"
+    },
+    "after-162:answer": {
+      "src": "assets/audio/jessica-231.mp3?v=459eb1dee66b"
+    },
+    "after-163:prompt": {
+      "src": "assets/audio/jessica-232.mp3?v=2ec6863151aa"
+    },
+    "after-163:answer": {
+      "src": "assets/audio/jessica-233.mp3?v=33a15e10f0cc"
+    },
+    "after-164:prompt": {
+      "src": "assets/audio/jessica-234.mp3?v=5a53cd228603"
+    },
+    "after-164:answer": {
+      "src": "assets/audio/jessica-235.mp3?v=d8e83cfa7d1c"
+    },
+    "after-165:prompt": {
+      "src": "assets/audio/jessica-236.mp3?v=73faf5a40803"
+    },
+    "after-165:answer": {
+      "src": "assets/audio/jessica-237.mp3?v=3ad600e16101"
+    },
+    "after-166:prompt": {
+      "src": "assets/audio/jessica-238.mp3?v=43448d30a26c"
+    },
+    "after-166:answer": {
+      "src": "assets/audio/jessica-239.mp3?v=364a99ebd143"
+    },
+    "after-167:prompt": {
+      "src": "assets/audio/jessica-240.mp3?v=3bab99385533"
+    },
+    "after-167:answer": {
+      "src": "assets/audio/jessica-241.mp3?v=2b0338e931c0"
+    },
+    "after-168:prompt": {
+      "src": "assets/audio/jessica-242.mp3?v=557d66012a9e"
+    },
+    "after-168:answer": {
+      "src": "assets/audio/jessica-243.mp3?v=c5260c4c9790"
+    },
+    "after-169:prompt": {
+      "src": "assets/audio/jessica-244.mp3?v=bd2549ac2263"
+    },
+    "after-169:answer": {
+      "src": "assets/audio/jessica-245.mp3?v=62b6d70a783e"
+    },
+    "after-170:prompt": {
+      "src": "assets/audio/jessica-246.mp3?v=9a0f707f5626"
+    },
+    "after-170:answer": {
+      "src": "assets/audio/jessica-247.mp3?v=f8c65141ad3b"
+    },
+    "after-171:prompt": {
+      "src": "assets/audio/jessica-248.mp3?v=1906a97f2fd3"
+    },
+    "after-171:answer": {
+      "src": "assets/audio/jessica-249.mp3?v=b44aa877f862"
+    },
+    "after-172:prompt": {
+      "src": "assets/audio/jessica-250.mp3?v=b0e6d0064d7d"
+    },
+    "after-172:answer": {
+      "src": "assets/audio/jessica-251.mp3?v=2941ba76ad9f"
+    },
+    "after-173:prompt": {
+      "src": "assets/audio/jessica-252.mp3?v=6e995c99fd74"
+    },
+    "after-173:answer": {
+      "src": "assets/audio/jessica-253.mp3?v=a8742bc5c608"
+    },
+    "after-174:prompt": {
+      "src": "assets/audio/jessica-254.mp3?v=8ddb8fca48d5"
+    },
+    "after-174:answer": {
+      "src": "assets/audio/jessica-255.mp3?v=cd7852eaab1d"
+    },
+    "after-175:prompt": {
+      "src": "assets/audio/jessica-256.mp3?v=d8ca51cadee8"
+    },
+    "after-175:answer": {
+      "src": "assets/audio/jessica-257.mp3?v=b35e40f6f301"
+    },
+    "after-176:prompt": {
+      "src": "assets/audio/jessica-258.mp3?v=94309cb1b4b1"
+    },
+    "after-176:answer": {
+      "src": "assets/audio/jessica-259.mp3?v=70c6ec8b1245"
+    },
+    "after-177:prompt": {
+      "src": "assets/audio/jessica-260.mp3?v=d43507b6aaf7"
+    },
+    "after-177:answer": {
+      "src": "assets/audio/jessica-261.mp3?v=bb642c7055eb"
+    },
+    "after-178:prompt": {
+      "src": "assets/audio/jessica-262.mp3?v=f31d05131c98"
+    },
+    "after-178:answer": {
+      "src": "assets/audio/jessica-263.mp3?v=06c87e77a245"
+    },
+    "after-179:prompt": {
+      "src": "assets/audio/jessica-264.mp3?v=bf8a2189e179"
+    },
+    "after-179:answer": {
+      "src": "assets/audio/jessica-265.mp3?v=f8664aed7807"
+    },
+    "after-180:prompt": {
+      "src": "assets/audio/jessica-266.mp3?v=6f175390fc46"
+    },
+    "after-180:answer": {
+      "src": "assets/audio/jessica-267.mp3?v=64c0b726d0c9"
+    },
+    "after-181:prompt": {
+      "src": "assets/audio/jessica-268.mp3?v=522eeac94cb0"
+    },
+    "after-181:answer": {
+      "src": "assets/audio/jessica-269.mp3?v=c91e6b17d1e2"
+    },
+    "after-182:prompt": {
+      "src": "assets/audio/jessica-270.mp3?v=9d7b3b5a72a9"
+    },
+    "after-182:answer": {
+      "src": "assets/audio/jessica-271.mp3?v=2e886eaa0ed9"
+    },
+    "after-183:prompt": {
+      "src": "assets/audio/jessica-272.mp3?v=abfefd92a6b6"
+    },
+    "after-183:answer": {
+      "src": "assets/audio/jessica-273.mp3?v=7d509d55f94d"
+    },
+    "after-184:prompt": {
+      "src": "assets/audio/jessica-274.mp3?v=bbf55a90833d"
+    },
+    "after-184:answer": {
+      "src": "assets/audio/jessica-275.mp3?v=af57a685ec42"
+    },
+    "after-185:prompt": {
+      "src": "assets/audio/jessica-276.mp3?v=3fa9dba1ec1b"
+    },
+    "after-185:answer": {
+      "src": "assets/audio/jessica-277.mp3?v=7e16ca9c23f8"
+    },
+    "after-186:prompt": {
+      "src": "assets/audio/jessica-278.mp3?v=3c344a06b81d"
+    },
+    "after-186:answer": {
+      "src": "assets/audio/jessica-279.mp3?v=b1ba345ab897"
+    },
+    "after-187:prompt": {
+      "src": "assets/audio/jessica-280.mp3?v=7d0651503da7"
+    },
+    "after-187:answer": {
+      "src": "assets/audio/jessica-281.mp3?v=859d4ac6650a"
+    },
+    "after-188:prompt": {
+      "src": "assets/audio/jessica-282.mp3?v=a3f199989f34"
+    },
+    "after-188:answer": {
+      "src": "assets/audio/jessica-283.mp3?v=8a6d3b6c8f99"
+    },
+    "after-189:prompt": {
+      "src": "assets/audio/jessica-284.mp3?v=11cde22d68f9"
+    },
+    "after-189:answer": {
+      "src": "assets/audio/jessica-285.mp3?v=6cf7bc9c6caa"
+    },
+    "after-190:prompt": {
+      "src": "assets/audio/jessica-286.mp3?v=541026a45d0f"
+    },
+    "after-190:answer": {
+      "src": "assets/audio/jessica-287.mp3?v=b3f05cdbb274"
+    },
+    "after-191:prompt": {
+      "src": "assets/audio/jessica-288.mp3?v=0de5c5cf351c"
+    },
+    "after-191:answer": {
+      "src": "assets/audio/jessica-289.mp3?v=d3e3768ac5e6"
+    },
+    "after-192:prompt": {
+      "src": "assets/audio/jessica-290.mp3?v=a14430f2eeef"
+    },
+    "after-192:answer": {
+      "src": "assets/audio/jessica-291.mp3?v=1d0f2de24939"
+    },
+    "after-193:prompt": {
+      "src": "assets/audio/jessica-292.mp3?v=d79a6e2e6437"
+    },
+    "after-193:answer": {
+      "src": "assets/audio/jessica-293.mp3?v=7200cee3f25a"
+    },
+    "after-194:prompt": {
+      "src": "assets/audio/jessica-294.mp3?v=9a0132b302cf"
+    },
+    "after-194:answer": {
+      "src": "assets/audio/jessica-295.mp3?v=4dc2be1d008c"
+    },
+    "after-195:prompt": {
+      "src": "assets/audio/jessica-296.mp3?v=da33a162b127"
+    },
+    "after-195:answer": {
+      "src": "assets/audio/jessica-297.mp3?v=7764d2a48c61"
+    },
+    "after-196:prompt": {
+      "src": "assets/audio/jessica-298.mp3?v=f97f38158c38"
+    },
+    "after-196:answer": {
+      "src": "assets/audio/jessica-299.mp3?v=57f32a458c42"
+    },
+    "after-197:prompt": {
+      "src": "assets/audio/jessica-300.mp3?v=09884772f1f0"
+    },
+    "after-197:answer": {
+      "src": "assets/audio/jessica-301.mp3?v=ae56bd286e96"
+    },
+    "after-199:prompt": {
+      "src": "assets/audio/jessica-302.mp3?v=31f2f00d8674"
+    },
+    "after-199:answer": {
+      "src": "assets/audio/jessica-303.mp3?v=42bcfb240e6e"
+    },
+    "after-200:prompt": {
+      "src": "assets/audio/jessica-304.mp3?v=9055a12a9fdf"
+    },
+    "after-200:answer": {
+      "src": "assets/audio/jessica-305.mp3?v=7d459d762dfd"
+    },
+    "after-201:prompt": {
+      "src": "assets/audio/jessica-306.mp3?v=7d3099850212"
+    },
+    "after-201:answer": {
+      "src": "assets/audio/jessica-307.mp3?v=1e3e095b1b1f"
+    },
+    "after-202:prompt": {
+      "src": "assets/audio/jessica-308.mp3?v=4aa5f2db32fe"
+    },
+    "after-202:answer": {
+      "src": "assets/audio/jessica-309.mp3?v=5f512d54a5f9"
+    },
+    "after-203:prompt": {
+      "src": "assets/audio/jessica-310.mp3?v=19066dc06735"
+    },
+    "after-203:answer": {
+      "src": "assets/audio/jessica-311.mp3?v=e61030f278a6"
+    },
+    "after-204:prompt": {
+      "src": "assets/audio/jessica-312.mp3?v=29bbb254f4a4"
+    },
+    "after-204:answer": {
+      "src": "assets/audio/jessica-313.mp3?v=27f4991f3970"
+    },
+    "after-205:prompt": {
+      "src": "assets/audio/jessica-314.mp3?v=3f6906b48e65"
+    },
+    "after-205:answer": {
+      "src": "assets/audio/jessica-315.mp3?v=8582d89a7593"
+    },
+    "after-206:prompt": {
+      "src": "assets/audio/jessica-316.mp3?v=987fca027c4e"
+    },
+    "after-206:answer": {
+      "src": "assets/audio/jessica-317.mp3?v=a0ea3f9e323d"
+    },
+    "after-207:prompt": {
+      "src": "assets/audio/jessica-318.mp3?v=fea2c0d55b7a"
+    },
+    "after-207:answer": {
+      "src": "assets/audio/jessica-319.mp3?v=9fde489127d2"
+    },
+    "after-208:prompt": {
+      "src": "assets/audio/jessica-320.mp3?v=eb66e136f9ce"
+    },
+    "after-208:answer": {
+      "src": "assets/audio/jessica-321.mp3?v=4904839eb976"
+    },
+    "science-0:prompt": {
+      "src": "assets/audio/jessica-322.mp3?v=d7272dc6102a"
+    },
+    "science-0:answer": {
+      "src": "assets/audio/jessica-323.mp3?v=6b38d14e73e0"
+    },
+    "science-1:prompt": {
+      "src": "assets/audio/jessica-324.mp3?v=14003b4efdd2"
+    },
+    "science-1:answer": {
+      "src": "assets/audio/jessica-325.mp3?v=62ce53d0b77f"
+    },
+    "science-2:prompt": {
+      "src": "assets/audio/jessica-326.mp3?v=be53b77dd7ed"
+    },
+    "science-2:answer": {
+      "src": "assets/audio/jessica-327.mp3?v=deaddc36e76c"
+    },
+    "science-3:prompt": {
+      "src": "assets/audio/jessica-328.mp3?v=e512e8329c97"
+    },
+    "science-3:answer": {
+      "src": "assets/audio/jessica-329.mp3?v=6aa691d8adaf"
+    },
+    "science-4:prompt": {
+      "src": "assets/audio/jessica-330.mp3?v=62e67a59185b"
+    },
+    "science-4:answer": {
+      "src": "assets/audio/jessica-331.mp3?v=124cfbf20cbf"
+    },
+    "science-5:prompt": {
+      "src": "assets/audio/jessica-332.mp3?v=63403a42ae57"
+    },
+    "science-5:answer": {
+      "src": "assets/audio/jessica-333.mp3?v=1089e25f0e34"
+    },
+    "science-6:prompt": {
+      "src": "assets/audio/jessica-334.mp3?v=4fcc6306d758"
+    },
+    "science-6:answer": {
+      "src": "assets/audio/jessica-335.mp3?v=ab3bfca7c432"
+    },
+    "science-7:prompt": {
+      "src": "assets/audio/jessica-336.mp3?v=863c37e3ea61"
+    },
+    "science-7:answer": {
+      "src": "assets/audio/jessica-337.mp3?v=9f02c45bea6b"
+    },
+    "science-8:prompt": {
+      "src": "assets/audio/jessica-338.mp3?v=d484c588cac5"
+    },
+    "science-8:answer": {
+      "src": "assets/audio/jessica-339.mp3?v=12940369927e"
+    },
+    "science-9:prompt": {
+      "src": "assets/audio/jessica-340.mp3?v=827d03cd5fd2"
+    },
+    "science-9:answer": {
+      "src": "assets/audio/jessica-341.mp3?v=f80f45d8c4a0"
+    },
+    "science-10:prompt": {
+      "src": "assets/audio/jessica-342.mp3?v=18bfaef7d97c"
+    },
+    "science-10:answer": {
+      "src": "assets/audio/jessica-343.mp3?v=13ab6cb413f7"
+    },
+    "science-11:prompt": {
+      "src": "assets/audio/jessica-344.mp3?v=72da9308d36b"
+    },
+    "science-11:answer": {
+      "src": "assets/audio/jessica-345.mp3?v=0b88c87b4789"
+    },
+    "science-12:prompt": {
+      "src": "assets/audio/jessica-346.mp3?v=2c9184175974"
+    },
+    "science-12:answer": {
+      "src": "assets/audio/jessica-347.mp3?v=c84f394deb04"
+    },
+    "science-13:prompt": {
+      "src": "assets/audio/jessica-348.mp3?v=59d0e1b1f251"
+    },
+    "science-13:answer": {
+      "src": "assets/audio/jessica-349.mp3?v=2275248fb659"
+    },
+    "science-13-part-head:prompt": {
+      "src": "assets/audio/jessica-350.mp3?v=d37ac5f28329"
+    },
+    "science-13-part-antenna:prompt": {
+      "src": "assets/audio/jessica-350.mp3?v=d37ac5f28329"
+    },
+    "science-13-part-thorax:prompt": {
+      "src": "assets/audio/jessica-350.mp3?v=d37ac5f28329"
+    },
+    "science-13-part-leg:prompt": {
+      "src": "assets/audio/jessica-350.mp3?v=d37ac5f28329"
+    },
+    "science-13-part-wing:prompt": {
+      "src": "assets/audio/jessica-350.mp3?v=d37ac5f28329"
+    },
+    "science-13-part-eye:prompt": {
+      "src": "assets/audio/jessica-350.mp3?v=d37ac5f28329"
+    },
+    "science-13-part-mouth:prompt": {
+      "src": "assets/audio/jessica-350.mp3?v=d37ac5f28329"
+    },
+    "science-13-part-abdomen:prompt": {
+      "src": "assets/audio/jessica-350.mp3?v=d37ac5f28329"
+    },
+    "science-13-part-head:answer": {
+      "src": "assets/audio/jessica-351.mp3?v=44f0adfdcb61"
+    },
+    "science-14-part-head:answer": {
+      "src": "assets/audio/jessica-351.mp3?v=44f0adfdcb61"
+    },
+    "science-13:part:head": {
+      "src": "assets/audio/jessica-351.mp3?v=44f0adfdcb61"
+    },
+    "science-14:part:head": {
+      "src": "assets/audio/jessica-351.mp3?v=44f0adfdcb61"
+    },
+    "science-13-part-antenna:answer": {
+      "src": "assets/audio/jessica-352.mp3?v=85306717d712"
+    },
+    "science-14-part-antenna:answer": {
+      "src": "assets/audio/jessica-352.mp3?v=85306717d712"
+    },
+    "science-13:part:antenna": {
+      "src": "assets/audio/jessica-352.mp3?v=85306717d712"
+    },
+    "science-14:part:antenna": {
+      "src": "assets/audio/jessica-352.mp3?v=85306717d712"
+    },
+    "science-13-part-thorax:answer": {
+      "src": "assets/audio/jessica-353.mp3?v=2fa9d564117d"
+    },
+    "science-14-part-thorax:answer": {
+      "src": "assets/audio/jessica-353.mp3?v=2fa9d564117d"
+    },
+    "science-13:part:thorax": {
+      "src": "assets/audio/jessica-353.mp3?v=2fa9d564117d"
+    },
+    "science-14:part:thorax": {
+      "src": "assets/audio/jessica-353.mp3?v=2fa9d564117d"
+    },
+    "science-13-part-leg:answer": {
+      "src": "assets/audio/jessica-354.mp3?v=fb6f33a2c2c3"
+    },
+    "science-14-part-leg:answer": {
+      "src": "assets/audio/jessica-354.mp3?v=fb6f33a2c2c3"
+    },
+    "science-13:part:leg": {
+      "src": "assets/audio/jessica-354.mp3?v=fb6f33a2c2c3"
+    },
+    "science-14:part:leg": {
+      "src": "assets/audio/jessica-354.mp3?v=fb6f33a2c2c3"
+    },
+    "science-13-part-wing:answer": {
+      "src": "assets/audio/jessica-355.mp3?v=59269c04f981"
+    },
+    "science-14-part-wing:answer": {
+      "src": "assets/audio/jessica-355.mp3?v=59269c04f981"
+    },
+    "science-13:part:wing": {
+      "src": "assets/audio/jessica-355.mp3?v=59269c04f981"
+    },
+    "science-14:part:wing": {
+      "src": "assets/audio/jessica-355.mp3?v=59269c04f981"
+    },
+    "science-13-part-eye:answer": {
+      "src": "assets/audio/jessica-356.mp3?v=3ac1649d5db1"
+    },
+    "science-14-part-eye:answer": {
+      "src": "assets/audio/jessica-356.mp3?v=3ac1649d5db1"
+    },
+    "science-13:part:eye": {
+      "src": "assets/audio/jessica-356.mp3?v=3ac1649d5db1"
+    },
+    "science-14:part:eye": {
+      "src": "assets/audio/jessica-356.mp3?v=3ac1649d5db1"
+    },
+    "science-13-part-mouth:answer": {
+      "src": "assets/audio/jessica-357.mp3?v=2662b0d0e406"
+    },
+    "science-13:part:mouth": {
+      "src": "assets/audio/jessica-357.mp3?v=2662b0d0e406"
+    },
+    "science-13-part-abdomen:answer": {
+      "src": "assets/audio/jessica-358.mp3?v=db4f8501e3f1"
+    },
+    "science-14-part-abdomen:answer": {
+      "src": "assets/audio/jessica-358.mp3?v=db4f8501e3f1"
+    },
+    "science-13:part:abdomen": {
+      "src": "assets/audio/jessica-358.mp3?v=db4f8501e3f1"
+    },
+    "science-14:part:abdomen": {
+      "src": "assets/audio/jessica-358.mp3?v=db4f8501e3f1"
+    },
+    "science-14:prompt": {
+      "src": "assets/audio/jessica-359.mp3?v=53ca0cf6ff91"
+    },
+    "science-14:answer": {
+      "src": "assets/audio/jessica-360.mp3?v=6a7e7680e569"
+    },
+    "science-14-part-head:prompt": {
+      "src": "assets/audio/jessica-361.mp3?v=af91b6c8179f"
+    },
+    "science-14-part-eye:prompt": {
+      "src": "assets/audio/jessica-361.mp3?v=af91b6c8179f"
+    },
+    "science-14-part-antenna:prompt": {
+      "src": "assets/audio/jessica-361.mp3?v=af91b6c8179f"
+    },
+    "science-14-part-leg:prompt": {
+      "src": "assets/audio/jessica-361.mp3?v=af91b6c8179f"
+    },
+    "science-14-part-thorax:prompt": {
+      "src": "assets/audio/jessica-361.mp3?v=af91b6c8179f"
+    },
+    "science-14-part-wing:prompt": {
+      "src": "assets/audio/jessica-361.mp3?v=af91b6c8179f"
+    },
+    "science-14-part-proboscis:prompt": {
+      "src": "assets/audio/jessica-361.mp3?v=af91b6c8179f"
+    },
+    "science-14-part-abdomen:prompt": {
+      "src": "assets/audio/jessica-361.mp3?v=af91b6c8179f"
+    },
+    "science-14-part-proboscis:answer": {
+      "src": "assets/audio/jessica-362.mp3?v=a024b122b2ee"
+    },
+    "science-14:part:proboscis": {
+      "src": "assets/audio/jessica-362.mp3?v=a024b122b2ee"
+    },
+    "science-15:prompt": {
+      "src": "assets/audio/jessica-363.mp3?v=7964adbb6375"
+    },
+    "science-15:answer": {
+      "src": "assets/audio/jessica-364.mp3?v=f7b677c89002"
+    },
+    "science-16:prompt": {
+      "src": "assets/audio/jessica-365.mp3?v=c6a00155d131"
+    },
+    "science-16:answer": {
+      "src": "assets/audio/jessica-366.mp3?v=a5ec2f49842b"
+    },
+    "science-17:prompt": {
+      "src": "assets/audio/jessica-367.mp3?v=cd3c28b7f905"
+    },
+    "science-17:answer": {
+      "src": "assets/audio/jessica-368.mp3?v=637115ab3420"
+    },
+    "neighbors-all:prompt": {
+      "src": "assets/audio/jessica-369.mp3?v=a24410996d5e"
+    },
+    "neighbors-all:answer": {
+      "src": "assets/audio/jessica-370.mp3?v=3af22fac1353"
+    },
+    "neighbors-0:prompt": {
+      "src": "assets/audio/jessica-371.mp3?v=ae0e05a04629"
+    },
+    "neighbors-1:prompt": {
+      "src": "assets/audio/jessica-371.mp3?v=ae0e05a04629"
+    },
+    "neighbors-2:prompt": {
+      "src": "assets/audio/jessica-371.mp3?v=ae0e05a04629"
+    },
+    "neighbors-0:answer": {
+      "src": "assets/audio/jessica-372.mp3?v=5e0ab3de05ae"
+    },
+    "neighbors-1:answer": {
+      "src": "assets/audio/jessica-373.mp3?v=8aec73aee921"
+    },
+    "neighbors-2:answer": {
+      "src": "assets/audio/jessica-374.mp3?v=20f8e04373a7"
+    },
+    "ethics-0:prompt": {
+      "src": "assets/audio/jessica-375.mp3?v=b3887df84be8"
+    },
+    "ethics-0:answer": {
+      "src": "assets/audio/jessica-376.mp3?v=e84b2c587d8c"
+    },
+    "ethics-1:prompt": {
+      "src": "assets/audio/jessica-377.mp3?v=6db9a536bbb0"
+    },
+    "ethics-1:answer": {
+      "src": "assets/audio/jessica-378.mp3?v=ec02bb6c87e5"
+    },
+    "ethics-3:answer": {
+      "src": "assets/audio/jessica-378.mp3?v=ec02bb6c87e5"
+    },
+    "ethics-5:answer": {
+      "src": "assets/audio/jessica-378.mp3?v=ec02bb6c87e5"
+    },
+    "ethics-7:answer": {
+      "src": "assets/audio/jessica-378.mp3?v=ec02bb6c87e5"
+    },
+    "ethics-2:prompt": {
+      "src": "assets/audio/jessica-379.mp3?v=3dff6f68bcbe"
+    },
+    "ethics-2:answer": {
+      "src": "assets/audio/jessica-380.mp3?v=bb7d4e58d2c3"
+    },
+    "ethics-3:prompt": {
+      "src": "assets/audio/jessica-381.mp3?v=7ad550fda8f3"
+    },
+    "ethics-4:prompt": {
+      "src": "assets/audio/jessica-382.mp3?v=c4ed0de47d0c"
+    },
+    "ethics-4:answer": {
+      "src": "assets/audio/jessica-383.mp3?v=0a3003b92327"
+    },
+    "ethics-5:prompt": {
+      "src": "assets/audio/jessica-384.mp3?v=e5d4a8798169"
+    },
+    "ethics-6:prompt": {
+      "src": "assets/audio/jessica-385.mp3?v=960cb9fc61c4"
+    },
+    "ethics-6:answer": {
+      "src": "assets/audio/jessica-386.mp3?v=09f4881c96fb"
+    },
+    "ethics-7:prompt": {
+      "src": "assets/audio/jessica-387.mp3?v=e86ccdddff2d"
+    },
+    "prayer-catholic-0:prompt": {
+      "src": "assets/audio/jessica-388.mp3?v=34cb7235ca67"
+    },
+    "prayer-nonCatholic-0:prompt": {
+      "src": "assets/audio/jessica-388.mp3?v=34cb7235ca67"
+    },
+    "prayer-catholic-1:prompt": {
+      "src": "assets/audio/jessica-390.mp3?v=000406133638"
+    },
+    "prayer-nonCatholic-1:prompt": {
+      "src": "assets/audio/jessica-390.mp3?v=000406133638"
+    },
+    "prayer-catholic-2:prompt": {
+      "src": "assets/audio/jessica-392.mp3?v=db9372b982ec"
+    },
+    "prayer-nonCatholic-2:prompt": {
+      "src": "assets/audio/jessica-392.mp3?v=db9372b982ec"
+    },
+    "prayer-catholic-3:prompt": {
+      "src": "assets/audio/jessica-394.mp3?v=8658a7cd014f"
+    },
+    "prayer-nonCatholic-3:prompt": {
+      "src": "assets/audio/jessica-394.mp3?v=8658a7cd014f"
+    },
+    "prayer-catholic-4:prompt": {
+      "src": "assets/audio/jessica-396.mp3?v=c533946bed65"
+    },
+    "prayer-nonCatholic-4:prompt": {
+      "src": "assets/audio/jessica-396.mp3?v=c533946bed65"
+    },
+    "prayer-catholic-5:prompt": {
+      "src": "assets/audio/jessica-398.mp3?v=e7390d232c8e"
+    },
+    "prayer-nonCatholic-5:prompt": {
+      "src": "assets/audio/jessica-398.mp3?v=e7390d232c8e"
+    },
+    "prayer-catholic-6:prompt": {
+      "src": "assets/audio/jessica-400.mp3?v=776d0c362c4c"
+    },
+    "prayer-nonCatholic-6:prompt": {
+      "src": "assets/audio/jessica-400.mp3?v=776d0c362c4c"
+    },
+    "prayer-catholic-7:prompt": {
+      "src": "assets/audio/jessica-402.mp3?v=86f5d0b84a65"
+    },
+    "prayer-nonCatholic-7:prompt": {
+      "src": "assets/audio/jessica-402.mp3?v=86f5d0b84a65"
+    },
+    "prayer-catholic-8:prompt": {
+      "src": "assets/audio/jessica-404.mp3?v=75145aa64ba2"
+    },
+    "prayer-nonCatholic-8:prompt": {
+      "src": "assets/audio/jessica-404.mp3?v=75145aa64ba2"
+    },
+    "prayer-catholic-9:prompt": {
+      "src": "assets/audio/jessica-406.mp3?v=809f31a9a0de"
+    },
+    "prayer-nonCatholic-9:prompt": {
+      "src": "assets/audio/jessica-406.mp3?v=809f31a9a0de"
+    },
+    "prayer-catholic-10:prompt": {
+      "src": "assets/audio/jessica-408.mp3?v=bf2007a93ad0"
+    },
+    "prayer-nonCatholic-10:prompt": {
+      "src": "assets/audio/jessica-408.mp3?v=bf2007a93ad0"
+    },
+    "prayer-catholic-11:prompt": {
+      "src": "assets/audio/jessica-410.mp3?v=f6ae7b7a6f21"
+    },
+    "prayer-nonCatholic-11:prompt": {
+      "src": "assets/audio/jessica-410.mp3?v=f6ae7b7a6f21"
+    },
+    "prayer-catholic-12:prompt": {
+      "src": "assets/audio/jessica-412.mp3?v=c175c077aead"
+    },
+    "prayer-nonCatholic-12:prompt": {
+      "src": "assets/audio/jessica-412.mp3?v=c175c077aead"
+    },
+    "prayer-catholic-full:prompt": {
+      "src": "assets/audio/jessica-414.mp3?v=66ce614208d8"
+    },
+    "prayer-catholic-build-2:prompt": {
+      "src": "assets/audio/jessica-416.mp3?v=7da1e4721fe2"
+    },
+    "prayer-nonCatholic-build-2:prompt": {
+      "src": "assets/audio/jessica-416.mp3?v=7da1e4721fe2"
+    },
+    "prayer-catholic-build-4:prompt": {
+      "src": "assets/audio/jessica-418.mp3?v=915b681f87b5"
+    },
+    "prayer-nonCatholic-build-4:prompt": {
+      "src": "assets/audio/jessica-418.mp3?v=915b681f87b5"
+    },
+    "prayer-catholic-build-6:prompt": {
+      "src": "assets/audio/jessica-420.mp3?v=f754a454250f"
+    },
+    "prayer-nonCatholic-build-6:prompt": {
+      "src": "assets/audio/jessica-420.mp3?v=f754a454250f"
+    },
+    "prayer-catholic-build-8:prompt": {
+      "src": "assets/audio/jessica-422.mp3?v=274a863aa356"
+    },
+    "prayer-nonCatholic-build-8:prompt": {
+      "src": "assets/audio/jessica-422.mp3?v=274a863aa356"
+    },
+    "prayer-catholic-build-10:prompt": {
+      "src": "assets/audio/jessica-424.mp3?v=9875b02ba3c1"
+    },
+    "prayer-nonCatholic-build-10:prompt": {
+      "src": "assets/audio/jessica-424.mp3?v=9875b02ba3c1"
+    },
+    "prayer-catholic-build-13:prompt": {
+      "src": "assets/audio/jessica-426.mp3?v=43cd6365d6a0"
+    },
+    "prayer-nonCatholic-build-13:prompt": {
+      "src": "assets/audio/jessica-426.mp3?v=43cd6365d6a0"
+    },
+    "bible-0:prompt": {
+      "src": "assets/audio/jessica-427.mp3?v=58a5c815ab43"
+    },
+    "bible-0:answer": {
+      "src": "assets/audio/jessica-428.mp3?v=391c1aab14ca"
+    },
+    "bible-1-catholic:prompt": {
+      "src": "assets/audio/jessica-429.mp3?v=bc6f2499074b"
+    },
+    "bible-1-nonCatholic:prompt": {
+      "src": "assets/audio/jessica-429.mp3?v=bc6f2499074b"
+    },
+    "bible-1-catholic:answer": {
+      "src": "assets/audio/jessica-430.mp3?v=21ef722c7bbf"
+    },
+    "bible-2:prompt": {
+      "src": "assets/audio/jessica-431.mp3?v=ceb35d616e9c"
+    },
+    "bible-2:answer": {
+      "src": "assets/audio/jessica-432.mp3?v=0c29eb3ed1c0"
+    },
+    "bible-3:prompt": {
+      "src": "assets/audio/jessica-433.mp3?v=8d1ac2973154"
+    },
+    "bible-3:answer": {
+      "src": "assets/audio/jessica-434.mp3?v=4c7b64c078d3"
+    },
+    "bible-4:prompt": {
+      "src": "assets/audio/jessica-435.mp3?v=7f450d1b096d"
+    },
+    "bible-4:answer": {
+      "src": "assets/audio/jessica-436.mp3?v=7b46fa3c4b0a"
+    },
+    "german-0:prompt": {
+      "src": "assets/audio/jessica-437.mp3?v=c74b5f3b8638"
+    },
+    "german-0:answer": {
+      "src": "assets/audio/jessica-438.mp3?v=35e56b967b8d"
+    },
+    "german-1:prompt": {
+      "src": "assets/audio/jessica-439.mp3?v=0d9f3a00a7ec"
+    },
+    "german-1:answer": {
+      "src": "assets/audio/jessica-440.mp3?v=260966957a68"
+    },
+    "german-2:prompt": {
+      "src": "assets/audio/jessica-441.mp3?v=cd92d4196c80"
+    },
+    "german-2:answer": {
+      "src": "assets/audio/jessica-442.mp3?v=f2ac4ca19fe7"
+    },
+    "german-3:prompt": {
+      "src": "assets/audio/jessica-443.mp3?v=f6a056fe2473"
+    },
+    "german-3:answer": {
+      "src": "assets/audio/jessica-444.mp3?v=325e35dd2e14"
+    },
+    "german-4:prompt": {
+      "src": "assets/audio/jessica-445.mp3?v=c94631468b1d"
+    },
+    "german-4:answer": {
+      "src": "assets/audio/jessica-446.mp3?v=9fa30d991c58"
+    },
+    "german-5:prompt": {
+      "src": "assets/audio/jessica-447.mp3?v=e223982e5a94"
+    },
+    "german-5:answer": {
+      "src": "assets/audio/jessica-448.mp3?v=26233e45542d"
+    },
+    "german-6:prompt": {
+      "src": "assets/audio/jessica-449.mp3?v=7e5a7baa94e9"
+    },
+    "german-6:answer": {
+      "src": "assets/audio/jessica-450.mp3?v=1648003cdf37"
+    },
+    "shape-0:prompt": {
+      "src": "assets/audio/jessica-451.mp3?v=b1d77b307cbf"
+    },
+    "shape-1:prompt": {
+      "src": "assets/audio/jessica-451.mp3?v=b1d77b307cbf"
+    },
+    "shape-2:prompt": {
+      "src": "assets/audio/jessica-451.mp3?v=b1d77b307cbf"
+    },
+    "shape-3:prompt": {
+      "src": "assets/audio/jessica-451.mp3?v=b1d77b307cbf"
+    },
+    "shape-4:prompt": {
+      "src": "assets/audio/jessica-451.mp3?v=b1d77b307cbf"
+    },
+    "shape-5:prompt": {
+      "src": "assets/audio/jessica-451.mp3?v=b1d77b307cbf"
+    },
+    "shape-6:prompt": {
+      "src": "assets/audio/jessica-451.mp3?v=b1d77b307cbf"
+    },
+    "shape-7:prompt": {
+      "src": "assets/audio/jessica-451.mp3?v=b1d77b307cbf"
+    },
+    "shape-0:answer": {
+      "src": "assets/audio/jessica-452.mp3?v=d5e66e326d2c"
+    },
+    "shape-1:answer": {
+      "src": "assets/audio/jessica-453.mp3?v=989322b8e44f"
+    },
+    "shape-2:answer": {
+      "src": "assets/audio/jessica-454.mp3?v=8c58a65543b2"
+    },
+    "shape-3:answer": {
+      "src": "assets/audio/jessica-455.mp3?v=70a74a1a71af"
+    },
+    "shape-4:answer": {
+      "src": "assets/audio/jessica-456.mp3?v=6b2da3d154ea"
+    },
+    "shape-5:answer": {
+      "src": "assets/audio/jessica-457.mp3?v=41cbcf397ad5"
+    },
+    "shape-6:answer": {
+      "src": "assets/audio/jessica-458.mp3?v=dccad953d57c"
+    },
+    "shape-7:answer": {
+      "src": "assets/audio/jessica-459.mp3?v=d9efb3b83b5e"
+    },
+    "fil-number-0:prompt": {
+      "src": "assets/audio/jessica-460.mp3?v=f244e097f463"
+    },
+    "fil-number-1:prompt": {
+      "src": "assets/audio/jessica-460.mp3?v=f244e097f463"
+    },
+    "fil-number-2:prompt": {
+      "src": "assets/audio/jessica-460.mp3?v=f244e097f463"
+    },
+    "fil-number-3:prompt": {
+      "src": "assets/audio/jessica-460.mp3?v=f244e097f463"
+    },
+    "fil-number-4:prompt": {
+      "src": "assets/audio/jessica-460.mp3?v=f244e097f463"
+    },
+    "fil-number-5:prompt": {
+      "src": "assets/audio/jessica-460.mp3?v=f244e097f463"
+    },
+    "fil-number-6:prompt": {
+      "src": "assets/audio/jessica-460.mp3?v=f244e097f463"
+    },
+    "fil-number-7:prompt": {
+      "src": "assets/audio/jessica-460.mp3?v=f244e097f463"
+    },
+    "fil-number-8:prompt": {
+      "src": "assets/audio/jessica-460.mp3?v=f244e097f463"
+    },
+    "fil-number-9:prompt": {
+      "src": "assets/audio/jessica-460.mp3?v=f244e097f463"
+    },
+    "fil-number-0:answer": {
+      "src": "assets/audio/jessica-461.mp3?v=c7cb493ab721"
+    },
+    "fil-number-1:answer": {
+      "src": "assets/audio/jessica-462.mp3?v=627110e80956"
+    },
+    "fil-number-2:answer": {
+      "src": "assets/audio/jessica-463.mp3?v=76ecd73ffbf6"
+    },
+    "fil-number-3:answer": {
+      "src": "assets/audio/jessica-464.mp3?v=310e2db491ff"
+    },
+    "fil-number-4:answer": {
+      "src": "assets/audio/jessica-465.mp3?v=2d2a3f4fd9c8"
+    },
+    "fil-number-5:answer": {
+      "src": "assets/audio/jessica-466.mp3?v=d2fb4bc3e4eb"
+    },
+    "fil-number-6:answer": {
+      "src": "assets/audio/jessica-467.mp3?v=bf94804c3f10"
+    },
+    "fil-number-7:answer": {
+      "src": "assets/audio/jessica-468.mp3?v=12e179df5eb2"
+    },
+    "fil-number-8:answer": {
+      "src": "assets/audio/jessica-469.mp3?v=42068c0c2252"
+    },
+    "fil-number-9:answer": {
+      "src": "assets/audio/jessica-470.mp3?v=04d48b0a3c5c"
+    },
+    "animal-0:prompt": {
+      "src": "assets/audio/jessica-471.mp3?v=d49e824356be"
+    },
+    "animal-1:prompt": {
+      "src": "assets/audio/jessica-471.mp3?v=d49e824356be"
+    },
+    "animal-2:prompt": {
+      "src": "assets/audio/jessica-471.mp3?v=d49e824356be"
+    },
+    "animal-3:prompt": {
+      "src": "assets/audio/jessica-471.mp3?v=d49e824356be"
+    },
+    "animal-4:prompt": {
+      "src": "assets/audio/jessica-471.mp3?v=d49e824356be"
+    },
+    "animal-5:prompt": {
+      "src": "assets/audio/jessica-471.mp3?v=d49e824356be"
+    },
+    "animal-6:prompt": {
+      "src": "assets/audio/jessica-471.mp3?v=d49e824356be"
+    },
+    "animal-7:prompt": {
+      "src": "assets/audio/jessica-471.mp3?v=d49e824356be"
+    },
+    "animal-8:prompt": {
+      "src": "assets/audio/jessica-471.mp3?v=d49e824356be"
+    },
+    "animal-9:prompt": {
+      "src": "assets/audio/jessica-471.mp3?v=d49e824356be"
+    },
+    "animal-10:prompt": {
+      "src": "assets/audio/jessica-471.mp3?v=d49e824356be"
+    },
+    "animal-11:prompt": {
+      "src": "assets/audio/jessica-471.mp3?v=d49e824356be"
+    },
+    "animal-12:prompt": {
+      "src": "assets/audio/jessica-471.mp3?v=d49e824356be"
+    },
+    "animal-13:prompt": {
+      "src": "assets/audio/jessica-471.mp3?v=d49e824356be"
+    },
+    "animal-14:prompt": {
+      "src": "assets/audio/jessica-471.mp3?v=d49e824356be"
+    },
+    "animal-15:prompt": {
+      "src": "assets/audio/jessica-471.mp3?v=d49e824356be"
+    },
+    "animal-16:prompt": {
+      "src": "assets/audio/jessica-471.mp3?v=d49e824356be"
+    },
+    "animal-17:prompt": {
+      "src": "assets/audio/jessica-471.mp3?v=d49e824356be"
+    },
+    "animal-18:prompt": {
+      "src": "assets/audio/jessica-471.mp3?v=d49e824356be"
+    },
+    "animal-0:answer": {
+      "src": "assets/audio/jessica-472.mp3?v=34917c92cefb"
+    },
+    "animal-1:answer": {
+      "src": "assets/audio/jessica-473.mp3?v=6b7ed69b7b09"
+    },
+    "animal-2:answer": {
+      "src": "assets/audio/jessica-474.mp3?v=e6940ec540af"
+    },
+    "animal-3:answer": {
+      "src": "assets/audio/jessica-475.mp3?v=14b6c0bf3988"
+    },
+    "animal-4:answer": {
+      "src": "assets/audio/jessica-476.mp3?v=cf32a991374b"
+    },
+    "animal-5:answer": {
+      "src": "assets/audio/jessica-477.mp3?v=225370eadb3b"
+    },
+    "animal-6:answer": {
+      "src": "assets/audio/jessica-478.mp3?v=bc6daca5bf30"
+    },
+    "animal-7:answer": {
+      "src": "assets/audio/jessica-479.mp3?v=ca58c7a06c6a"
+    },
+    "animal-8:answer": {
+      "src": "assets/audio/jessica-480.mp3?v=be817dd488f5"
+    },
+    "animal-9:answer": {
+      "src": "assets/audio/jessica-481.mp3?v=b5b0a7fb7b4d"
+    },
+    "animal-10:answer": {
+      "src": "assets/audio/jessica-482.mp3?v=156a0e040cdc"
+    },
+    "animal-11:answer": {
+      "src": "assets/audio/jessica-483.mp3?v=54b19868397b"
+    },
+    "animal-12:answer": {
+      "src": "assets/audio/jessica-484.mp3?v=4f0f0d3fb013"
+    },
+    "animal-13:answer": {
+      "src": "assets/audio/jessica-485.mp3?v=75ec9f9b54fb"
+    },
+    "animal-14:answer": {
+      "src": "assets/audio/jessica-486.mp3?v=66b3b3e48a50"
+    },
+    "animal-15:answer": {
+      "src": "assets/audio/jessica-487.mp3?v=86b4dba838c0"
+    },
+    "animal-16:answer": {
+      "src": "assets/audio/jessica-488.mp3?v=54db3c90f9a0"
+    },
+    "animal-17:answer": {
+      "src": "assets/audio/jessica-489.mp3?v=b35607b5bb1a"
+    },
+    "animal-18:answer": {
+      "src": "assets/audio/jessica-490.mp3?v=ee89e84c9631"
+    },
+    "prayer-nonCatholic-0:answer": {
+      "src": "assets/audio/jessica-491.mp3?v=0af8ca339579"
+    },
+    "prayer-nonCatholic-1:answer": {
+      "src": "assets/audio/jessica-492.mp3?v=9dc5b7276639"
+    },
+    "prayer-nonCatholic-2:answer": {
+      "src": "assets/audio/jessica-493.mp3?v=55023f33b2dd"
+    },
+    "prayer-nonCatholic-3:answer": {
+      "src": "assets/audio/jessica-494.mp3?v=1efc2c5ab740"
+    },
+    "prayer-nonCatholic-4:answer": {
+      "src": "assets/audio/jessica-495.mp3?v=1be96f2372cc"
+    },
+    "prayer-nonCatholic-5:answer": {
+      "src": "assets/audio/jessica-496.mp3?v=e94501abc517"
+    },
+    "prayer-nonCatholic-6:answer": {
+      "src": "assets/audio/jessica-497.mp3?v=756525ff86a1"
+    },
+    "prayer-nonCatholic-7:answer": {
+      "src": "assets/audio/jessica-498.mp3?v=1303b22e4fbf"
+    },
+    "prayer-nonCatholic-8:answer": {
+      "src": "assets/audio/jessica-499.mp3?v=5b87089f655a"
+    },
+    "prayer-nonCatholic-9:answer": {
+      "src": "assets/audio/jessica-500.mp3?v=a8544e95387e"
+    },
+    "prayer-nonCatholic-10:answer": {
+      "src": "assets/audio/jessica-501.mp3?v=ba0b432744ad"
+    },
+    "prayer-nonCatholic-11:answer": {
+      "src": "assets/audio/jessica-502.mp3?v=dbe3ab5931d3"
+    },
+    "prayer-nonCatholic-12:answer": {
+      "src": "assets/audio/jessica-503.mp3?v=e3111818bbb9"
+    },
+    "prayer-nonCatholic-full:prompt": {
+      "src": "assets/audio/jessica-504.mp3?v=584bad07b64e"
+    },
+    "prayer-nonCatholic-full:answer": {
+      "src": "assets/audio/jessica-505.mp3?v=b579bd10f8a8"
+    },
+    "prayer-nonCatholic-build-13:answer": {
+      "src": "assets/audio/jessica-505.mp3?v=b579bd10f8a8"
+    },
+    "prayer-nonCatholic-build-2:answer": {
+      "src": "assets/audio/jessica-506.mp3?v=a68931abc803"
+    },
+    "prayer-nonCatholic-build-4:answer": {
+      "src": "assets/audio/jessica-507.mp3?v=d626a35d887d"
+    },
+    "prayer-nonCatholic-build-6:answer": {
+      "src": "assets/audio/jessica-508.mp3?v=806a487d2ec9"
+    },
+    "prayer-nonCatholic-build-8:answer": {
+      "src": "assets/audio/jessica-509.mp3?v=a0d0ed570cc4"
+    },
+    "prayer-nonCatholic-build-10:answer": {
+      "src": "assets/audio/jessica-510.mp3?v=c559829aaa1c"
+    },
+    "bible-1-nonCatholic:answer": {
+      "src": "assets/audio/jessica-511.mp3?v=fa2ccf6ba982"
+    },
+    "science-13-part-head:part:head": {
+      "src": "assets/audio/jessica-351.mp3?v=44f0adfdcb61"
+    },
+    "science-13-part-head:part:antenna": {
+      "src": "assets/audio/jessica-352.mp3?v=85306717d712"
+    },
+    "science-13-part-head:part:thorax": {
+      "src": "assets/audio/jessica-353.mp3?v=2fa9d564117d"
+    },
+    "science-13-part-head:part:leg": {
+      "src": "assets/audio/jessica-354.mp3?v=fb6f33a2c2c3"
+    },
+    "science-13-part-head:part:wing": {
+      "src": "assets/audio/jessica-355.mp3?v=59269c04f981"
+    },
+    "science-13-part-head:part:eye": {
+      "src": "assets/audio/jessica-356.mp3?v=3ac1649d5db1"
+    },
+    "science-13-part-head:part:mouth": {
+      "src": "assets/audio/jessica-357.mp3?v=2662b0d0e406"
+    },
+    "science-13-part-head:part:abdomen": {
+      "src": "assets/audio/jessica-358.mp3?v=db4f8501e3f1"
+    },
+    "science-13-part-antenna:part:head": {
+      "src": "assets/audio/jessica-351.mp3?v=44f0adfdcb61"
+    },
+    "science-13-part-antenna:part:antenna": {
+      "src": "assets/audio/jessica-352.mp3?v=85306717d712"
+    },
+    "science-13-part-antenna:part:thorax": {
+      "src": "assets/audio/jessica-353.mp3?v=2fa9d564117d"
+    },
+    "science-13-part-antenna:part:leg": {
+      "src": "assets/audio/jessica-354.mp3?v=fb6f33a2c2c3"
+    },
+    "science-13-part-antenna:part:wing": {
+      "src": "assets/audio/jessica-355.mp3?v=59269c04f981"
+    },
+    "science-13-part-antenna:part:eye": {
+      "src": "assets/audio/jessica-356.mp3?v=3ac1649d5db1"
+    },
+    "science-13-part-antenna:part:mouth": {
+      "src": "assets/audio/jessica-357.mp3?v=2662b0d0e406"
+    },
+    "science-13-part-antenna:part:abdomen": {
+      "src": "assets/audio/jessica-358.mp3?v=db4f8501e3f1"
+    },
+    "science-13-part-thorax:part:head": {
+      "src": "assets/audio/jessica-351.mp3?v=44f0adfdcb61"
+    },
+    "science-13-part-thorax:part:antenna": {
+      "src": "assets/audio/jessica-352.mp3?v=85306717d712"
+    },
+    "science-13-part-thorax:part:thorax": {
+      "src": "assets/audio/jessica-353.mp3?v=2fa9d564117d"
+    },
+    "science-13-part-thorax:part:leg": {
+      "src": "assets/audio/jessica-354.mp3?v=fb6f33a2c2c3"
+    },
+    "science-13-part-thorax:part:wing": {
+      "src": "assets/audio/jessica-355.mp3?v=59269c04f981"
+    },
+    "science-13-part-thorax:part:eye": {
+      "src": "assets/audio/jessica-356.mp3?v=3ac1649d5db1"
+    },
+    "science-13-part-thorax:part:mouth": {
+      "src": "assets/audio/jessica-357.mp3?v=2662b0d0e406"
+    },
+    "science-13-part-thorax:part:abdomen": {
+      "src": "assets/audio/jessica-358.mp3?v=db4f8501e3f1"
+    },
+    "science-13-part-leg:part:head": {
+      "src": "assets/audio/jessica-351.mp3?v=44f0adfdcb61"
+    },
+    "science-13-part-leg:part:antenna": {
+      "src": "assets/audio/jessica-352.mp3?v=85306717d712"
+    },
+    "science-13-part-leg:part:thorax": {
+      "src": "assets/audio/jessica-353.mp3?v=2fa9d564117d"
+    },
+    "science-13-part-leg:part:leg": {
+      "src": "assets/audio/jessica-354.mp3?v=fb6f33a2c2c3"
+    },
+    "science-13-part-leg:part:wing": {
+      "src": "assets/audio/jessica-355.mp3?v=59269c04f981"
+    },
+    "science-13-part-leg:part:eye": {
+      "src": "assets/audio/jessica-356.mp3?v=3ac1649d5db1"
+    },
+    "science-13-part-leg:part:mouth": {
+      "src": "assets/audio/jessica-357.mp3?v=2662b0d0e406"
+    },
+    "science-13-part-leg:part:abdomen": {
+      "src": "assets/audio/jessica-358.mp3?v=db4f8501e3f1"
+    },
+    "science-13-part-wing:part:head": {
+      "src": "assets/audio/jessica-351.mp3?v=44f0adfdcb61"
+    },
+    "science-13-part-wing:part:antenna": {
+      "src": "assets/audio/jessica-352.mp3?v=85306717d712"
+    },
+    "science-13-part-wing:part:thorax": {
+      "src": "assets/audio/jessica-353.mp3?v=2fa9d564117d"
+    },
+    "science-13-part-wing:part:leg": {
+      "src": "assets/audio/jessica-354.mp3?v=fb6f33a2c2c3"
+    },
+    "science-13-part-wing:part:wing": {
+      "src": "assets/audio/jessica-355.mp3?v=59269c04f981"
+    },
+    "science-13-part-wing:part:eye": {
+      "src": "assets/audio/jessica-356.mp3?v=3ac1649d5db1"
+    },
+    "science-13-part-wing:part:mouth": {
+      "src": "assets/audio/jessica-357.mp3?v=2662b0d0e406"
+    },
+    "science-13-part-wing:part:abdomen": {
+      "src": "assets/audio/jessica-358.mp3?v=db4f8501e3f1"
+    },
+    "science-13-part-eye:part:head": {
+      "src": "assets/audio/jessica-351.mp3?v=44f0adfdcb61"
+    },
+    "science-13-part-eye:part:antenna": {
+      "src": "assets/audio/jessica-352.mp3?v=85306717d712"
+    },
+    "science-13-part-eye:part:thorax": {
+      "src": "assets/audio/jessica-353.mp3?v=2fa9d564117d"
+    },
+    "science-13-part-eye:part:leg": {
+      "src": "assets/audio/jessica-354.mp3?v=fb6f33a2c2c3"
+    },
+    "science-13-part-eye:part:wing": {
+      "src": "assets/audio/jessica-355.mp3?v=59269c04f981"
+    },
+    "science-13-part-eye:part:eye": {
+      "src": "assets/audio/jessica-356.mp3?v=3ac1649d5db1"
+    },
+    "science-13-part-eye:part:mouth": {
+      "src": "assets/audio/jessica-357.mp3?v=2662b0d0e406"
+    },
+    "science-13-part-eye:part:abdomen": {
+      "src": "assets/audio/jessica-358.mp3?v=db4f8501e3f1"
+    },
+    "science-13-part-mouth:part:head": {
+      "src": "assets/audio/jessica-351.mp3?v=44f0adfdcb61"
+    },
+    "science-13-part-mouth:part:antenna": {
+      "src": "assets/audio/jessica-352.mp3?v=85306717d712"
+    },
+    "science-13-part-mouth:part:thorax": {
+      "src": "assets/audio/jessica-353.mp3?v=2fa9d564117d"
+    },
+    "science-13-part-mouth:part:leg": {
+      "src": "assets/audio/jessica-354.mp3?v=fb6f33a2c2c3"
+    },
+    "science-13-part-mouth:part:wing": {
+      "src": "assets/audio/jessica-355.mp3?v=59269c04f981"
+    },
+    "science-13-part-mouth:part:eye": {
+      "src": "assets/audio/jessica-356.mp3?v=3ac1649d5db1"
+    },
+    "science-13-part-mouth:part:mouth": {
+      "src": "assets/audio/jessica-357.mp3?v=2662b0d0e406"
+    },
+    "science-13-part-mouth:part:abdomen": {
+      "src": "assets/audio/jessica-358.mp3?v=db4f8501e3f1"
+    },
+    "science-13-part-abdomen:part:head": {
+      "src": "assets/audio/jessica-351.mp3?v=44f0adfdcb61"
+    },
+    "science-13-part-abdomen:part:antenna": {
+      "src": "assets/audio/jessica-352.mp3?v=85306717d712"
+    },
+    "science-13-part-abdomen:part:thorax": {
+      "src": "assets/audio/jessica-353.mp3?v=2fa9d564117d"
+    },
+    "science-13-part-abdomen:part:leg": {
+      "src": "assets/audio/jessica-354.mp3?v=fb6f33a2c2c3"
+    },
+    "science-13-part-abdomen:part:wing": {
+      "src": "assets/audio/jessica-355.mp3?v=59269c04f981"
+    },
+    "science-13-part-abdomen:part:eye": {
+      "src": "assets/audio/jessica-356.mp3?v=3ac1649d5db1"
+    },
+    "science-13-part-abdomen:part:mouth": {
+      "src": "assets/audio/jessica-357.mp3?v=2662b0d0e406"
+    },
+    "science-13-part-abdomen:part:abdomen": {
+      "src": "assets/audio/jessica-358.mp3?v=db4f8501e3f1"
+    },
+    "science-14-part-head:part:head": {
+      "src": "assets/audio/jessica-351.mp3?v=44f0adfdcb61"
+    },
+    "science-14-part-head:part:eye": {
+      "src": "assets/audio/jessica-356.mp3?v=3ac1649d5db1"
+    },
+    "science-14-part-head:part:antenna": {
+      "src": "assets/audio/jessica-352.mp3?v=85306717d712"
+    },
+    "science-14-part-head:part:leg": {
+      "src": "assets/audio/jessica-354.mp3?v=fb6f33a2c2c3"
+    },
+    "science-14-part-head:part:thorax": {
+      "src": "assets/audio/jessica-353.mp3?v=2fa9d564117d"
+    },
+    "science-14-part-head:part:wing": {
+      "src": "assets/audio/jessica-355.mp3?v=59269c04f981"
+    },
+    "science-14-part-head:part:proboscis": {
+      "src": "assets/audio/jessica-362.mp3?v=a024b122b2ee"
+    },
+    "science-14-part-head:part:abdomen": {
+      "src": "assets/audio/jessica-358.mp3?v=db4f8501e3f1"
+    },
+    "science-14-part-eye:part:head": {
+      "src": "assets/audio/jessica-351.mp3?v=44f0adfdcb61"
+    },
+    "science-14-part-eye:part:eye": {
+      "src": "assets/audio/jessica-356.mp3?v=3ac1649d5db1"
+    },
+    "science-14-part-eye:part:antenna": {
+      "src": "assets/audio/jessica-352.mp3?v=85306717d712"
+    },
+    "science-14-part-eye:part:leg": {
+      "src": "assets/audio/jessica-354.mp3?v=fb6f33a2c2c3"
+    },
+    "science-14-part-eye:part:thorax": {
+      "src": "assets/audio/jessica-353.mp3?v=2fa9d564117d"
+    },
+    "science-14-part-eye:part:wing": {
+      "src": "assets/audio/jessica-355.mp3?v=59269c04f981"
+    },
+    "science-14-part-eye:part:proboscis": {
+      "src": "assets/audio/jessica-362.mp3?v=a024b122b2ee"
+    },
+    "science-14-part-eye:part:abdomen": {
+      "src": "assets/audio/jessica-358.mp3?v=db4f8501e3f1"
+    },
+    "science-14-part-antenna:part:head": {
+      "src": "assets/audio/jessica-351.mp3?v=44f0adfdcb61"
+    },
+    "science-14-part-antenna:part:eye": {
+      "src": "assets/audio/jessica-356.mp3?v=3ac1649d5db1"
+    },
+    "science-14-part-antenna:part:antenna": {
+      "src": "assets/audio/jessica-352.mp3?v=85306717d712"
+    },
+    "science-14-part-antenna:part:leg": {
+      "src": "assets/audio/jessica-354.mp3?v=fb6f33a2c2c3"
+    },
+    "science-14-part-antenna:part:thorax": {
+      "src": "assets/audio/jessica-353.mp3?v=2fa9d564117d"
+    },
+    "science-14-part-antenna:part:wing": {
+      "src": "assets/audio/jessica-355.mp3?v=59269c04f981"
+    },
+    "science-14-part-antenna:part:proboscis": {
+      "src": "assets/audio/jessica-362.mp3?v=a024b122b2ee"
+    },
+    "science-14-part-antenna:part:abdomen": {
+      "src": "assets/audio/jessica-358.mp3?v=db4f8501e3f1"
+    },
+    "science-14-part-leg:part:head": {
+      "src": "assets/audio/jessica-351.mp3?v=44f0adfdcb61"
+    },
+    "science-14-part-leg:part:eye": {
+      "src": "assets/audio/jessica-356.mp3?v=3ac1649d5db1"
+    },
+    "science-14-part-leg:part:antenna": {
+      "src": "assets/audio/jessica-352.mp3?v=85306717d712"
+    },
+    "science-14-part-leg:part:leg": {
+      "src": "assets/audio/jessica-354.mp3?v=fb6f33a2c2c3"
+    },
+    "science-14-part-leg:part:thorax": {
+      "src": "assets/audio/jessica-353.mp3?v=2fa9d564117d"
+    },
+    "science-14-part-leg:part:wing": {
+      "src": "assets/audio/jessica-355.mp3?v=59269c04f981"
+    },
+    "science-14-part-leg:part:proboscis": {
+      "src": "assets/audio/jessica-362.mp3?v=a024b122b2ee"
+    },
+    "science-14-part-leg:part:abdomen": {
+      "src": "assets/audio/jessica-358.mp3?v=db4f8501e3f1"
+    },
+    "science-14-part-thorax:part:head": {
+      "src": "assets/audio/jessica-351.mp3?v=44f0adfdcb61"
+    },
+    "science-14-part-thorax:part:eye": {
+      "src": "assets/audio/jessica-356.mp3?v=3ac1649d5db1"
+    },
+    "science-14-part-thorax:part:antenna": {
+      "src": "assets/audio/jessica-352.mp3?v=85306717d712"
+    },
+    "science-14-part-thorax:part:leg": {
+      "src": "assets/audio/jessica-354.mp3?v=fb6f33a2c2c3"
+    },
+    "science-14-part-thorax:part:thorax": {
+      "src": "assets/audio/jessica-353.mp3?v=2fa9d564117d"
+    },
+    "science-14-part-thorax:part:wing": {
+      "src": "assets/audio/jessica-355.mp3?v=59269c04f981"
+    },
+    "science-14-part-thorax:part:proboscis": {
+      "src": "assets/audio/jessica-362.mp3?v=a024b122b2ee"
+    },
+    "science-14-part-thorax:part:abdomen": {
+      "src": "assets/audio/jessica-358.mp3?v=db4f8501e3f1"
+    },
+    "science-14-part-wing:part:head": {
+      "src": "assets/audio/jessica-351.mp3?v=44f0adfdcb61"
+    },
+    "science-14-part-wing:part:eye": {
+      "src": "assets/audio/jessica-356.mp3?v=3ac1649d5db1"
+    },
+    "science-14-part-wing:part:antenna": {
+      "src": "assets/audio/jessica-352.mp3?v=85306717d712"
+    },
+    "science-14-part-wing:part:leg": {
+      "src": "assets/audio/jessica-354.mp3?v=fb6f33a2c2c3"
+    },
+    "science-14-part-wing:part:thorax": {
+      "src": "assets/audio/jessica-353.mp3?v=2fa9d564117d"
+    },
+    "science-14-part-wing:part:wing": {
+      "src": "assets/audio/jessica-355.mp3?v=59269c04f981"
+    },
+    "science-14-part-wing:part:proboscis": {
+      "src": "assets/audio/jessica-362.mp3?v=a024b122b2ee"
+    },
+    "science-14-part-wing:part:abdomen": {
+      "src": "assets/audio/jessica-358.mp3?v=db4f8501e3f1"
+    },
+    "science-14-part-proboscis:part:head": {
+      "src": "assets/audio/jessica-351.mp3?v=44f0adfdcb61"
+    },
+    "science-14-part-proboscis:part:eye": {
+      "src": "assets/audio/jessica-356.mp3?v=3ac1649d5db1"
+    },
+    "science-14-part-proboscis:part:antenna": {
+      "src": "assets/audio/jessica-352.mp3?v=85306717d712"
+    },
+    "science-14-part-proboscis:part:leg": {
+      "src": "assets/audio/jessica-354.mp3?v=fb6f33a2c2c3"
+    },
+    "science-14-part-proboscis:part:thorax": {
+      "src": "assets/audio/jessica-353.mp3?v=2fa9d564117d"
+    },
+    "science-14-part-proboscis:part:wing": {
+      "src": "assets/audio/jessica-355.mp3?v=59269c04f981"
+    },
+    "science-14-part-proboscis:part:proboscis": {
+      "src": "assets/audio/jessica-362.mp3?v=a024b122b2ee"
+    },
+    "science-14-part-proboscis:part:abdomen": {
+      "src": "assets/audio/jessica-358.mp3?v=db4f8501e3f1"
+    },
+    "science-14-part-abdomen:part:head": {
+      "src": "assets/audio/jessica-351.mp3?v=44f0adfdcb61"
+    },
+    "science-14-part-abdomen:part:eye": {
+      "src": "assets/audio/jessica-356.mp3?v=3ac1649d5db1"
+    },
+    "science-14-part-abdomen:part:antenna": {
+      "src": "assets/audio/jessica-352.mp3?v=85306717d712"
+    },
+    "science-14-part-abdomen:part:leg": {
+      "src": "assets/audio/jessica-354.mp3?v=fb6f33a2c2c3"
+    },
+    "science-14-part-abdomen:part:thorax": {
+      "src": "assets/audio/jessica-353.mp3?v=2fa9d564117d"
+    },
+    "science-14-part-abdomen:part:wing": {
+      "src": "assets/audio/jessica-355.mp3?v=59269c04f981"
+    },
+    "science-14-part-abdomen:part:proboscis": {
+      "src": "assets/audio/jessica-362.mp3?v=a024b122b2ee"
+    },
+    "science-14-part-abdomen:part:abdomen": {
+      "src": "assets/audio/jessica-358.mp3?v=db4f8501e3f1"
+    }
+  },
+  "lessonAudioCoverage": {
+    "recorded": 646,
+    "total": 666,
+    "latinAwaitingRecording": 20
+  },
+  "clipRevision": "silence-boundaries-2026-10-14"
+}

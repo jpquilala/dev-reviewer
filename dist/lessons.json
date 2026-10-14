@@ -1,0 +1,1718 @@
+{
+  "words": [
+    {
+      "word": "stick",
+      "pattern": "ck",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "quack",
+      "pattern": "ck",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "quick",
+      "pattern": "ck",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "pick",
+      "pattern": "ck",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "rack",
+      "pattern": "ck",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "lock",
+      "pattern": "ck",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "check",
+      "pattern": "ck",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "clock",
+      "pattern": "ck",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "crack",
+      "pattern": "ck",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "trick",
+      "pattern": "ck",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "sight",
+      "pattern": "ght",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "tight",
+      "pattern": "ght",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "night",
+      "pattern": "ght",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "might",
+      "pattern": "ght",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "right",
+      "pattern": "ght",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "bright",
+      "pattern": "ght",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "flight",
+      "pattern": "ght",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "fright",
+      "pattern": "ght",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "high",
+      "pattern": "gh",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "thigh",
+      "pattern": "gh",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "thank",
+      "pattern": "th",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "thin",
+      "pattern": "th",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "thing",
+      "pattern": "th",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "thick",
+      "pattern": "th",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "think",
+      "pattern": "th",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "this",
+      "pattern": "th",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "than",
+      "pattern": "th",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "that",
+      "pattern": "th",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "them",
+      "pattern": "th",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "then",
+      "pattern": "th",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "punch",
+      "pattern": "nch",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "pinch",
+      "pattern": "nch",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "bench",
+      "pattern": "nch",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "quench",
+      "pattern": "nch",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "bunch",
+      "pattern": "nch",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "lunch",
+      "pattern": "nch",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "hunch",
+      "pattern": "nch",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "hitch",
+      "pattern": "tch",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "hatch",
+      "pattern": "tch",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "patch",
+      "pattern": "tch",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "pitch",
+      "pattern": "tch",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "Dutch",
+      "pattern": "tch",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "ditch",
+      "pattern": "tch",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "match",
+      "pattern": "tch",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "catch",
+      "pattern": "tch",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "rich",
+      "pattern": "ch",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "such",
+      "pattern": "ch",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "much",
+      "pattern": "ch",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    },
+    {
+      "word": "which",
+      "pattern": "ch",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 1,
+        "page": 1
+      }
+    }
+  ],
+  "phrases": [
+    "a blue sky",
+    "a fat talking hen",
+    "a few minutes",
+    "a happy lass",
+    "a long time ago",
+    "a pearl necklace",
+    "a pink dress",
+    "a plate of rice",
+    "a small new ball",
+    "a worn-out doll",
+    "a very tall beanstalk",
+    "the baby's blanket",
+    "the bright man",
+    "the canteen helper",
+    "the good lad",
+    "the new bag",
+    "the tall tree",
+    "the pretty woman",
+    "always laughing",
+    "beautiful girl",
+    "loaf of bread",
+    "many candies",
+    "men at work",
+    "once in a while",
+    "once upon a time",
+    "on top of the branch",
+    "open windows",
+    "seven days a week",
+    "summer vacation",
+    "under the table",
+    "white handkerchief"
+  ],
+  "adjectives": [
+    [
+      "bad",
+      "worse",
+      "worst"
+    ],
+    [
+      "few",
+      "fewer",
+      "fewest"
+    ],
+    [
+      "little",
+      "less",
+      "least"
+    ],
+    [
+      "good",
+      "better",
+      "best"
+    ],
+    [
+      "many",
+      "more",
+      "most"
+    ],
+    [
+      "brave",
+      "braver",
+      "bravest"
+    ],
+    [
+      "bright",
+      "brighter",
+      "brightest"
+    ],
+    [
+      "clean",
+      "cleaner",
+      "cleanest"
+    ],
+    [
+      "cold",
+      "colder",
+      "coldest"
+    ],
+    [
+      "cool",
+      "cooler",
+      "coolest"
+    ],
+    [
+      "dark",
+      "darker",
+      "darkest"
+    ],
+    [
+      "dirty",
+      "dirtier",
+      "dirtiest"
+    ],
+    [
+      "early",
+      "earlier",
+      "earliest"
+    ],
+    [
+      "funny",
+      "funnier",
+      "funniest"
+    ],
+    [
+      "happy",
+      "happier",
+      "happiest"
+    ],
+    [
+      "hard",
+      "harder",
+      "hardest"
+    ],
+    [
+      "heavy",
+      "heavier",
+      "heaviest"
+    ],
+    [
+      "high",
+      "higher",
+      "highest"
+    ],
+    [
+      "hot",
+      "hotter",
+      "hottest"
+    ],
+    [
+      "large",
+      "larger",
+      "largest"
+    ],
+    [
+      "late",
+      "later",
+      "latest"
+    ],
+    [
+      "light",
+      "lighter",
+      "lightest"
+    ],
+    [
+      "lonely",
+      "lonelier",
+      "loneliest"
+    ],
+    [
+      "long",
+      "longer",
+      "longest"
+    ],
+    [
+      "nice",
+      "nicer",
+      "nicest"
+    ],
+    [
+      "old",
+      "older",
+      "oldest"
+    ],
+    [
+      "rare",
+      "rarer",
+      "rarest"
+    ],
+    [
+      "sad",
+      "sadder",
+      "saddest"
+    ],
+    [
+      "short",
+      "shorter",
+      "shortest"
+    ],
+    [
+      "slow",
+      "slower",
+      "slowest"
+    ],
+    [
+      "small",
+      "smaller",
+      "smallest"
+    ],
+    [
+      "soft",
+      "softer",
+      "softest"
+    ],
+    [
+      "strong",
+      "stronger",
+      "strongest"
+    ],
+    [
+      "tall",
+      "taller",
+      "tallest"
+    ],
+    [
+      "thick",
+      "thicker",
+      "thickest"
+    ],
+    [
+      "thin",
+      "thinner",
+      "thinnest"
+    ],
+    [
+      "warm",
+      "warmer",
+      "warmest"
+    ],
+    [
+      "young",
+      "younger",
+      "youngest"
+    ]
+  ],
+  "science": [
+    {
+      "question": "Which groups of animals are cold-blooded?",
+      "answer": "Fish, reptiles, amphibians, and insects.",
+      "icon": "🐟",
+      "answerList": [
+        "fish",
+        "reptiles",
+        "amphibians",
+        "insects"
+      ],
+      "id": "science-01",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 5,
+        "page": 2,
+        "prompt": 1
+      }
+    },
+    {
+      "question": "What does cold-blooded mean?",
+      "answer": "Their body temperature changes with the temperature around them.",
+      "icon": "🌡️",
+      "schoolAnswer": "Body temperature is the same temperature as their environment.",
+      "parentNote": "The child answer uses a more accurate simple definition; body temperature is influenced by the environment, not always identical to it.",
+      "id": "science-02",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 5,
+        "page": 2,
+        "prompt": 2
+      }
+    },
+    {
+      "question": "What do we call animals with backbones?",
+      "answer": "Vertebrates.",
+      "icon": "🦴",
+      "choices": [
+        "Vertebrates",
+        "Invertebrates",
+        "Insects"
+      ],
+      "id": "science-03",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 5,
+        "page": 2,
+        "prompt": 3
+      }
+    },
+    {
+      "question": "Give some examples of animals with backbones.",
+      "answer": "Cow, crocodile, bird, whale, and lizard.",
+      "icon": "🐊",
+      "answerList": [
+        "cow",
+        "crocodile",
+        "bird",
+        "whale",
+        "lizard"
+      ],
+      "id": "science-04",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 5,
+        "page": 2,
+        "prompt": 4
+      }
+    },
+    {
+      "question": "What do we call animals without backbones?",
+      "answer": "Invertebrates.",
+      "icon": "🐛",
+      "choices": [
+        "Vertebrates",
+        "Invertebrates",
+        "Reptiles"
+      ],
+      "id": "science-05",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 5,
+        "page": 2,
+        "prompt": 5
+      }
+    },
+    {
+      "question": "Give some examples of animals without backbones.",
+      "answer": "Insects, shrimps, starfish, worms, and clams.",
+      "icon": "🦐",
+      "answerList": [
+        "insects",
+        "shrimps",
+        "starfish",
+        "worms",
+        "clams"
+      ],
+      "id": "science-06",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 5,
+        "page": 2,
+        "prompt": 6
+      }
+    },
+    {
+      "question": "Are sponges animals or plants?",
+      "answer": "Animals.",
+      "icon": "🪸",
+      "choices": [
+        "Animals",
+        "Plants"
+      ],
+      "id": "science-07",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 5,
+        "page": 2,
+        "prompt": 7
+      }
+    },
+    {
+      "question": "Which cold-blooded animal uses its forked tongue to smell?",
+      "answer": "A snake.",
+      "icon": "🐍",
+      "choices": [
+        "A snake",
+        "A fish",
+        "A butterfly"
+      ],
+      "id": "science-08",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 5,
+        "page": 2,
+        "prompt": 8
+      }
+    },
+    {
+      "question": "Which animals can grow a new tail after losing it?",
+      "answer": "Some lizards.",
+      "icon": "🦎",
+      "choices": [
+        "Some lizards",
+        "Birds",
+        "Whales"
+      ],
+      "schoolAnswer": "Lizards.",
+      "parentNote": "Some lizards can regrow a lost tail; this is not true of every lizard.",
+      "id": "science-09",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 5,
+        "page": 2,
+        "prompt": 9
+      }
+    },
+    {
+      "question": "Which lizard can change its color?",
+      "answer": "A chameleon.",
+      "icon": "🦎",
+      "choices": [
+        "A chameleon",
+        "A crocodile",
+        "A frog"
+      ],
+      "schoolQuestion": "What lizard changes its color and blends into its surroundings?",
+      "parentNote": "The standalone prompt avoids teaching that chameleons change color only to match their background.",
+      "id": "science-10",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 5,
+        "page": 2,
+        "prompt": 10
+      }
+    },
+    {
+      "question": "What do we call the way animals blend in with their surroundings to avoid predators?",
+      "answer": "Camouflage.",
+      "icon": "🌿",
+      "choices": [
+        "Camouflage",
+        "Exercise",
+        "Migration"
+      ],
+      "id": "science-11",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 5,
+        "page": 2,
+        "prompt": 11
+      }
+    },
+    {
+      "question": "What is the difference between an octopus and a squid?",
+      "answer": "An octopus has eight arms. A squid has eight arms and two tentacles.",
+      "icon": "🐙",
+      "schoolAnswer": "An octopus has eight arms, a squid has ten.",
+      "parentNote": "The handout calls all ten squid appendages arms. The app distinguishes eight arms and two tentacles.",
+      "id": "science-12",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 5,
+        "page": 2,
+        "prompt": 12
+      }
+    },
+    {
+      "question": "How many legs do insects have?",
+      "answer": "Six.",
+      "icon": "🐜",
+      "choices": [
+        "Four",
+        "Six",
+        "Eight"
+      ],
+      "id": "science-13",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 5,
+        "page": 2,
+        "prompt": 13
+      }
+    },
+    {
+      "question": "A wasp is an insect. Can you name its major parts?",
+      "answer": "Head, antenna, thorax, leg, wing, eye, mouth, and abdomen.",
+      "icon": "🐝",
+      "parts": [
+        "head",
+        "antenna",
+        "thorax",
+        "leg",
+        "wing",
+        "eye",
+        "mouth",
+        "abdomen"
+      ],
+      "diagram": "wasp",
+      "diagramSource": {
+        "document": "K-AC Oral Test 7 Enrichment Slides 2026-2027.pdf",
+        "page": 59
+      },
+      "id": "science-14",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 5,
+        "page": 2,
+        "prompt": 14
+      }
+    },
+    {
+      "question": "A butterfly is an insect. Can you name its major parts?",
+      "answer": "Head, eye, antenna, leg, thorax, wing, proboscis, and abdomen.",
+      "icon": "🦋",
+      "parts": [
+        "head",
+        "eye",
+        "antenna",
+        "leg",
+        "thorax",
+        "wing",
+        "proboscis",
+        "abdomen"
+      ],
+      "diagram": "butterfly",
+      "diagramSource": {
+        "document": "K-AC Oral Test 7 Enrichment Slides 2026-2027.pdf",
+        "page": 60
+      },
+      "id": "science-15",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 5,
+        "page": 2,
+        "prompt": 15
+      }
+    },
+    {
+      "question": "Are spiders and scorpions insects?",
+      "answer": "No.",
+      "icon": "🕷️",
+      "choices": [
+        "Yes",
+        "No"
+      ],
+      "id": "science-16",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 5,
+        "page": 2,
+        "prompt": 16
+      }
+    },
+    {
+      "question": "Why are spiders and scorpions not insects?",
+      "answer": "They have eight legs. Insects have six legs.",
+      "icon": "🦂",
+      "schoolAnswer": "Because they have eight legs.",
+      "id": "science-17",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 5,
+        "page": 2,
+        "prompt": 17
+      }
+    },
+    {
+      "question": "To what group of animals do spiders and scorpions belong?",
+      "answer": "Arachnids.",
+      "icon": "🕷️",
+      "choices": [
+        "Arachnids",
+        "Insects",
+        "Fish"
+      ],
+      "id": "science-18",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 5,
+        "page": 2,
+        "prompt": 18
+      }
+    }
+  ],
+  "ethics": [
+    {
+      "question": "What is being lazy?",
+      "answer": "Not willing to work or help when needed.",
+      "id": "ethics-01",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 7,
+        "page": 3,
+        "prompt": 1
+      }
+    },
+    {
+      "question": "Is it good to be lazy?",
+      "answer": "No, it isn't.",
+      "choices": [
+        "Yes",
+        "No, it isn't."
+      ],
+      "id": "ethics-02",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 7,
+        "page": 3,
+        "prompt": 2
+      }
+    },
+    {
+      "question": "What is disobeying?",
+      "answer": "Not to do what you have been told to do.",
+      "id": "ethics-03",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 7,
+        "page": 3,
+        "prompt": 3
+      }
+    },
+    {
+      "question": "Is it good to disobey?",
+      "answer": "No, it isn't.",
+      "choices": [
+        "Yes",
+        "No, it isn't."
+      ],
+      "id": "ethics-04",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 7,
+        "page": 3,
+        "prompt": 4
+      }
+    },
+    {
+      "question": "What is being wasteful?",
+      "answer": "Using more than what you need or throwing away things that can still be used.",
+      "id": "ethics-05",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 7,
+        "page": 3,
+        "prompt": 5
+      }
+    },
+    {
+      "question": "Is it good to be wasteful?",
+      "answer": "No, it isn't.",
+      "choices": [
+        "Yes",
+        "No, it isn't."
+      ],
+      "id": "ethics-06",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 7,
+        "page": 3,
+        "prompt": 6
+      }
+    },
+    {
+      "question": "What is being bossy?",
+      "answer": "To always tell what others should do.",
+      "id": "ethics-07",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 7,
+        "page": 3,
+        "prompt": 7
+      }
+    },
+    {
+      "question": "Is it good to be bossy?",
+      "answer": "No, it isn't.",
+      "choices": [
+        "Yes",
+        "No, it isn't."
+      ],
+      "id": "ethics-08",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 7,
+        "page": 3,
+        "prompt": 8
+      }
+    }
+  ],
+  "bible": [
+    {
+      "question": "What are the two main parts of the Bible?",
+      "answer": "Old Testament and New Testament.",
+      "answerList": [
+        "Old Testament",
+        "New Testament"
+      ],
+      "id": "bible-01",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 9,
+        "page": 4,
+        "prompt": 1
+      }
+    },
+    {
+      "question": "How many books are in the Old Testament?",
+      "answer": null,
+      "answerCatholic": "Forty-six.",
+      "answerNonCatholic": "Thirty-nine.",
+      "choicesCatholic": [
+        "Thirty-nine",
+        "Forty-six",
+        "Twenty-seven"
+      ],
+      "choicesNonCatholic": [
+        "Thirty-nine",
+        "Forty-six",
+        "Twenty-seven"
+      ],
+      "trackDependent": true,
+      "id": "bible-02",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 9,
+        "page": 4,
+        "prompt": 2
+      }
+    },
+    {
+      "question": "What are the first five books of the Old Testament?",
+      "answer": "Genesis, Exodus, Leviticus, Numbers, and Deuteronomy.",
+      "answerList": [
+        "Genesis",
+        "Exodus",
+        "Leviticus",
+        "Numbers",
+        "Deuteronomy"
+      ],
+      "id": "bible-03",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 9,
+        "page": 4,
+        "prompt": 3
+      }
+    },
+    {
+      "question": "How many books are in the New Testament?",
+      "answer": "Twenty-seven.",
+      "choices": [
+        "Twenty-seven",
+        "Thirty-nine",
+        "Forty-six"
+      ],
+      "id": "bible-04",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 9,
+        "page": 4,
+        "prompt": 4
+      }
+    },
+    {
+      "question": "What are the four Gospels of the New Testament?",
+      "answer": "Matthew, Mark, Luke, and John.",
+      "answerList": [
+        "Matthew",
+        "Mark",
+        "Luke",
+        "John"
+      ],
+      "id": "bible-05",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 9,
+        "page": 4,
+        "prompt": 5
+      }
+    }
+  ],
+  "german": [
+    {
+      "english": "name",
+      "german": "Name",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 10,
+        "page": 4
+      }
+    },
+    {
+      "english": "date",
+      "german": "Datum",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 10,
+        "page": 4
+      }
+    },
+    {
+      "english": "exercise",
+      "german": "Übung",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 10,
+        "page": 4
+      }
+    },
+    {
+      "english": "letter",
+      "german": "Buchstabe",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 10,
+        "page": 4
+      }
+    },
+    {
+      "english": "number",
+      "german": "Zahl",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 10,
+        "page": 4
+      }
+    },
+    {
+      "english": "small",
+      "german": "klein",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 10,
+        "page": 4
+      }
+    },
+    {
+      "english": "big",
+      "german": "gross",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 10,
+        "page": 4
+      }
+    }
+  ],
+  "shapes": [
+    {
+      "name": "bilog",
+      "kind": "circle",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 11,
+        "page": 4
+      }
+    },
+    {
+      "name": "parisukat",
+      "kind": "square",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 11,
+        "page": 4
+      }
+    },
+    {
+      "name": "puso",
+      "kind": "heart",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 11,
+        "page": 4
+      }
+    },
+    {
+      "name": "diyamante",
+      "kind": "diamond",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 11,
+        "page": 4
+      }
+    },
+    {
+      "name": "tala",
+      "kind": "star",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 11,
+        "page": 4
+      }
+    },
+    {
+      "name": "tatsulok",
+      "kind": "triangle",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 11,
+        "page": 4
+      }
+    },
+    {
+      "name": "parihaba",
+      "kind": "rectangle",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 11,
+        "page": 4
+      }
+    },
+    {
+      "name": "biluhaba",
+      "kind": "oval",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 11,
+        "page": 4
+      }
+    }
+  ],
+  "numbers": [
+    "isa",
+    "dalawa",
+    "tatlo",
+    "apat",
+    "lima",
+    "anim",
+    "pito",
+    "walo",
+    "siyam",
+    "sampu"
+  ],
+  "animals": [
+    {
+      "name": "aso",
+      "emoji": "🐕",
+      "english": "dog",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 13,
+        "page": 4
+      }
+    },
+    {
+      "name": "pusa",
+      "emoji": "🐈",
+      "english": "cat",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 13,
+        "page": 4
+      }
+    },
+    {
+      "name": "ibon",
+      "emoji": "🐦",
+      "english": "bird",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 13,
+        "page": 4
+      }
+    },
+    {
+      "name": "isda",
+      "emoji": "🐟",
+      "english": "fish",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 13,
+        "page": 4
+      }
+    },
+    {
+      "name": "daga",
+      "emoji": "🐁",
+      "english": "mouse",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 13,
+        "page": 4
+      }
+    },
+    {
+      "name": "ahas",
+      "emoji": "🐍",
+      "english": "snake",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 13,
+        "page": 4
+      }
+    },
+    {
+      "name": "baka",
+      "emoji": "🐄",
+      "english": "cow",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 13,
+        "page": 4
+      }
+    },
+    {
+      "name": "bibe",
+      "emoji": "🦆",
+      "english": "duck",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 13,
+        "page": 4
+      }
+    },
+    {
+      "name": "kambing",
+      "emoji": "🐐",
+      "english": "goat",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 13,
+        "page": 4
+      }
+    },
+    {
+      "name": "tupa",
+      "emoji": "🐑",
+      "english": "sheep",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 13,
+        "page": 4
+      }
+    },
+    {
+      "name": "kabayo",
+      "emoji": "🐎",
+      "english": "horse",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 13,
+        "page": 4
+      }
+    },
+    {
+      "name": "palaka",
+      "emoji": "🐸",
+      "english": "frog",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 13,
+        "page": 4
+      }
+    },
+    {
+      "name": "baboy",
+      "emoji": "🐖",
+      "english": "pig",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 13,
+        "page": 4
+      }
+    },
+    {
+      "name": "butiki",
+      "emoji": "🦎",
+      "english": "lizard",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 13,
+        "page": 4
+      }
+    },
+    {
+      "name": "paru-paro",
+      "emoji": "🦋",
+      "english": "butterfly",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 13,
+        "page": 4
+      }
+    },
+    {
+      "name": "manok",
+      "emoji": "🐓",
+      "english": "chicken",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 13,
+        "page": 4
+      }
+    },
+    {
+      "name": "bubuyog",
+      "emoji": "🐝",
+      "english": "bee",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 13,
+        "page": 4
+      }
+    },
+    {
+      "name": "gagamba",
+      "emoji": "🕷️",
+      "english": "spider",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 13,
+        "page": 4
+      }
+    },
+    {
+      "name": "langgam",
+      "emoji": "🐜",
+      "english": "ant",
+      "source": {
+        "document": "kinder-ac-reviewer.pdf",
+        "item": 13,
+        "page": 4
+      }
+    }
+  ],
+  "prayers": {
+    "catholic": [
+      "Pater noster, qui es in caelis,",
+      "sanctificetur nomen tuum.",
+      "Adveniat regnum tuum.",
+      "Fiat voluntas tua, sicut in caelo",
+      "et in terra.",
+      "Panem nostrum quotidianum",
+      "da nobis hodie,",
+      "et dimitte nobis debita nostra",
+      "sicut et nos dimittimus",
+      "debitoribus nostris.",
+      "Et ne nos inducas in tentationem,",
+      "sed libera nos a malo.",
+      "Amen."
+    ],
+    "nonCatholic": [
+      "The Lord is my shepherd,",
+      "I shall not want.",
+      "He makes me lie down in green pastures,",
+      "He leads me beside quiet waters,",
+      "He restores my soul.",
+      "He guides me in paths of righteousness",
+      "For His name's sake.",
+      "Even though I walk",
+      "through the valley of the shadow of death,",
+      "I will fear no evil,",
+      "for you are with me;",
+      "your rod and your staff,",
+      "they comfort me."
+    ]
+  },
+  "countries": [
+    "Vietnam",
+    "Thailand",
+    "Malaysia",
+    "Brunei",
+    "Indonesia",
+    "China",
+    "Japan"
+  ],
+  "math": {
+    "source": {
+      "document": "kinder-ac-reviewer.pdf",
+      "item": 4,
+      "page": 2
+    },
+    "promptMin": 131,
+    "promptMax": 209,
+    "answerMin": 132,
+    "answerMax": 210,
+    "questionTemplate": "What is the number after {number}?",
+    "examples": [
+      {
+        "number": 136,
+        "answer": 137
+      },
+      {
+        "number": 154,
+        "answer": 155
+      },
+      {
+        "number": 198,
+        "answer": 199
+      },
+      {
+        "number": 209,
+        "answer": 210
+      }
+    ],
+    "rule": "answer = number + 1"
+  },
+  "sourceReferences": {
+    "words": {
+      "document": "kinder-ac-reviewer.pdf",
+      "item": 1,
+      "page": 1
+    },
+    "phrases": {
+      "document": "kinder-ac-reviewer.pdf",
+      "item": 2,
+      "page": 1
+    },
+    "adjectives": {
+      "document": "kinder-ac-reviewer.pdf",
+      "item": 3,
+      "page": 1,
+      "pages": [
+        1,
+        2
+      ]
+    },
+    "math": {
+      "document": "kinder-ac-reviewer.pdf",
+      "item": 4,
+      "page": 2
+    },
+    "science": {
+      "document": "kinder-ac-reviewer.pdf",
+      "item": 5,
+      "page": 2
+    },
+    "countries": {
+      "document": "kinder-ac-reviewer.pdf",
+      "item": 6,
+      "page": 3
+    },
+    "ethics": {
+      "document": "kinder-ac-reviewer.pdf",
+      "item": 7,
+      "page": 3
+    },
+    "prayers.catholic": {
+      "document": "kinder-ac-reviewer.pdf",
+      "item": 8,
+      "page": 3,
+      "supportingSource": {
+        "document": "K-AC Oral Test 7 Enrichment Slides 2026-2027.pdf",
+        "pages": [
+          71,
+          72
+        ]
+      }
+    },
+    "prayers.nonCatholic": {
+      "document": "kinder-ac-reviewer.pdf",
+      "item": 8,
+      "page": 3,
+      "preferredTextSource": {
+        "document": "K-AC Oral Test 7 Enrichment Slides 2026-2027.pdf",
+        "pages": [
+          73,
+          74
+        ]
+      }
+    },
+    "bible": {
+      "document": "kinder-ac-reviewer.pdf",
+      "item": 9,
+      "page": 4
+    },
+    "german": {
+      "document": "kinder-ac-reviewer.pdf",
+      "item": 10,
+      "page": 4
+    },
+    "shapes": {
+      "document": "kinder-ac-reviewer.pdf",
+      "item": 11,
+      "page": 4
+    },
+    "numbers": {
+      "document": "kinder-ac-reviewer.pdf",
+      "item": 12,
+      "page": 4
+    },
+    "animals": {
+      "document": "kinder-ac-reviewer.pdf",
+      "item": 13,
+      "page": 4
+    }
+  },
+  "sourceNotes": [
+    "Source priority: the numbered five-page school handout defines required content; the 103-page enrichment slides support pictures and clarify clipped or mistaken text.",
+    "Item 1: the labels ck, ght, gh, th, nch, tch, and ch are spelling patterns. Silent letters must not be sounded separately. The th words include both voiced and unvoiced sounds.",
+    "Item 2: the full handout phrases are retained where slide extraction is incomplete, including a plate of rice, the new bag, beautiful girl, and many candies.",
+    "Item 3: all 38 adjective sets are present. Ordering is grouped by the school slides rather than the scan column continuation; the words are unchanged.",
+    "Item 4: prompts run from 131 through 209, producing answers 132 through 210. The four required examples are 136→137, 154→155, 198→199, and 209→210. Slide example 126→127 is outside the handout range and is excluded. Whether 210→211 is expected remains a teacher clarification.",
+    "Item 5: the source defines cold-blooded as body temperature being the same as the environment. The child answer says body temperature changes with surrounding temperature, avoiding an absolute equivalence.",
+    "Item 5: the source says a squid has ten arms. The child answer uses eight arms and two tentacles. The octopus answer stays eight arms.",
+    "Item 5: tail regrowth applies to some lizards. The standalone chameleon prompt asks about color change without claiming camouflage is its only cause.",
+    "Item 5: wasp labels are head, antenna, thorax, leg, wing, eye, mouth, abdomen (slide 59). Butterfly labels are head, eye, antenna, leg, thorax, wing, proboscis, abdomen (slide 60).",
+    "Item 6 parent-only source note: the school handout lists China (including Taiwan and Hong Kong). The child list is Vietnam, Thailand, Malaysia, Brunei, Indonesia, China, Japan; supporting visuals should use neutral place labels.",
+    "Item 7: school definitions are retained for assessment practice. Feedback should describe an action, never label the child lazy or bad. Obedience practice must not suggest following unsafe requests.",
+    "Item 8: both Roman Catholic (Latin Our Father) and Non-Roman Catholic (Psalm 23:1–4) tracks are included. Parent selection controls which track the child sees; no belief is inferred.",
+    "Item 8: the handout has the apparent typo I shall not be want. The reviewed image of enrichment slide 73 reads I shall not want; the app uses the slide wording.",
+    "Item 8: Latin text follows the handout, with capitalization normalized. Psalm words follow slides 73–74 and are split into short learning lines. Neither prayer is truncated.",
+    "Item 9: the school review options specify 46 Old Testament books for Roman Catholics and 39 for Non-Roman Catholics. Both tracks use 27 New Testament books. These are the school options, not a claim about every Christian tradition.",
+    "Item 10: gross is retained as the handout spelling; German audio should pronounce it as groß. Übung retains the umlaut.",
+    "Item 13: required animal spelling is paru-paro, as in the handout. Kalabaw appears only in enrichment slide 92 and is excluded from required progress.",
+    "Item 14 is outside this app version, following the requested items 1–13."
+  ]
+}

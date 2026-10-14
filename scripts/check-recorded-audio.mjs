@@ -1,0 +1,16 @@
+import assert from 'node:assert/strict';
+import {BuddyAudio} from '../dist/audio.mjs';
+const players=[],states=[];
+globalThis.window={speechSynthesis:{getVoices:()=>[],addEventListener(){},cancel(){}}};
+globalThis.Audio=class{constructor(src){this.src=src;players.push(this);}play(){return Promise.resolve();}pause(){this.paused=true;}};
+const player=new BuddyAudio({clips:{question:{src:'question.mp3'},answer:{src:'answer.mp3'}}},state=>states.push(state));
+const question=player.play('What is it?','en-US','question');
+const answer=player.play('A butterfly.','en-US','answer',true);
+assert.equal(await question,false,'reveal cancels the question');
+assert.equal(players[0].paused,true,'question audio stops before answer starts');
+assert.equal(players[1].src,'answer.mp3');assert.equal(players[1].playbackRate,.85);
+players[0].onended();assert.equal(states.at(-1),'playing','stale completion cannot stop current answer');
+players[1].onended();assert.equal(await answer,true);
+const replay=player.play('A butterfly.','en-US','answer');player.stop();assert.equal(await replay,false);assert.equal(players[2].paused,true);
+assert.equal(await player.play('Pater noster','la','missing-latin'),false);assert.equal(states.at(-1),'unavailable');
+console.log('PASS: local recordings, slow playback, question/answer interruption, replay stop, stale events and explicit missing-Latin state.');

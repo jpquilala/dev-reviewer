@@ -1,0 +1,6965 @@
+[
+  {
+    "index": 20,
+    "batch": 0,
+    "start": 0,
+    "end": 0.8239350000000001,
+    "text": "might",
+    "startSilence": null,
+    "endSilence": [
+      0.56635,
+      1.08152
+    ]
+  },
+  {
+    "index": 21,
+    "batch": 0,
+    "start": 0.8239350000000001,
+    "end": 1.8660354999999997,
+    "text": "right",
+    "startSilence": [
+      0.56635,
+      1.08152
+    ],
+    "endSilence": [
+      1.6325209999999997,
+      2.09955
+    ]
+  },
+  {
+    "index": 22,
+    "batch": 0,
+    "start": 1.8660354999999997,
+    "end": 2.8529115000000003,
+    "text": "bright",
+    "startSilence": [
+      1.6325209999999997,
+      2.09955
+    ],
+    "endSilence": [
+      2.6329230000000003,
+      3.0729
+    ]
+  },
+  {
+    "index": 23,
+    "batch": 0,
+    "start": 2.8529115000000003,
+    "end": 3.9608075,
+    "text": "flight",
+    "startSilence": [
+      2.6329230000000003,
+      3.0729
+    ],
+    "endSilence": [
+      3.752905,
+      4.16871
+    ]
+  },
+  {
+    "index": 24,
+    "batch": 0,
+    "start": 3.9608075,
+    "end": 5.094583500000001,
+    "text": "fright",
+    "startSilence": [
+      3.752905,
+      4.16871
+    ],
+    "endSilence": [
+      4.866647,
+      5.32252
+    ]
+  },
+  {
+    "index": 25,
+    "batch": 0,
+    "start": 5.094583500000001,
+    "end": 6.0672105,
+    "text": "high",
+    "startSilence": [
+      4.866647,
+      5.32252
+    ],
+    "endSilence": [
+      5.8856910000000005,
+      6.24873
+    ]
+  },
+  {
+    "index": 26,
+    "batch": 0,
+    "start": 6.0672105,
+    "end": 7.117321500000001,
+    "text": "thigh",
+    "startSilence": [
+      5.8856910000000005,
+      6.24873
+    ],
+    "endSilence": [
+      6.899793000000001,
+      7.33485
+    ]
+  },
+  {
+    "index": 27,
+    "batch": 0,
+    "start": 7.117321500000001,
+    "end": 8.1346305,
+    "text": "thank",
+    "startSilence": [
+      6.899793000000001,
+      7.33485
+    ],
+    "endSilence": [
+      7.945651000000001,
+      8.32361
+    ]
+  },
+  {
+    "index": 28,
+    "batch": 0,
+    "start": 8.1346305,
+    "end": 9.138743999999999,
+    "text": "thin",
+    "startSilence": [
+      7.945651000000001,
+      8.32361
+    ],
+    "endSilence": [
+      8.948777999999999,
+      9.32871
+    ]
+  },
+  {
+    "index": 29,
+    "batch": 0,
+    "start": 9.138743999999999,
+    "end": 10.113618500000001,
+    "text": "thing",
+    "startSilence": [
+      8.948777999999999,
+      9.32871
+    ],
+    "endSilence": [
+      9.929537,
+      10.2977
+    ]
+  },
+  {
+    "index": 30,
+    "batch": 0,
+    "start": 10.113618500000001,
+    "end": 11.0349215,
+    "text": "thick",
+    "startSilence": [
+      9.929537,
+      10.2977
+    ],
+    "endSilence": [
+      10.866543,
+      11.2033
+    ]
+  },
+  {
+    "index": 31,
+    "batch": 0,
+    "start": 11.0349215,
+    "end": 11.977808,
+    "text": "think",
+    "startSilence": [
+      10.866543,
+      11.2033
+    ],
+    "endSilence": [
+      11.779316,
+      12.1763
+    ]
+  },
+  {
+    "index": 32,
+    "batch": 0,
+    "start": 11.977808,
+    "end": 12.9590415,
+    "text": "this",
+    "startSilence": [
+      11.779316,
+      12.1763
+    ],
+    "endSilence": [
+      12.783883,
+      13.1342
+    ]
+  },
+  {
+    "index": 33,
+    "batch": 0,
+    "start": 12.9590415,
+    "end": 13.924188000000001,
+    "text": "than",
+    "startSilence": [
+      12.783883,
+      13.1342
+    ],
+    "endSilence": [
+      13.756376000000001,
+      14.092
+    ]
+  },
+  {
+    "index": 34,
+    "batch": 0,
+    "start": 13.924188000000001,
+    "end": 14.8471835,
+    "text": "that",
+    "startSilence": [
+      13.756376000000001,
+      14.092
+    ],
+    "endSilence": [
+      14.667467,
+      15.0269
+    ]
+  },
+  {
+    "index": 35,
+    "batch": 0,
+    "start": 14.8471835,
+    "end": 15.774309500000001,
+    "text": "them",
+    "startSilence": [
+      14.667467,
+      15.0269
+    ],
+    "endSilence": [
+      15.614219,
+      15.9344
+    ]
+  },
+  {
+    "index": 36,
+    "batch": 0,
+    "start": 15.774309500000001,
+    "end": 16.6919245,
+    "text": "then",
+    "startSilence": [
+      15.614219,
+      15.9344
+    ],
+    "endSilence": [
+      16.487049,
+      16.8968
+    ]
+  },
+  {
+    "index": 37,
+    "batch": 0,
+    "start": 16.6919245,
+    "end": 17.614594999999998,
+    "text": "punch",
+    "startSilence": [
+      16.487049,
+      16.8968
+    ],
+    "endSilence": [
+      17.458789999999997,
+      17.7704
+    ]
+  },
+  {
+    "index": 38,
+    "batch": 0,
+    "start": 17.614594999999998,
+    "end": 18.503484999999998,
+    "text": "pinch",
+    "startSilence": [
+      17.458789999999997,
+      17.7704
+    ],
+    "endSilence": [
+      18.32717,
+      18.6798
+    ]
+  },
+  {
+    "index": 39,
+    "batch": 0,
+    "start": 18.503484999999998,
+    "end": 19.443949,
+    "text": "bench",
+    "startSilence": [
+      18.32717,
+      18.6798
+    ],
+    "endSilence": [
+      19.287498,
+      19.6004
+    ]
+  },
+  {
+    "index": 40,
+    "batch": 0,
+    "start": 19.443949,
+    "end": 20.414308,
+    "text": "quench",
+    "startSilence": [
+      19.287498,
+      19.6004
+    ],
+    "endSilence": [
+      20.255816,
+      20.5728
+    ]
+  },
+  {
+    "index": 41,
+    "batch": 0,
+    "start": 20.414308,
+    "end": 21.361742500000002,
+    "text": "bunch",
+    "startSilence": [
+      20.255816,
+      20.5728
+    ],
+    "endSilence": [
+      21.201085000000003,
+      21.5224
+    ]
+  },
+  {
+    "index": 42,
+    "batch": 0,
+    "start": 21.361742500000002,
+    "end": 22.301813000000003,
+    "text": "lunch",
+    "startSilence": [
+      21.201085000000003,
+      21.5224
+    ],
+    "endSilence": [
+      22.153026,
+      22.4506
+    ]
+  },
+  {
+    "index": 43,
+    "batch": 0,
+    "start": 22.301813000000003,
+    "end": 23.2,
+    "text": "hunch",
+    "startSilence": [
+      22.153026,
+      22.4506
+    ],
+    "endSilence": null
+  },
+  {
+    "index": 44,
+    "batch": 1,
+    "start": 0,
+    "end": 0.8514364999999999,
+    "text": "hitch",
+    "startSilence": null,
+    "endSilence": [
+      0.5731029999999999,
+      1.12977
+    ]
+  },
+  {
+    "index": 45,
+    "batch": 1,
+    "start": 0.8514364999999999,
+    "end": 2.0164660000000003,
+    "text": "hatch",
+    "startSilence": [
+      0.5731029999999999,
+      1.12977
+    ],
+    "endSilence": [
+      1.754652,
+      2.27828
+    ]
+  },
+  {
+    "index": 46,
+    "batch": 1,
+    "start": 2.0164660000000003,
+    "end": 3.123799,
+    "text": "patch",
+    "startSilence": [
+      1.754652,
+      2.27828
+    ],
+    "endSilence": [
+      2.8757379999999997,
+      3.37186
+    ]
+  },
+  {
+    "index": 47,
+    "batch": 1,
+    "start": 3.123799,
+    "end": 4.1850335,
+    "text": "pitch",
+    "startSilence": [
+      2.8757379999999997,
+      3.37186
+    ],
+    "endSilence": [
+      3.917437,
+      4.45263
+    ]
+  },
+  {
+    "index": 48,
+    "batch": 1,
+    "start": 4.1850335,
+    "end": 5.3017915,
+    "text": "Dutch",
+    "startSilence": [
+      3.917437,
+      4.45263
+    ],
+    "endSilence": [
+      5.075533,
+      5.52805
+    ]
+  },
+  {
+    "index": 49,
+    "batch": 1,
+    "start": 5.3017915,
+    "end": 6.300116,
+    "text": "ditch",
+    "startSilence": [
+      5.075533,
+      5.52805
+    ],
+    "endSilence": [
+      6.071522,
+      6.52871
+    ]
+  },
+  {
+    "index": 50,
+    "batch": 1,
+    "start": 6.300116,
+    "end": 7.374005,
+    "text": "match",
+    "startSilence": [
+      6.071522,
+      6.52871
+    ],
+    "endSilence": [
+      7.15871,
+      7.5893
+    ]
+  },
+  {
+    "index": 51,
+    "batch": 1,
+    "start": 7.374005,
+    "end": 8.381027499999998,
+    "text": "catch",
+    "startSilence": [
+      7.15871,
+      7.5893
+    ],
+    "endSilence": [
+      8.157024999999999,
+      8.60503
+    ]
+  },
+  {
+    "index": 52,
+    "batch": 1,
+    "start": 8.381027499999998,
+    "end": 9.402407,
+    "text": "rich",
+    "startSilence": [
+      8.157024999999999,
+      8.60503
+    ],
+    "endSilence": [
+      9.203654,
+      9.60116
+    ]
+  },
+  {
+    "index": 53,
+    "batch": 1,
+    "start": 9.402407,
+    "end": 10.446917000000001,
+    "text": "such",
+    "startSilence": [
+      9.203654,
+      9.60116
+    ],
+    "endSilence": [
+      10.239434000000001,
+      10.6544
+    ]
+  },
+  {
+    "index": 54,
+    "batch": 1,
+    "start": 10.446917000000001,
+    "end": 11.4398245,
+    "text": "much",
+    "startSilence": [
+      10.239434000000001,
+      10.6544
+    ],
+    "endSilence": [
+      11.247149,
+      11.6325
+    ]
+  },
+  {
+    "index": 55,
+    "batch": 1,
+    "start": 11.4398245,
+    "end": 12.490163,
+    "text": "which",
+    "startSilence": [
+      11.247149,
+      11.6325
+    ],
+    "endSilence": [
+      12.230526000000001,
+      12.7498
+    ]
+  },
+  {
+    "index": 56,
+    "batch": 1,
+    "start": 12.490163,
+    "end": 13.937413000000001,
+    "text": "Read this phrase.",
+    "startSilence": [
+      12.230526000000001,
+      12.7498
+    ],
+    "endSilence": [
+      13.674726000000001,
+      14.2001
+    ]
+  },
+  {
+    "index": 57,
+    "batch": 1,
+    "start": 13.937413000000001,
+    "end": 15.477922499999998,
+    "text": "a blue sky",
+    "startSilence": [
+      13.674726000000001,
+      14.2001
+    ],
+    "endSilence": [
+      15.239044999999999,
+      15.7168
+    ]
+  },
+  {
+    "index": 58,
+    "batch": 1,
+    "start": 15.477922499999998,
+    "end": 17.3755115,
+    "text": "a fat talking hen",
+    "startSilence": [
+      15.239044999999999,
+      15.7168
+    ],
+    "endSilence": [
+      17.145523,
+      17.6055
+    ]
+  },
+  {
+    "index": 59,
+    "batch": 1,
+    "start": 17.3755115,
+    "end": 18.768785,
+    "text": "a few minutes",
+    "startSilence": [
+      17.145523,
+      17.6055
+    ],
+    "endSilence": [
+      18.55637,
+      18.9812
+    ]
+  },
+  {
+    "index": 60,
+    "batch": 1,
+    "start": 18.768785,
+    "end": 20.273343,
+    "text": "a happy lass",
+    "startSilence": [
+      18.55637,
+      18.9812
+    ],
+    "endSilence": [
+      20.054386,
+      20.4923
+    ]
+  },
+  {
+    "index": 61,
+    "batch": 1,
+    "start": 20.273343,
+    "end": 21.987388499999998,
+    "text": "a long time ago",
+    "startSilence": [
+      20.054386,
+      20.4923
+    ],
+    "endSilence": [
+      21.768476999999997,
+      22.2063
+    ]
+  },
+  {
+    "index": 62,
+    "batch": 1,
+    "start": 21.987388499999998,
+    "end": 23.5877805,
+    "text": "a pearl necklace",
+    "startSilence": [
+      21.768476999999997,
+      22.2063
+    ],
+    "endSilence": [
+      23.376261,
+      23.7993
+    ]
+  },
+  {
+    "index": 63,
+    "batch": 1,
+    "start": 23.5877805,
+    "end": 24.963789,
+    "text": "a pink dress",
+    "startSilence": [
+      23.376261,
+      23.7993
+    ],
+    "endSilence": [
+      24.762678,
+      25.1649
+    ]
+  },
+  {
+    "index": 64,
+    "batch": 1,
+    "start": 24.963789,
+    "end": 26.419424499999998,
+    "text": "a plate of rice",
+    "startSilence": [
+      24.762678,
+      25.1649
+    ],
+    "endSilence": [
+      26.221749,
+      26.6171
+    ]
+  },
+  {
+    "index": 65,
+    "batch": 1,
+    "start": 26.419424499999998,
+    "end": 28.1840665,
+    "text": "a small new ball",
+    "startSilence": [
+      26.221749,
+      26.6171
+    ],
+    "endSilence": [
+      27.966832999999998,
+      28.4013
+    ]
+  },
+  {
+    "index": 66,
+    "batch": 1,
+    "start": 28.1840665,
+    "end": 29.7323685,
+    "text": "a worn-out doll",
+    "startSilence": [
+      27.966832999999998,
+      28.4013
+    ],
+    "endSilence": [
+      29.539137,
+      29.9256
+    ]
+  },
+  {
+    "index": 67,
+    "batch": 1,
+    "start": 29.7323685,
+    "end": 31.92,
+    "text": "a very tall beanstalk",
+    "startSilence": [
+      29.539137,
+      29.9256
+    ],
+    "endSilence": null
+  },
+  {
+    "index": 68,
+    "batch": 2,
+    "start": 0,
+    "end": 1.5383040000000001,
+    "text": "the baby's blanket",
+    "startSilence": null,
+    "endSilence": [
+      1.338168,
+      1.73844
+    ]
+  },
+  {
+    "index": 69,
+    "batch": 2,
+    "start": 1.5383040000000001,
+    "end": 2.9736885,
+    "text": "the bright man",
+    "startSilence": [
+      1.338168,
+      1.73844
+    ],
+    "endSilence": [
+      2.7781670000000003,
+      3.16921
+    ]
+  },
+  {
+    "index": 70,
+    "batch": 2,
+    "start": 2.9736885,
+    "end": 4.4956435,
+    "text": "the canteen helper",
+    "startSilence": [
+      2.7781670000000003,
+      3.16921
+    ],
+    "endSilence": [
+      4.306437,
+      4.68485
+    ]
+  },
+  {
+    "index": 71,
+    "batch": 2,
+    "start": 4.4956435,
+    "end": 5.8179675,
+    "text": "the good lad",
+    "startSilence": [
+      4.306437,
+      4.68485
+    ],
+    "endSilence": [
+      5.657775,
+      5.97816
+    ]
+  },
+  {
+    "index": 72,
+    "batch": 2,
+    "start": 5.8179675,
+    "end": 7.0067,
+    "text": "the new bag",
+    "startSilence": [
+      5.657775,
+      5.97816
+    ],
+    "endSilence": [
+      6.83653,
+      7.17687
+    ]
+  },
+  {
+    "index": 73,
+    "batch": 2,
+    "start": 7.0067,
+    "end": 8.5486665,
+    "text": "the tall tree",
+    "startSilence": [
+      6.83653,
+      7.17687
+    ],
+    "endSilence": [
+      8.381433,
+      8.7159
+    ]
+  },
+  {
+    "index": 74,
+    "batch": 2,
+    "start": 8.5486665,
+    "end": 9.8772685,
+    "text": "the pretty woman",
+    "startSilence": [
+      8.381433,
+      8.7159
+    ],
+    "endSilence": [
+      9.710137,
+      10.0444
+    ]
+  },
+  {
+    "index": 75,
+    "batch": 2,
+    "start": 9.8772685,
+    "end": 11.419131499999999,
+    "text": "always laughing",
+    "startSilence": [
+      9.710137,
+      10.0444
+    ],
+    "endSilence": [
+      11.280163,
+      11.5581
+    ]
+  },
+  {
+    "index": 76,
+    "batch": 2,
+    "start": 11.419131499999999,
+    "end": 12.83506,
+    "text": "beautiful girl",
+    "startSilence": [
+      11.280163,
+      11.5581
+    ],
+    "endSilence": [
+      12.66862,
+      13.0015
+    ]
+  },
+  {
+    "index": 77,
+    "batch": 2,
+    "start": 12.83506,
+    "end": 14.035656,
+    "text": "loaf of bread",
+    "startSilence": [
+      12.66862,
+      13.0015
+    ],
+    "endSilence": [
+      13.875112,
+      14.1962
+    ]
+  },
+  {
+    "index": 78,
+    "batch": 2,
+    "start": 14.035656,
+    "end": 15.485855,
+    "text": "many candies",
+    "startSilence": [
+      13.875112,
+      14.1962
+    ],
+    "endSilence": [
+      15.33971,
+      15.632
+    ]
+  },
+  {
+    "index": 79,
+    "batch": 2,
+    "start": 15.485855,
+    "end": 16.86173,
+    "text": "men at work",
+    "startSilence": [
+      15.33971,
+      15.632
+    ],
+    "endSilence": [
+      16.70656,
+      17.0169
+    ]
+  },
+  {
+    "index": 80,
+    "batch": 2,
+    "start": 16.86173,
+    "end": 18.021781,
+    "text": "once in a while",
+    "startSilence": [
+      16.70656,
+      17.0169
+    ],
+    "endSilence": [
+      17.844162,
+      18.1994
+    ]
+  },
+  {
+    "index": 81,
+    "batch": 2,
+    "start": 18.021781,
+    "end": 19.391690000000004,
+    "text": "once upon a time",
+    "startSilence": [
+      17.844162,
+      18.1994
+    ],
+    "endSilence": [
+      19.248980000000003,
+      19.5344
+    ]
+  },
+  {
+    "index": 82,
+    "batch": 2,
+    "start": 19.391690000000004,
+    "end": 20.996778499999998,
+    "text": "on top of the branch",
+    "startSilence": [
+      19.248980000000003,
+      19.5344
+    ],
+    "endSilence": [
+      20.871257,
+      21.1223
+    ]
+  },
+  {
+    "index": 83,
+    "batch": 2,
+    "start": 20.996778499999998,
+    "end": 22.2898,
+    "text": "open windows",
+    "startSilence": [
+      20.871257,
+      21.1223
+    ],
+    "endSilence": [
+      22.1548,
+      22.4248
+    ]
+  },
+  {
+    "index": 84,
+    "batch": 2,
+    "start": 22.2898,
+    "end": 23.7111595,
+    "text": "seven days a week",
+    "startSilence": [
+      22.1548,
+      22.4248
+    ],
+    "endSilence": [
+      23.566919,
+      23.8554
+    ]
+  },
+  {
+    "index": 85,
+    "batch": 2,
+    "start": 23.7111595,
+    "end": 25.178579,
+    "text": "summer vacation",
+    "startSilence": [
+      23.566919,
+      23.8554
+    ],
+    "endSilence": [
+      25.024758,
+      25.3324
+    ]
+  },
+  {
+    "index": 86,
+    "batch": 2,
+    "start": 25.178579,
+    "end": 26.455823000000002,
+    "text": "under the table",
+    "startSilence": [
+      25.024758,
+      25.3324
+    ],
+    "endSilence": [
+      26.303646,
+      26.608
+    ]
+  },
+  {
+    "index": 87,
+    "batch": 2,
+    "start": 26.455823000000002,
+    "end": 27.9518025,
+    "text": "white handkerchief",
+    "startSilence": [
+      26.303646,
+      26.608
+    ],
+    "endSilence": [
+      27.658605,
+      28.245
+    ]
+  },
+  {
+    "index": 88,
+    "batch": 2,
+    "start": 27.9518025,
+    "end": 31.6038905,
+    "text": "What are the comparative and superlative forms of bad?",
+    "startSilence": [
+      27.658605,
+      28.245
+    ],
+    "endSilence": [
+      31.378981,
+      31.8288
+    ]
+  },
+  {
+    "index": 89,
+    "batch": 2,
+    "start": 31.6038905,
+    "end": 34.37709,
+    "text": "bad, worse, worst",
+    "startSilence": [
+      31.378981,
+      31.8288
+    ],
+    "endSilence": [
+      34.13658,
+      34.6176
+    ]
+  },
+  {
+    "index": 90,
+    "batch": 2,
+    "start": 34.37709,
+    "end": 37.913167,
+    "text": "What are the comparative and superlative forms of few?",
+    "startSilence": [
+      34.13658,
+      34.6176
+    ],
+    "endSilence": [
+      37.717634,
+      38.1087
+    ]
+  },
+  {
+    "index": 91,
+    "batch": 2,
+    "start": 37.913167,
+    "end": 40.8,
+    "text": "few, fewer, fewest",
+    "startSilence": [
+      37.717634,
+      38.1087
+    ],
+    "endSilence": null
+  },
+  {
+    "index": 92,
+    "batch": 3,
+    "start": 0,
+    "end": 3.410837,
+    "text": "What are the comparative and superlative forms of little?",
+    "startSilence": null,
+    "endSilence": [
+      3.1501339999999995,
+      3.67154
+    ]
+  },
+  {
+    "index": 93,
+    "batch": 3,
+    "start": 3.410837,
+    "end": 6.270751000000001,
+    "text": "little, less, least",
+    "startSilence": [
+      3.1501339999999995,
+      3.67154
+    ],
+    "endSilence": [
+      5.961862,
+      6.57964
+    ]
+  },
+  {
+    "index": 94,
+    "batch": 3,
+    "start": 6.270751000000001,
+    "end": 9.8602115,
+    "text": "What are the comparative and superlative forms of good?",
+    "startSilence": [
+      5.961862,
+      6.57964
+    ],
+    "endSilence": [
+      9.570223,
+      10.1502
+    ]
+  },
+  {
+    "index": 95,
+    "batch": 3,
+    "start": 9.8602115,
+    "end": 12.553073,
+    "text": "good, better, best",
+    "startSilence": [
+      9.570223,
+      10.1502
+    ],
+    "endSilence": [
+      12.272846,
+      12.8333
+    ]
+  },
+  {
+    "index": 96,
+    "batch": 3,
+    "start": 12.553073,
+    "end": 16.158161,
+    "text": "What are the comparative and superlative forms of many?",
+    "startSilence": [
+      12.272846,
+      12.8333
+    ],
+    "endSilence": [
+      15.882322,
+      16.434
+    ]
+  },
+  {
+    "index": 97,
+    "batch": 3,
+    "start": 16.158161,
+    "end": 18.950323,
+    "text": "many, more, most",
+    "startSilence": [
+      15.882322,
+      16.434
+    ],
+    "endSilence": [
+      18.678146,
+      19.2225
+    ]
+  },
+  {
+    "index": 98,
+    "batch": 3,
+    "start": 18.950323,
+    "end": 22.674748,
+    "text": "What are the comparative and superlative forms of brave?",
+    "startSilence": [
+      18.678146,
+      19.2225
+    ],
+    "endSilence": [
+      22.387696000000002,
+      22.9618
+    ]
+  },
+  {
+    "index": 99,
+    "batch": 3,
+    "start": 22.674748,
+    "end": 25.751272999999998,
+    "text": "brave, braver, bravest",
+    "startSilence": [
+      22.387696000000002,
+      22.9618
+    ],
+    "endSilence": [
+      25.481046,
+      26.0215
+    ]
+  },
+  {
+    "index": 100,
+    "batch": 3,
+    "start": 25.751272999999998,
+    "end": 29.380309500000003,
+    "text": "What are the comparative and superlative forms of bright?",
+    "startSilence": [
+      25.481046,
+      26.0215
+    ],
+    "endSilence": [
+      29.084119,
+      29.6765
+    ]
+  },
+  {
+    "index": 101,
+    "batch": 3,
+    "start": 29.380309500000003,
+    "end": 32.2920335,
+    "text": "bright, brighter, brightest",
+    "startSilence": [
+      29.084119,
+      29.6765
+    ],
+    "endSilence": [
+      32.009267,
+      32.5748
+    ]
+  },
+  {
+    "index": 102,
+    "batch": 3,
+    "start": 32.2920335,
+    "end": 35.9356415,
+    "text": "What are the comparative and superlative forms of clean?",
+    "startSilence": [
+      32.009267,
+      32.5748
+    ],
+    "endSilence": [
+      35.668283,
+      36.203
+    ]
+  },
+  {
+    "index": 103,
+    "batch": 3,
+    "start": 35.9356415,
+    "end": 38.861098,
+    "text": "clean, cleaner, cleanest",
+    "startSilence": [
+      35.668283,
+      36.203
+    ],
+    "endSilence": [
+      38.585996,
+      39.1362
+    ]
+  },
+  {
+    "index": 104,
+    "batch": 3,
+    "start": 38.861098,
+    "end": 42.505383,
+    "text": "What are the comparative and superlative forms of cold?",
+    "startSilence": [
+      38.585996,
+      39.1362
+    ],
+    "endSilence": [
+      42.232866,
+      42.7779
+    ]
+  },
+  {
+    "index": 105,
+    "batch": 3,
+    "start": 42.505383,
+    "end": 45.483513,
+    "text": "cold, colder, coldest",
+    "startSilence": [
+      42.232866,
+      42.7779
+    ],
+    "endSilence": [
+      45.209726,
+      45.7573
+    ]
+  },
+  {
+    "index": 106,
+    "batch": 3,
+    "start": 45.483513,
+    "end": 49.091221000000004,
+    "text": "What are the comparative and superlative forms of cool?",
+    "startSilence": [
+      45.209726,
+      45.7573
+    ],
+    "endSilence": [
+      48.820042,
+      49.3624
+    ]
+  },
+  {
+    "index": 107,
+    "batch": 3,
+    "start": 49.091221000000004,
+    "end": 51.958323,
+    "text": "cool, cooler, coolest",
+    "startSilence": [
+      48.820042,
+      49.3624
+    ],
+    "endSilence": [
+      51.681146,
+      52.2355
+    ]
+  },
+  {
+    "index": 108,
+    "batch": 3,
+    "start": 51.958323,
+    "end": 55.597033499999995,
+    "text": "What are the comparative and superlative forms of dark?",
+    "startSilence": [
+      51.681146,
+      52.2355
+    ],
+    "endSilence": [
+      55.29926699999999,
+      55.8948
+    ]
+  },
+  {
+    "index": 109,
+    "batch": 3,
+    "start": 55.597033499999995,
+    "end": 58.547276999999994,
+    "text": "dark, darker, darkest",
+    "startSilence": [
+      55.29926699999999,
+      55.8948
+    ],
+    "endSilence": [
+      58.273354,
+      58.8212
+    ]
+  },
+  {
+    "index": 110,
+    "batch": 3,
+    "start": 58.547276999999994,
+    "end": 62.153892500000005,
+    "text": "What are the comparative and superlative forms of dirty?",
+    "startSilence": [
+      58.273354,
+      58.8212
+    ],
+    "endSilence": [
+      61.870185000000006,
+      62.4376
+    ]
+  },
+  {
+    "index": 111,
+    "batch": 3,
+    "start": 62.153892500000005,
+    "end": 65.1066725,
+    "text": "dirty, dirtier, dirtiest",
+    "startSilence": [
+      61.870185000000006,
+      62.4376
+    ],
+    "endSilence": [
+      64.83474500000001,
+      65.3786
+    ]
+  },
+  {
+    "index": 112,
+    "batch": 3,
+    "start": 65.1066725,
+    "end": 68.64,
+    "text": "What are the comparative and superlative forms of early?",
+    "startSilence": [
+      64.83474500000001,
+      65.3786
+    ],
+    "endSilence": null
+  },
+  {
+    "index": 113,
+    "batch": 4,
+    "start": 0,
+    "end": 2.73279,
+    "text": "early, earlier, earliest",
+    "startSilence": null,
+    "endSilence": [
+      2.40245,
+      3.06313
+    ]
+  },
+  {
+    "index": 114,
+    "batch": 4,
+    "start": 2.73279,
+    "end": 6.309602,
+    "text": "What are the comparative and superlative forms of funny?",
+    "startSilence": [
+      2.40245,
+      3.06313
+    ],
+    "endSilence": [
+      6.092924,
+      6.52628
+    ]
+  },
+  {
+    "index": 115,
+    "batch": 4,
+    "start": 6.309602,
+    "end": 9.0383405,
+    "text": "funny, funnier, funniest",
+    "startSilence": [
+      6.092924,
+      6.52628
+    ],
+    "endSilence": [
+      8.792921,
+      9.28376
+    ]
+  },
+  {
+    "index": 116,
+    "batch": 4,
+    "start": 9.0383405,
+    "end": 12.470244000000001,
+    "text": "What are the comparative and superlative forms of happy?",
+    "startSilence": [
+      8.792921,
+      9.28376
+    ],
+    "endSilence": [
+      12.241888000000001,
+      12.6986
+    ]
+  },
+  {
+    "index": 117,
+    "batch": 4,
+    "start": 12.470244000000001,
+    "end": 15.2069835,
+    "text": "happy, happier, happiest",
+    "startSilence": [
+      12.241888000000001,
+      12.6986
+    ],
+    "endSilence": [
+      14.966167,
+      15.4478
+    ]
+  },
+  {
+    "index": 118,
+    "batch": 4,
+    "start": 15.2069835,
+    "end": 18.656495,
+    "text": "What are the comparative and superlative forms of hard?",
+    "startSilence": [
+      14.966167,
+      15.4478
+    ],
+    "endSilence": [
+      18.43179,
+      18.8812
+    ]
+  },
+  {
+    "index": 119,
+    "batch": 4,
+    "start": 18.656495,
+    "end": 21.2937475,
+    "text": "hard, harder, hardest",
+    "startSilence": [
+      18.43179,
+      18.8812
+    ],
+    "endSilence": [
+      21.062794999999998,
+      21.5247
+    ]
+  },
+  {
+    "index": 120,
+    "batch": 4,
+    "start": 21.2937475,
+    "end": 24.674116,
+    "text": "What are the comparative and superlative forms of heavy?",
+    "startSilence": [
+      21.062794999999998,
+      21.5247
+    ],
+    "endSilence": [
+      24.437132000000002,
+      24.9111
+    ]
+  },
+  {
+    "index": 121,
+    "batch": 4,
+    "start": 24.674116,
+    "end": 27.3468495,
+    "text": "heavy, heavier, heaviest",
+    "startSilence": [
+      24.437132000000002,
+      24.9111
+    ],
+    "endSilence": [
+      27.105999,
+      27.5877
+    ]
+  },
+  {
+    "index": 122,
+    "batch": 4,
+    "start": 27.3468495,
+    "end": 30.770255,
+    "text": "What are the comparative and superlative forms of high?",
+    "startSilence": [
+      27.105999,
+      27.5877
+    ],
+    "endSilence": [
+      30.53801,
+      31.0025
+    ]
+  },
+  {
+    "index": 123,
+    "batch": 4,
+    "start": 30.770255,
+    "end": 33.37591,
+    "text": "high, higher, highest",
+    "startSilence": [
+      30.53801,
+      31.0025
+    ],
+    "endSilence": [
+      33.14252,
+      33.6093
+    ]
+  },
+  {
+    "index": 124,
+    "batch": 4,
+    "start": 33.37591,
+    "end": 36.788506999999996,
+    "text": "What are the comparative and superlative forms of hot?",
+    "startSilence": [
+      33.14252,
+      33.6093
+    ],
+    "endSilence": [
+      36.564414,
+      37.0126
+    ]
+  },
+  {
+    "index": 125,
+    "batch": 4,
+    "start": 36.788506999999996,
+    "end": 39.292100500000004,
+    "text": "hot, hotter, hottest",
+    "startSilence": [
+      36.564414,
+      37.0126
+    ],
+    "endSilence": [
+      39.053801,
+      39.5304
+    ]
+  },
+  {
+    "index": 126,
+    "batch": 4,
+    "start": 39.292100500000004,
+    "end": 42.8305425,
+    "text": "What are the comparative and superlative forms of large?",
+    "startSilence": [
+      39.053801,
+      39.5304
+    ],
+    "endSilence": [
+      42.613785,
+      43.0473
+    ]
+  },
+  {
+    "index": 127,
+    "batch": 4,
+    "start": 42.8305425,
+    "end": 45.6169775,
+    "text": "large, larger, largest",
+    "startSilence": [
+      42.613785,
+      43.0473
+    ],
+    "endSilence": [
+      45.380855,
+      45.8531
+    ]
+  },
+  {
+    "index": 128,
+    "batch": 4,
+    "start": 45.6169775,
+    "end": 49.015201499999996,
+    "text": "What are the comparative and superlative forms of late?",
+    "startSilence": [
+      45.380855,
+      45.8531
+    ],
+    "endSilence": [
+      48.788602999999995,
+      49.2418
+    ]
+  },
+  {
+    "index": 129,
+    "batch": 4,
+    "start": 49.015201499999996,
+    "end": 51.616569999999996,
+    "text": "late, later, latest",
+    "startSilence": [
+      48.788602999999995,
+      49.2418
+    ],
+    "endSilence": [
+      51.382839999999995,
+      51.8503
+    ]
+  },
+  {
+    "index": 130,
+    "batch": 4,
+    "start": 51.616569999999996,
+    "end": 55.0117855,
+    "text": "What are the comparative and superlative forms of light?",
+    "startSilence": [
+      51.382839999999995,
+      51.8503
+    ],
+    "endSilence": [
+      54.782171,
+      55.2414
+    ]
+  },
+  {
+    "index": 131,
+    "batch": 4,
+    "start": 55.0117855,
+    "end": 57.6168505,
+    "text": "light, lighter, lightest",
+    "startSilence": [
+      54.782171,
+      55.2414
+    ],
+    "endSilence": [
+      57.381601,
+      57.8521
+    ]
+  },
+  {
+    "index": 132,
+    "batch": 4,
+    "start": 57.6168505,
+    "end": 61.120292,
+    "text": "What are the comparative and superlative forms of lonely?",
+    "startSilence": [
+      57.381601,
+      57.8521
+    ],
+    "endSilence": [
+      60.898784,
+      61.3418
+    ]
+  },
+  {
+    "index": 133,
+    "batch": 4,
+    "start": 61.120292,
+    "end": 64.08,
+    "text": "lonely, lonelier, loneliest",
+    "startSilence": [
+      60.898784,
+      61.3418
+    ],
+    "endSilence": null
+  },
+  {
+    "index": 134,
+    "batch": 5,
+    "start": 0,
+    "end": 3.5060279999999997,
+    "text": "What are the comparative and superlative forms of long?",
+    "startSilence": null,
+    "endSilence": [
+      3.248976,
+      3.76308
+    ]
+  },
+  {
+    "index": 135,
+    "batch": 5,
+    "start": 3.5060279999999997,
+    "end": 6.5971925,
+    "text": "long, longer, longest",
+    "startSilence": [
+      3.248976,
+      3.76308
+    ],
+    "endSilence": [
+      6.285265,
+      6.90912
+    ]
+  },
+  {
+    "index": 136,
+    "batch": 5,
+    "start": 6.5971925,
+    "end": 10.325191,
+    "text": "What are the comparative and superlative forms of nice?",
+    "startSilence": [
+      6.285265,
+      6.90912
+    ],
+    "endSilence": [
+      10.058082,
+      10.5923
+    ]
+  },
+  {
+    "index": 137,
+    "batch": 5,
+    "start": 10.325191,
+    "end": 13.341484999999999,
+    "text": "nice, nicer, nicest",
+    "startSilence": [
+      10.058082,
+      10.5923
+    ],
+    "endSilence": [
+      13.05017,
+      13.6328
+    ]
+  },
+  {
+    "index": 138,
+    "batch": 5,
+    "start": 13.341484999999999,
+    "end": 17.0389555,
+    "text": "What are the comparative and superlative forms of old?",
+    "startSilence": [
+      13.05017,
+      13.6328
+    ],
+    "endSilence": [
+      16.735611000000002,
+      17.3423
+    ]
+  },
+  {
+    "index": 139,
+    "batch": 5,
+    "start": 17.0389555,
+    "end": 19.9740745,
+    "text": "old, older, oldest",
+    "startSilence": [
+      16.735611000000002,
+      17.3423
+    ],
+    "endSilence": [
+      19.688349,
+      20.2598
+    ]
+  },
+  {
+    "index": 140,
+    "batch": 5,
+    "start": 19.9740745,
+    "end": 23.6385515,
+    "text": "What are the comparative and superlative forms of rare?",
+    "startSilence": [
+      19.688349,
+      20.2598
+    ],
+    "endSilence": [
+      23.348903,
+      23.9282
+    ]
+  },
+  {
+    "index": 141,
+    "batch": 5,
+    "start": 23.6385515,
+    "end": 26.701197,
+    "text": "rare, rarer, rarest",
+    "startSilence": [
+      23.348903,
+      23.9282
+    ],
+    "endSilence": [
+      26.421594,
+      26.9808
+    ]
+  },
+  {
+    "index": 142,
+    "batch": 5,
+    "start": 26.701197,
+    "end": 30.357563999999996,
+    "text": "What are the comparative and superlative forms of sad?",
+    "startSilence": [
+      26.421594,
+      26.9808
+    ],
+    "endSilence": [
+      30.141327999999998,
+      30.5738
+    ]
+  },
+  {
+    "index": 143,
+    "batch": 5,
+    "start": 30.357563999999996,
+    "end": 33.4125485,
+    "text": "sad, sadder, saddest",
+    "startSilence": [
+      30.141327999999998,
+      30.5738
+    ],
+    "endSilence": [
+      33.128297,
+      33.6968
+    ]
+  },
+  {
+    "index": 144,
+    "batch": 5,
+    "start": 33.4125485,
+    "end": 37.023365,
+    "text": "What are the comparative and superlative forms of short?",
+    "startSilence": [
+      33.128297,
+      33.6968
+    ],
+    "endSilence": [
+      36.76273,
+      37.284
+    ]
+  },
+  {
+    "index": 145,
+    "batch": 5,
+    "start": 37.023365,
+    "end": 40.0344075,
+    "text": "short, shorter, shortest",
+    "startSilence": [
+      36.76273,
+      37.284
+    ],
+    "endSilence": [
+      39.747015000000005,
+      40.3218
+    ]
+  },
+  {
+    "index": 146,
+    "batch": 5,
+    "start": 40.0344075,
+    "end": 43.700979000000004,
+    "text": "What are the comparative and superlative forms of slow?",
+    "startSilence": [
+      39.747015000000005,
+      40.3218
+    ],
+    "endSilence": [
+      43.473258,
+      43.9287
+    ]
+  },
+  {
+    "index": 147,
+    "batch": 5,
+    "start": 43.700979000000004,
+    "end": 46.87154700000001,
+    "text": "slow, slower, slowest",
+    "startSilence": [
+      43.473258,
+      43.9287
+    ],
+    "endSilence": [
+      46.592794000000005,
+      47.1503
+    ]
+  },
+  {
+    "index": 148,
+    "batch": 5,
+    "start": 46.87154700000001,
+    "end": 50.534418,
+    "text": "What are the comparative and superlative forms of small?",
+    "startSilence": [
+      46.592794000000005,
+      47.1503
+    ],
+    "endSilence": [
+      50.271436,
+      50.7974
+    ]
+  },
+  {
+    "index": 149,
+    "batch": 5,
+    "start": 50.534418,
+    "end": 53.708766999999995,
+    "text": "small, smaller, smallest",
+    "startSilence": [
+      50.271436,
+      50.7974
+    ],
+    "endSilence": [
+      53.429334,
+      53.9882
+    ]
+  },
+  {
+    "index": 150,
+    "batch": 5,
+    "start": 53.708766999999995,
+    "end": 57.433587,
+    "text": "What are the comparative and superlative forms of soft?",
+    "startSilence": [
+      53.429334,
+      53.9882
+    ],
+    "endSilence": [
+      57.176274,
+      57.6909
+    ]
+  },
+  {
+    "index": 151,
+    "batch": 5,
+    "start": 57.433587,
+    "end": 60.6250645,
+    "text": "soft, softer, softest",
+    "startSilence": [
+      57.176274,
+      57.6909
+    ],
+    "endSilence": [
+      60.332729,
+      60.9174
+    ]
+  },
+  {
+    "index": 152,
+    "batch": 5,
+    "start": 60.6250645,
+    "end": 64.365008,
+    "text": "What are the comparative and superlative forms of strong?",
+    "startSilence": [
+      60.332729,
+      60.9174
+    ],
+    "endSilence": [
+      64.125416,
+      64.6046
+    ]
+  },
+  {
+    "index": 153,
+    "batch": 5,
+    "start": 64.365008,
+    "end": 67.622558,
+    "text": "strong, stronger, strongest",
+    "startSilence": [
+      64.125416,
+      64.6046
+    ],
+    "endSilence": [
+      67.331016,
+      67.9141
+    ]
+  },
+  {
+    "index": 154,
+    "batch": 5,
+    "start": 67.622558,
+    "end": 71.244842,
+    "text": "What are the comparative and superlative forms of tall?",
+    "startSilence": [
+      67.331016,
+      67.9141
+    ],
+    "endSilence": [
+      70.961384,
+      71.5283
+    ]
+  },
+  {
+    "index": 155,
+    "batch": 5,
+    "start": 71.244842,
+    "end": 74.08,
+    "text": "tall, taller, tallest",
+    "startSilence": [
+      70.961384,
+      71.5283
+    ],
+    "endSilence": null
+  },
+  {
+    "index": 156,
+    "batch": 6,
+    "start": 0,
+    "end": 3.4464695,
+    "text": "What are the comparative and superlative forms of thick?",
+    "startSilence": null,
+    "endSilence": [
+      3.180449,
+      3.71249
+    ]
+  },
+  {
+    "index": 157,
+    "batch": 6,
+    "start": 3.4464695,
+    "end": 6.385695,
+    "text": "thick, thicker, thickest",
+    "startSilence": [
+      3.180449,
+      3.71249
+    ],
+    "endSilence": [
+      6.106330000000001,
+      6.66506
+    ]
+  },
+  {
+    "index": 158,
+    "batch": 6,
+    "start": 6.385695,
+    "end": 9.948176499999999,
+    "text": "What are the comparative and superlative forms of thin?",
+    "startSilence": [
+      6.106330000000001,
+      6.66506
+    ],
+    "endSilence": [
+      9.677553,
+      10.2188
+    ]
+  },
+  {
+    "index": 159,
+    "batch": 6,
+    "start": 9.948176499999999,
+    "end": 12.8850755,
+    "text": "thin, thinner, thinnest",
+    "startSilence": [
+      9.677553,
+      10.2188
+    ],
+    "endSilence": [
+      12.622751,
+      13.1474
+    ]
+  },
+  {
+    "index": 160,
+    "batch": 6,
+    "start": 12.8850755,
+    "end": 16.551595,
+    "text": "What are the comparative and superlative forms of warm?",
+    "startSilence": [
+      12.622751,
+      13.1474
+    ],
+    "endSilence": [
+      16.28579,
+      16.8174
+    ]
+  },
+  {
+    "index": 161,
+    "batch": 6,
+    "start": 16.551595,
+    "end": 19.595692,
+    "text": "warm, warmer, warmest",
+    "startSilence": [
+      16.28579,
+      16.8174
+    ],
+    "endSilence": [
+      19.335284,
+      19.8561
+    ]
+  },
+  {
+    "index": 162,
+    "batch": 6,
+    "start": 19.595692,
+    "end": 23.171698999999997,
+    "text": "What are the comparative and superlative forms of young?",
+    "startSilence": [
+      19.335284,
+      19.8561
+    ],
+    "endSilence": [
+      22.902198,
+      23.4412
+    ]
+  },
+  {
+    "index": 163,
+    "batch": 6,
+    "start": 23.171698999999997,
+    "end": 26.2210875,
+    "text": "young, younger, youngest",
+    "startSilence": [
+      22.902198,
+      23.4412
+    ],
+    "endSilence": [
+      25.941575,
+      26.5006
+    ]
+  },
+  {
+    "index": 164,
+    "batch": 6,
+    "start": 26.2210875,
+    "end": 29.462317999999996,
+    "text": "What is the number after 136?",
+    "startSilence": [
+      25.941575,
+      26.5006
+    ],
+    "endSilence": [
+      29.230435999999997,
+      29.6942
+    ]
+  },
+  {
+    "index": 165,
+    "batch": 6,
+    "start": 29.462317999999996,
+    "end": 31.363062999999997,
+    "text": "137",
+    "startSilence": [
+      29.230435999999997,
+      29.6942
+    ],
+    "endSilence": [
+      31.097326,
+      31.6288
+    ]
+  },
+  {
+    "index": 166,
+    "batch": 6,
+    "start": 31.363062999999997,
+    "end": 34.43742900000001,
+    "text": "What is the number after 154?",
+    "startSilence": [
+      31.097326,
+      31.6288
+    ],
+    "endSilence": [
+      34.18275800000001,
+      34.6921
+    ]
+  },
+  {
+    "index": 167,
+    "batch": 6,
+    "start": 34.43742900000001,
+    "end": 36.386682500000006,
+    "text": "155",
+    "startSilence": [
+      34.18275800000001,
+      34.6921
+    ],
+    "endSilence": [
+      36.117465,
+      36.6559
+    ]
+  },
+  {
+    "index": 168,
+    "batch": 6,
+    "start": 36.386682500000006,
+    "end": 39.449510000000004,
+    "text": "What is the number after 198?",
+    "startSilence": [
+      36.117465,
+      36.6559
+    ],
+    "endSilence": [
+      39.20612,
+      39.6929
+    ]
+  },
+  {
+    "index": 169,
+    "batch": 6,
+    "start": 39.449510000000004,
+    "end": 41.4282585,
+    "text": "199",
+    "startSilence": [
+      39.20612,
+      39.6929
+    ],
+    "endSilence": [
+      41.159517,
+      41.697
+    ]
+  },
+  {
+    "index": 170,
+    "batch": 6,
+    "start": 41.4282585,
+    "end": 44.256353499999996,
+    "text": "What is the number after 209?",
+    "startSilence": [
+      41.159517,
+      41.697
+    ],
+    "endSilence": [
+      43.992906999999995,
+      44.5198
+    ]
+  },
+  {
+    "index": 171,
+    "batch": 6,
+    "start": 44.256353499999996,
+    "end": 45.8066305,
+    "text": "210",
+    "startSilence": [
+      43.992906999999995,
+      44.5198
+    ],
+    "endSilence": [
+      45.518161,
+      46.0951
+    ]
+  },
+  {
+    "index": 172,
+    "batch": 6,
+    "start": 45.8066305,
+    "end": 48.8566225,
+    "text": "What is the number after 131?",
+    "startSilence": [
+      45.518161,
+      46.0951
+    ],
+    "endSilence": [
+      48.607745,
+      49.1055
+    ]
+  },
+  {
+    "index": 173,
+    "batch": 6,
+    "start": 48.8566225,
+    "end": 50.7312365,
+    "text": "132",
+    "startSilence": [
+      48.607745,
+      49.1055
+    ],
+    "endSilence": [
+      50.448073,
+      51.0144
+    ]
+  },
+  {
+    "index": 174,
+    "batch": 6,
+    "start": 50.7312365,
+    "end": 53.7827555,
+    "text": "What is the number after 132?",
+    "startSilence": [
+      50.448073,
+      51.0144
+    ],
+    "endSilence": [
+      53.523311,
+      54.0422
+    ]
+  },
+  {
+    "index": 175,
+    "batch": 6,
+    "start": 53.7827555,
+    "end": 55.614622999999995,
+    "text": "133",
+    "startSilence": [
+      53.523311,
+      54.0422
+    ],
+    "endSilence": [
+      55.333546,
+      55.8957
+    ]
+  },
+  {
+    "index": 176,
+    "batch": 6,
+    "start": 55.614622999999995,
+    "end": 58.6424975,
+    "text": "What is the number after 133?",
+    "startSilence": [
+      55.333546,
+      55.8957
+    ],
+    "endSilence": [
+      58.380694999999996,
+      58.9043
+    ]
+  },
+  {
+    "index": 177,
+    "batch": 6,
+    "start": 58.6424975,
+    "end": 60.5719135,
+    "text": "134",
+    "startSilence": [
+      58.380694999999996,
+      58.9043
+    ],
+    "endSilence": [
+      60.285927,
+      60.8579
+    ]
+  },
+  {
+    "index": 178,
+    "batch": 6,
+    "start": 60.5719135,
+    "end": 63.635229,
+    "text": "What is the number after 134?",
+    "startSilence": [
+      60.285927,
+      60.8579
+    ],
+    "endSilence": [
+      63.369458,
+      63.901
+    ]
+  },
+  {
+    "index": 179,
+    "batch": 6,
+    "start": 63.635229,
+    "end": 65.44,
+    "text": "135",
+    "startSilence": [
+      63.369458,
+      63.901
+    ],
+    "endSilence": null
+  },
+  {
+    "index": 180,
+    "batch": 7,
+    "start": 0,
+    "end": 3.106267,
+    "text": "What is the number after 135?",
+    "startSilence": null,
+    "endSilence": [
+      2.819884,
+      3.39265
+    ]
+  },
+  {
+    "index": 181,
+    "batch": 7,
+    "start": 3.106267,
+    "end": 4.992324,
+    "text": "136",
+    "startSilence": [
+      2.819884,
+      3.39265
+    ],
+    "endSilence": [
+      4.760748,
+      5.2239
+    ]
+  },
+  {
+    "index": 182,
+    "batch": 7,
+    "start": 4.992324,
+    "end": 8.128377500000001,
+    "text": "What is the number after 137?",
+    "startSilence": [
+      4.760748,
+      5.2239
+    ],
+    "endSilence": [
+      7.867595000000001,
+      8.38916
+    ]
+  },
+  {
+    "index": 183,
+    "batch": 7,
+    "start": 8.128377500000001,
+    "end": 10.0230025,
+    "text": "138",
+    "startSilence": [
+      7.867595000000001,
+      8.38916
+    ],
+    "endSilence": [
+      9.779805,
+      10.2662
+    ]
+  },
+  {
+    "index": 184,
+    "batch": 7,
+    "start": 10.0230025,
+    "end": 13.063492499999999,
+    "text": "What is the number after 138?",
+    "startSilence": [
+      9.779805,
+      10.2662
+    ],
+    "endSilence": [
+      12.793685,
+      13.3333
+    ]
+  },
+  {
+    "index": 185,
+    "batch": 7,
+    "start": 13.063492499999999,
+    "end": 14.8947425,
+    "text": "139",
+    "startSilence": [
+      12.793685,
+      13.3333
+    ],
+    "endSilence": [
+      14.647985,
+      15.1415
+    ]
+  },
+  {
+    "index": 186,
+    "batch": 7,
+    "start": 14.8947425,
+    "end": 17.9942825,
+    "text": "What is the number after 139?",
+    "startSilence": [
+      14.647985,
+      15.1415
+    ],
+    "endSilence": [
+      17.703965,
+      18.2846
+    ]
+  },
+  {
+    "index": 187,
+    "batch": 7,
+    "start": 17.9942825,
+    "end": 19.6979245,
+    "text": "140",
+    "startSilence": [
+      17.703965,
+      18.2846
+    ],
+    "endSilence": [
+      19.448049,
+      19.9478
+    ]
+  },
+  {
+    "index": 188,
+    "batch": 7,
+    "start": 19.6979245,
+    "end": 22.5181295,
+    "text": "What is the number after 140?",
+    "startSilence": [
+      19.448049,
+      19.9478
+    ],
+    "endSilence": [
+      22.244059,
+      22.7922
+    ]
+  },
+  {
+    "index": 189,
+    "batch": 7,
+    "start": 22.5181295,
+    "end": 24.269396999999998,
+    "text": "141",
+    "startSilence": [
+      22.244059,
+      22.7922
+    ],
+    "endSilence": [
+      24.004794,
+      24.534
+    ]
+  },
+  {
+    "index": 190,
+    "batch": 7,
+    "start": 24.269396999999998,
+    "end": 27.3630425,
+    "text": "What is the number after 141?",
+    "startSilence": [
+      24.004794,
+      24.534
+    ],
+    "endSilence": [
+      27.076285,
+      27.6498
+    ]
+  },
+  {
+    "index": 191,
+    "batch": 7,
+    "start": 27.3630425,
+    "end": 29.305161499999997,
+    "text": "142",
+    "startSilence": [
+      27.076285,
+      27.6498
+    ],
+    "endSilence": [
+      29.046022999999998,
+      29.5643
+    ]
+  },
+  {
+    "index": 192,
+    "batch": 7,
+    "start": 29.305161499999997,
+    "end": 32.398227500000004,
+    "text": "What is the number after 142?",
+    "startSilence": [
+      29.046022999999998,
+      29.5643
+    ],
+    "endSilence": [
+      32.110155000000006,
+      32.6863
+    ]
+  },
+  {
+    "index": 193,
+    "batch": 7,
+    "start": 32.398227500000004,
+    "end": 34.191493,
+    "text": "143",
+    "startSilence": [
+      32.110155000000006,
+      32.6863
+    ],
+    "endSilence": [
+      33.925586,
+      34.4574
+    ]
+  },
+  {
+    "index": 194,
+    "batch": 7,
+    "start": 34.191493,
+    "end": 37.29272949999999,
+    "text": "What is the number after 143?",
+    "startSilence": [
+      33.925586,
+      34.4574
+    ],
+    "endSilence": [
+      37.010858999999996,
+      37.5746
+    ]
+  },
+  {
+    "index": 195,
+    "batch": 7,
+    "start": 37.29272949999999,
+    "end": 39.250975,
+    "text": "144",
+    "startSilence": [
+      37.010858999999996,
+      37.5746
+    ],
+    "endSilence": [
+      38.99305,
+      39.5089
+    ]
+  },
+  {
+    "index": 196,
+    "batch": 7,
+    "start": 39.250975,
+    "end": 42.346867,
+    "text": "What is the number after 144?",
+    "startSilence": [
+      38.99305,
+      39.5089
+    ],
+    "endSilence": [
+      42.066334000000005,
+      42.6274
+    ]
+  },
+  {
+    "index": 197,
+    "batch": 7,
+    "start": 42.346867,
+    "end": 44.213418000000004,
+    "text": "145",
+    "startSilence": [
+      42.066334000000005,
+      42.6274
+    ],
+    "endSilence": [
+      43.960436,
+      44.4664
+    ]
+  },
+  {
+    "index": 198,
+    "batch": 7,
+    "start": 44.213418000000004,
+    "end": 47.400687999999995,
+    "text": "What is the number after 145?",
+    "startSilence": [
+      43.960436,
+      44.4664
+    ],
+    "endSilence": [
+      47.113975999999994,
+      47.6874
+    ]
+  },
+  {
+    "index": 199,
+    "batch": 7,
+    "start": 47.400687999999995,
+    "end": 49.457195999999996,
+    "text": "146",
+    "startSilence": [
+      47.113975999999994,
+      47.6874
+    ],
+    "endSilence": [
+      49.211991999999995,
+      49.7024
+    ]
+  },
+  {
+    "index": 200,
+    "batch": 7,
+    "start": 49.457195999999996,
+    "end": 52.6563715,
+    "text": "What is the number after 146?",
+    "startSilence": [
+      49.211991999999995,
+      49.7024
+    ],
+    "endSilence": [
+      52.379943,
+      52.9328
+    ]
+  },
+  {
+    "index": 201,
+    "batch": 7,
+    "start": 52.6563715,
+    "end": 54.5055745,
+    "text": "147",
+    "startSilence": [
+      52.379943,
+      52.9328
+    ],
+    "endSilence": [
+      54.259849,
+      54.7513
+    ]
+  },
+  {
+    "index": 202,
+    "batch": 7,
+    "start": 54.5055745,
+    "end": 57.6716375,
+    "text": "What is the number after 147?",
+    "startSilence": [
+      54.259849,
+      54.7513
+    ],
+    "endSilence": [
+      57.390175,
+      57.9531
+    ]
+  },
+  {
+    "index": 203,
+    "batch": 7,
+    "start": 57.6716375,
+    "end": 59.52,
+    "text": "148",
+    "startSilence": [
+      57.390175,
+      57.9531
+    ],
+    "endSilence": null
+  },
+  {
+    "index": 204,
+    "batch": 8,
+    "start": 0,
+    "end": 2.8669189999999998,
+    "text": "What is the number after 148?",
+    "startSilence": null,
+    "endSilence": [
+      2.5529279999999996,
+      3.18091
+    ]
+  },
+  {
+    "index": 205,
+    "batch": 8,
+    "start": 2.8669189999999998,
+    "end": 4.822169000000001,
+    "text": "149",
+    "startSilence": [
+      2.5529279999999996,
+      3.18091
+    ],
+    "endSilence": [
+      4.546058,
+      5.09828
+    ]
+  },
+  {
+    "index": 206,
+    "batch": 8,
+    "start": 4.822169000000001,
+    "end": 7.86187,
+    "text": "What is the number after 149?",
+    "startSilence": [
+      4.546058,
+      5.09828
+    ],
+    "endSilence": [
+      7.56814,
+      8.1556
+    ]
+  },
+  {
+    "index": 207,
+    "batch": 8,
+    "start": 7.86187,
+    "end": 9.5015655,
+    "text": "150",
+    "startSilence": [
+      7.56814,
+      8.1556
+    ],
+    "endSilence": [
+      9.201611,
+      9.80152
+    ]
+  },
+  {
+    "index": 208,
+    "batch": 8,
+    "start": 9.5015655,
+    "end": 12.333661,
+    "text": "What is the number after 150?",
+    "startSilence": [
+      9.201611,
+      9.80152
+    ],
+    "endSilence": [
+      12.041722,
+      12.6256
+    ]
+  },
+  {
+    "index": 209,
+    "batch": 8,
+    "start": 12.333661,
+    "end": 14.292005500000002,
+    "text": "151",
+    "startSilence": [
+      12.041722,
+      12.6256
+    ],
+    "endSilence": [
+      13.984511000000001,
+      14.5995
+    ]
+  },
+  {
+    "index": 210,
+    "batch": 8,
+    "start": 14.292005500000002,
+    "end": 17.360038000000003,
+    "text": "What is the number after 151?",
+    "startSilence": [
+      13.984511000000001,
+      14.5995
+    ],
+    "endSilence": [
+      17.060276,
+      17.6598
+    ]
+  },
+  {
+    "index": 211,
+    "batch": 8,
+    "start": 17.360038000000003,
+    "end": 19.255879999999998,
+    "text": "152",
+    "startSilence": [
+      17.060276,
+      17.6598
+    ],
+    "endSilence": [
+      18.95376,
+      19.558
+    ]
+  },
+  {
+    "index": 212,
+    "batch": 8,
+    "start": 19.255879999999998,
+    "end": 22.315961,
+    "text": "What is the number after 152?",
+    "startSilence": [
+      18.95376,
+      19.558
+    ],
+    "endSilence": [
+      22.004022,
+      22.6279
+    ]
+  },
+  {
+    "index": 213,
+    "batch": 8,
+    "start": 22.315961,
+    "end": 24.34757,
+    "text": "153",
+    "startSilence": [
+      22.004022,
+      22.6279
+    ],
+    "endSilence": [
+      24.02774,
+      24.6674
+    ]
+  },
+  {
+    "index": 214,
+    "batch": 8,
+    "start": 24.34757,
+    "end": 27.41921,
+    "text": "What is the number after 153?",
+    "startSilence": [
+      24.02774,
+      24.6674
+    ],
+    "endSilence": [
+      27.10692,
+      27.7315
+    ]
+  },
+  {
+    "index": 215,
+    "batch": 8,
+    "start": 27.41921,
+    "end": 29.352756499999998,
+    "text": "154",
+    "startSilence": [
+      27.10692,
+      27.7315
+    ],
+    "endSilence": [
+      29.047812999999998,
+      29.6577
+    ]
+  },
+  {
+    "index": 216,
+    "batch": 8,
+    "start": 29.352756499999998,
+    "end": 32.5423805,
+    "text": "What is the number after 155?",
+    "startSilence": [
+      29.047812999999998,
+      29.6577
+    ],
+    "endSilence": [
+      32.236961,
+      32.8478
+    ]
+  },
+  {
+    "index": 217,
+    "batch": 8,
+    "start": 32.5423805,
+    "end": 34.684377,
+    "text": "156",
+    "startSilence": [
+      32.236961,
+      32.8478
+    ],
+    "endSilence": [
+      34.366554,
+      35.0022
+    ]
+  },
+  {
+    "index": 218,
+    "batch": 8,
+    "start": 34.684377,
+    "end": 37.9037725,
+    "text": "What is the number after 156?",
+    "startSilence": [
+      34.366554,
+      35.0022
+    ],
+    "endSilence": [
+      37.591845,
+      38.2157
+    ]
+  },
+  {
+    "index": 219,
+    "batch": 8,
+    "start": 37.9037725,
+    "end": 39.893781000000004,
+    "text": "157",
+    "startSilence": [
+      37.591845,
+      38.2157
+    ],
+    "endSilence": [
+      39.585062,
+      40.2025
+    ]
+  },
+  {
+    "index": 220,
+    "batch": 8,
+    "start": 39.893781000000004,
+    "end": 43.0580315,
+    "text": "What is the number after 157?",
+    "startSilence": [
+      39.585062,
+      40.2025
+    ],
+    "endSilence": [
+      42.740163,
+      43.3759
+    ]
+  },
+  {
+    "index": 221,
+    "batch": 8,
+    "start": 43.0580315,
+    "end": 45.1030785,
+    "text": "158",
+    "startSilence": [
+      42.740163,
+      43.3759
+    ],
+    "endSilence": [
+      44.792557,
+      45.4136
+    ]
+  },
+  {
+    "index": 222,
+    "batch": 8,
+    "start": 45.1030785,
+    "end": 48.174916499999995,
+    "text": "What is the number after 158?",
+    "startSilence": [
+      44.792557,
+      45.4136
+    ],
+    "endSilence": [
+      47.849633,
+      48.5002
+    ]
+  },
+  {
+    "index": 223,
+    "batch": 8,
+    "start": 48.174916499999995,
+    "end": 50.1290855,
+    "text": "159",
+    "startSilence": [
+      47.849633,
+      48.5002
+    ],
+    "endSilence": [
+      49.819471,
+      50.4387
+    ]
+  },
+  {
+    "index": 224,
+    "batch": 8,
+    "start": 50.1290855,
+    "end": 53.235556,
+    "text": "What is the number after 159?",
+    "startSilence": [
+      49.819471,
+      50.4387
+    ],
+    "endSilence": [
+      52.912812,
+      53.5583
+    ]
+  },
+  {
+    "index": 225,
+    "batch": 8,
+    "start": 53.235556,
+    "end": 55.0906305,
+    "text": "160",
+    "startSilence": [
+      52.912812,
+      53.5583
+    ],
+    "endSilence": [
+      54.772161000000004,
+      55.4091
+    ]
+  },
+  {
+    "index": 226,
+    "batch": 8,
+    "start": 55.0906305,
+    "end": 58.011363,
+    "text": "What is the number after 160?",
+    "startSilence": [
+      54.772161000000004,
+      55.4091
+    ],
+    "endSilence": [
+      57.681726,
+      58.341
+    ]
+  },
+  {
+    "index": 227,
+    "batch": 8,
+    "start": 58.011363,
+    "end": 59.76,
+    "text": "161",
+    "startSilence": [
+      57.681726,
+      58.341
+    ],
+    "endSilence": null
+  },
+  {
+    "index": 228,
+    "batch": 9,
+    "start": 0,
+    "end": 2.9865095000000004,
+    "text": "What is the number after 161?",
+    "startSilence": null,
+    "endSilence": [
+      2.662269,
+      3.31075
+    ]
+  },
+  {
+    "index": 229,
+    "batch": 9,
+    "start": 2.9865095000000004,
+    "end": 4.899900000000001,
+    "text": "162",
+    "startSilence": [
+      2.662269,
+      3.31075
+    ],
+    "endSilence": [
+      4.64168,
+      5.15812
+    ]
+  },
+  {
+    "index": 230,
+    "batch": 9,
+    "start": 4.899900000000001,
+    "end": 8.038332500000001,
+    "text": "What is the number after 162?",
+    "startSilence": [
+      4.64168,
+      5.15812
+    ],
+    "endSilence": [
+      7.749115000000001,
+      8.32755
+    ]
+  },
+  {
+    "index": 231,
+    "batch": 9,
+    "start": 8.038332500000001,
+    "end": 10.0027615,
+    "text": "163",
+    "startSilence": [
+      7.749115000000001,
+      8.32755
+    ],
+    "endSilence": [
+      9.723623,
+      10.2819
+    ]
+  },
+  {
+    "index": 232,
+    "batch": 9,
+    "start": 10.0027615,
+    "end": 13.1624265,
+    "text": "What is the number after 163?",
+    "startSilence": [
+      9.723623,
+      10.2819
+    ],
+    "endSilence": [
+      12.864853,
+      13.46
+    ]
+  },
+  {
+    "index": 233,
+    "batch": 9,
+    "start": 13.1624265,
+    "end": 15.0726935,
+    "text": "164",
+    "startSilence": [
+      12.864853,
+      13.46
+    ],
+    "endSilence": [
+      14.799587,
+      15.3458
+    ]
+  },
+  {
+    "index": 234,
+    "batch": 9,
+    "start": 15.0726935,
+    "end": 18.228184499999998,
+    "text": "What is the number after 164?",
+    "startSilence": [
+      14.799587,
+      15.3458
+    ],
+    "endSilence": [
+      17.937969,
+      18.5184
+    ]
+  },
+  {
+    "index": 235,
+    "batch": 9,
+    "start": 18.228184499999998,
+    "end": 20.347624500000002,
+    "text": "165",
+    "startSilence": [
+      17.937969,
+      18.5184
+    ],
+    "endSilence": [
+      20.059949,
+      20.6353
+    ]
+  },
+  {
+    "index": 236,
+    "batch": 9,
+    "start": 20.347624500000002,
+    "end": 23.6348955,
+    "text": "What is the number after 165?",
+    "startSilence": [
+      20.059949,
+      20.6353
+    ],
+    "endSilence": [
+      23.325791,
+      23.944
+    ]
+  },
+  {
+    "index": 237,
+    "batch": 9,
+    "start": 23.6348955,
+    "end": 25.6426635,
+    "text": "166",
+    "startSilence": [
+      23.325791,
+      23.944
+    ],
+    "endSilence": [
+      25.363627,
+      25.9217
+    ]
+  },
+  {
+    "index": 238,
+    "batch": 9,
+    "start": 25.6426635,
+    "end": 28.9097655,
+    "text": "What is the number after 166?",
+    "startSilence": [
+      25.363627,
+      25.9217
+    ],
+    "endSilence": [
+      28.611931,
+      29.2076
+    ]
+  },
+  {
+    "index": 239,
+    "batch": 9,
+    "start": 28.9097655,
+    "end": 30.944879999999998,
+    "text": "167",
+    "startSilence": [
+      28.611931,
+      29.2076
+    ],
+    "endSilence": [
+      30.66666,
+      31.2231
+    ]
+  },
+  {
+    "index": 240,
+    "batch": 9,
+    "start": 30.944879999999998,
+    "end": 34.147151,
+    "text": "What is the number after 167?",
+    "startSilence": [
+      30.66666,
+      31.2231
+    ],
+    "endSilence": [
+      33.853602,
+      34.4407
+    ]
+  },
+  {
+    "index": 241,
+    "batch": 9,
+    "start": 34.147151,
+    "end": 36.035700500000004,
+    "text": "168",
+    "startSilence": [
+      33.853602,
+      34.4407
+    ],
+    "endSilence": [
+      35.757401,
+      36.314
+    ]
+  },
+  {
+    "index": 242,
+    "batch": 9,
+    "start": 36.035700500000004,
+    "end": 39.183068500000005,
+    "text": "What is the number after 168?",
+    "startSilence": [
+      35.757401,
+      36.314
+    ],
+    "endSilence": [
+      38.890937,
+      39.4752
+    ]
+  },
+  {
+    "index": 243,
+    "batch": 9,
+    "start": 39.183068500000005,
+    "end": 41.1903695,
+    "text": "169",
+    "startSilence": [
+      38.890937,
+      39.4752
+    ],
+    "endSilence": [
+      40.908839,
+      41.4719
+    ]
+  },
+  {
+    "index": 244,
+    "batch": 9,
+    "start": 41.1903695,
+    "end": 44.344922499999996,
+    "text": "What is the number after 169?",
+    "startSilence": [
+      40.908839,
+      41.4719
+    ],
+    "endSilence": [
+      44.049944999999994,
+      44.6399
+    ]
+  },
+  {
+    "index": 245,
+    "batch": 9,
+    "start": 44.344922499999996,
+    "end": 46.062116,
+    "text": "170",
+    "startSilence": [
+      44.049944999999994,
+      44.6399
+    ],
+    "endSilence": [
+      45.779032,
+      46.3452
+    ]
+  },
+  {
+    "index": 246,
+    "batch": 9,
+    "start": 46.062116,
+    "end": 49.000218000000004,
+    "text": "What is the number after 170?",
+    "startSilence": [
+      45.779032,
+      46.3452
+    ],
+    "endSilence": [
+      48.707236,
+      49.2932
+    ]
+  },
+  {
+    "index": 247,
+    "batch": 9,
+    "start": 49.000218000000004,
+    "end": 50.990519500000005,
+    "text": "171",
+    "startSilence": [
+      48.707236,
+      49.2932
+    ],
+    "endSilence": [
+      50.705939,
+      51.2751
+    ]
+  },
+  {
+    "index": 248,
+    "batch": 9,
+    "start": 50.990519500000005,
+    "end": 54.147489,
+    "text": "What is the number after 171?",
+    "startSilence": [
+      50.705939,
+      51.2751
+    ],
+    "endSilence": [
+      53.846378,
+      54.4486
+    ]
+  },
+  {
+    "index": 249,
+    "batch": 9,
+    "start": 54.147489,
+    "end": 56.084756500000005,
+    "text": "172",
+    "startSilence": [
+      53.846378,
+      54.4486
+    ],
+    "endSilence": [
+      55.795913000000006,
+      56.3736
+    ]
+  },
+  {
+    "index": 250,
+    "batch": 9,
+    "start": 56.084756500000005,
+    "end": 59.259986,
+    "text": "What is the number after 172?",
+    "startSilence": [
+      55.795913000000006,
+      56.3736
+    ],
+    "endSilence": [
+      58.967072,
+      59.5529
+    ]
+  },
+  {
+    "index": 251,
+    "batch": 9,
+    "start": 59.259986,
+    "end": 61.2,
+    "text": "173",
+    "startSilence": [
+      58.967072,
+      59.5529
+    ],
+    "endSilence": null
+  },
+  {
+    "index": 252,
+    "batch": 10,
+    "start": 0,
+    "end": 3.0875294999999996,
+    "text": "What is the number after 173?",
+    "startSilence": null,
+    "endSilence": [
+      2.7865089999999997,
+      3.38855
+    ]
+  },
+  {
+    "index": 253,
+    "batch": 10,
+    "start": 3.0875294999999996,
+    "end": 5.1259115,
+    "text": "174",
+    "startSilence": [
+      2.7865089999999997,
+      3.38855
+    ],
+    "endSilence": [
+      4.854653,
+      5.39717
+    ]
+  },
+  {
+    "index": 254,
+    "batch": 10,
+    "start": 5.1259115,
+    "end": 8.344828,
+    "text": "What is the number after 174?",
+    "startSilence": [
+      4.854653,
+      5.39717
+    ],
+    "endSilence": [
+      8.058116,
+      8.63154
+    ]
+  },
+  {
+    "index": 255,
+    "batch": 10,
+    "start": 8.344828,
+    "end": 10.4889295,
+    "text": "175",
+    "startSilence": [
+      8.058116,
+      8.63154
+    ],
+    "endSilence": [
+      10.219859,
+      10.758
+    ]
+  },
+  {
+    "index": 256,
+    "batch": 10,
+    "start": 10.4889295,
+    "end": 13.8082855,
+    "text": "What is the number after 175?",
+    "startSilence": [
+      10.219859,
+      10.758
+    ],
+    "endSilence": [
+      13.507571,
+      14.109
+    ]
+  },
+  {
+    "index": 257,
+    "batch": 10,
+    "start": 13.8082855,
+    "end": 15.976612,
+    "text": "176",
+    "startSilence": [
+      13.507571,
+      14.109
+    ],
+    "endSilence": [
+      15.683323999999999,
+      16.2699
+    ]
+  },
+  {
+    "index": 258,
+    "batch": 10,
+    "start": 15.976612,
+    "end": 19.3290955,
+    "text": "What is the number after 176?",
+    "startSilence": [
+      15.683323999999999,
+      16.2699
+    ],
+    "endSilence": [
+      19.034991,
+      19.6232
+    ]
+  },
+  {
+    "index": 259,
+    "batch": 10,
+    "start": 19.3290955,
+    "end": 21.429384499999998,
+    "text": "177",
+    "startSilence": [
+      19.034991,
+      19.6232
+    ],
+    "endSilence": [
+      21.149168999999997,
+      21.7096
+    ]
+  },
+  {
+    "index": 260,
+    "batch": 10,
+    "start": 21.429384499999998,
+    "end": 24.706444,
+    "text": "What is the number after 177?",
+    "startSilence": [
+      21.149168999999997,
+      21.7096
+    ],
+    "endSilence": [
+      24.411988,
+      25.0009
+    ]
+  },
+  {
+    "index": 261,
+    "batch": 10,
+    "start": 24.706444,
+    "end": 26.7684595,
+    "text": "178",
+    "startSilence": [
+      24.411988,
+      25.0009
+    ],
+    "endSilence": [
+      26.479219,
+      27.0577
+    ]
+  },
+  {
+    "index": 262,
+    "batch": 10,
+    "start": 26.7684595,
+    "end": 30.017765,
+    "text": "What is the number after 178?",
+    "startSilence": [
+      26.479219,
+      27.0577
+    ],
+    "endSilence": [
+      29.72823,
+      30.3073
+    ]
+  },
+  {
+    "index": 263,
+    "batch": 10,
+    "start": 30.017765,
+    "end": 32.0887455,
+    "text": "179",
+    "startSilence": [
+      29.72823,
+      30.3073
+    ],
+    "endSilence": [
+      31.812691,
+      32.3648
+    ]
+  },
+  {
+    "index": 264,
+    "batch": 10,
+    "start": 32.0887455,
+    "end": 35.305755000000005,
+    "text": "What is the number after 179?",
+    "startSilence": [
+      31.812691,
+      32.3648
+    ],
+    "endSilence": [
+      35.018510000000006,
+      35.593
+    ]
+  },
+  {
+    "index": 265,
+    "batch": 10,
+    "start": 35.305755000000005,
+    "end": 37.005472999999995,
+    "text": "180",
+    "startSilence": [
+      35.018510000000006,
+      35.593
+    ],
+    "endSilence": [
+      36.71524599999999,
+      37.2957
+    ]
+  },
+  {
+    "index": 266,
+    "batch": 10,
+    "start": 37.005472999999995,
+    "end": 39.862410499999996,
+    "text": "What is the number after 180?",
+    "startSilence": [
+      36.71524599999999,
+      37.2957
+    ],
+    "endSilence": [
+      39.571821,
+      40.153
+    ]
+  },
+  {
+    "index": 267,
+    "batch": 10,
+    "start": 39.862410499999996,
+    "end": 41.789688,
+    "text": "181",
+    "startSilence": [
+      39.571821,
+      40.153
+    ],
+    "endSilence": [
+      41.504076,
+      42.0753
+    ]
+  },
+  {
+    "index": 268,
+    "batch": 10,
+    "start": 41.789688,
+    "end": 44.8847045,
+    "text": "What is the number after 181?",
+    "startSilence": [
+      41.504076,
+      42.0753
+    ],
+    "endSilence": [
+      44.592709,
+      45.1767
+    ]
+  },
+  {
+    "index": 269,
+    "batch": 10,
+    "start": 44.8847045,
+    "end": 46.83272649999999,
+    "text": "182",
+    "startSilence": [
+      44.592709,
+      45.1767
+    ],
+    "endSilence": [
+      46.539052999999996,
+      47.1264
+    ]
+  },
+  {
+    "index": 270,
+    "batch": 10,
+    "start": 46.83272649999999,
+    "end": 49.936153499999996,
+    "text": "What is the number after 182?",
+    "startSilence": [
+      46.539052999999996,
+      47.1264
+    ],
+    "endSilence": [
+      49.645506999999995,
+      50.2268
+    ]
+  },
+  {
+    "index": 271,
+    "batch": 10,
+    "start": 49.936153499999996,
+    "end": 51.9023655,
+    "text": "183",
+    "startSilence": [
+      49.645506999999995,
+      50.2268
+    ],
+    "endSilence": [
+      51.624531,
+      52.1802
+    ]
+  },
+  {
+    "index": 272,
+    "batch": 10,
+    "start": 51.9023655,
+    "end": 55.010514,
+    "text": "What is the number after 183?",
+    "startSilence": [
+      51.624531,
+      52.1802
+    ],
+    "endSilence": [
+      54.718427999999996,
+      55.3026
+    ]
+  },
+  {
+    "index": 273,
+    "batch": 10,
+    "start": 55.010514,
+    "end": 56.973799,
+    "text": "184",
+    "startSilence": [
+      54.718427999999996,
+      55.3026
+    ],
+    "endSilence": [
+      56.689298,
+      57.2583
+    ]
+  },
+  {
+    "index": 274,
+    "batch": 10,
+    "start": 56.973799,
+    "end": 60.08828200000001,
+    "text": "What is the number after 184?",
+    "startSilence": [
+      56.689298,
+      57.2583
+    ],
+    "endSilence": [
+      59.790164000000004,
+      60.3864
+    ]
+  },
+  {
+    "index": 275,
+    "batch": 10,
+    "start": 60.08828200000001,
+    "end": 62.24,
+    "text": "185",
+    "startSilence": [
+      59.790164000000004,
+      60.3864
+    ],
+    "endSilence": null
+  },
+  {
+    "index": 276,
+    "batch": 11,
+    "start": 0,
+    "end": 2.9595805,
+    "text": "What is the number after 185?",
+    "startSilence": null,
+    "endSilence": [
+      2.693651,
+      3.22551
+    ]
+  },
+  {
+    "index": 277,
+    "batch": 11,
+    "start": 2.9595805,
+    "end": 4.899899,
+    "text": "186",
+    "startSilence": [
+      2.693651,
+      3.22551
+    ],
+    "endSilence": [
+      4.637008,
+      5.16279
+    ]
+  },
+  {
+    "index": 278,
+    "batch": 11,
+    "start": 4.899899,
+    "end": 8.0243795,
+    "text": "What is the number after 186?",
+    "startSilence": [
+      4.637008,
+      5.16279
+    ],
+    "endSilence": [
+      7.753019,
+      8.29574
+    ]
+  },
+  {
+    "index": 279,
+    "batch": 11,
+    "start": 8.0243795,
+    "end": 9.859308500000001,
+    "text": "187",
+    "startSilence": [
+      7.753019,
+      8.29574
+    ],
+    "endSilence": [
+      9.603617,
+      10.115
+    ]
+  },
+  {
+    "index": 280,
+    "batch": 11,
+    "start": 9.859308500000001,
+    "end": 12.925764000000001,
+    "text": "What is the number after 187?",
+    "startSilence": [
+      9.603617,
+      10.115
+    ],
+    "endSilence": [
+      12.649528,
+      13.202
+    ]
+  },
+  {
+    "index": 281,
+    "batch": 11,
+    "start": 12.925764000000001,
+    "end": 14.786362999999998,
+    "text": "188",
+    "startSilence": [
+      12.649528,
+      13.202
+    ],
+    "endSilence": [
+      14.510625999999998,
+      15.0621
+    ]
+  },
+  {
+    "index": 282,
+    "batch": 11,
+    "start": 14.786362999999998,
+    "end": 17.7778845,
+    "text": "What is the number after 188?",
+    "startSilence": [
+      14.510625999999998,
+      15.0621
+    ],
+    "endSilence": [
+      17.502669,
+      18.0531
+    ]
+  },
+  {
+    "index": 283,
+    "batch": 11,
+    "start": 17.7778845,
+    "end": 19.594067,
+    "text": "189",
+    "startSilence": [
+      17.502669,
+      18.0531
+    ],
+    "endSilence": [
+      19.324634,
+      19.8635
+    ]
+  },
+  {
+    "index": 284,
+    "batch": 11,
+    "start": 19.594067,
+    "end": 22.622335,
+    "text": "What is the number after 189?",
+    "startSilence": [
+      19.324634,
+      19.8635
+    ],
+    "endSilence": [
+      22.34297,
+      22.9017
+    ]
+  },
+  {
+    "index": 285,
+    "batch": 11,
+    "start": 22.622335,
+    "end": 24.4103405,
+    "text": "190",
+    "startSilence": [
+      22.34297,
+      22.9017
+    ],
+    "endSilence": [
+      24.148481,
+      24.6722
+    ]
+  },
+  {
+    "index": 286,
+    "batch": 11,
+    "start": 24.4103405,
+    "end": 27.271541,
+    "text": "What is the number after 190?",
+    "startSilence": [
+      24.148481,
+      24.6722
+    ],
+    "endSilence": [
+      26.997482,
+      27.5456
+    ]
+  },
+  {
+    "index": 287,
+    "batch": 11,
+    "start": 27.271541,
+    "end": 29.064883000000002,
+    "text": "191",
+    "startSilence": [
+      26.997482,
+      27.5456
+    ],
+    "endSilence": [
+      28.797366,
+      29.3324
+    ]
+  },
+  {
+    "index": 288,
+    "batch": 11,
+    "start": 29.064883000000002,
+    "end": 32.1344005,
+    "text": "What is the number after 191?",
+    "startSilence": [
+      28.797366,
+      29.3324
+    ],
+    "endSilence": [
+      31.856101000000002,
+      32.4127
+    ]
+  },
+  {
+    "index": 289,
+    "batch": 11,
+    "start": 32.1344005,
+    "end": 34.1081285,
+    "text": "192",
+    "startSilence": [
+      31.856101000000002,
+      32.4127
+    ],
+    "endSilence": [
+      33.840657,
+      34.3756
+    ]
+  },
+  {
+    "index": 290,
+    "batch": 11,
+    "start": 34.1081285,
+    "end": 37.17319500000001,
+    "text": "What is the number after 192?",
+    "startSilence": [
+      33.840657,
+      34.3756
+    ],
+    "endSilence": [
+      36.903490000000005,
+      37.4429
+    ]
+  },
+  {
+    "index": 291,
+    "batch": 11,
+    "start": 37.17319500000001,
+    "end": 38.9989575,
+    "text": "193",
+    "startSilence": [
+      36.903490000000005,
+      37.4429
+    ],
+    "endSilence": [
+      38.724615,
+      39.2733
+    ]
+  },
+  {
+    "index": 292,
+    "batch": 11,
+    "start": 38.9989575,
+    "end": 42.086794,
+    "text": "What is the number after 193?",
+    "startSilence": [
+      38.724615,
+      39.2733
+    ],
+    "endSilence": [
+      41.805388,
+      42.3682
+    ]
+  },
+  {
+    "index": 293,
+    "batch": 11,
+    "start": 42.086794,
+    "end": 44.0964345,
+    "text": "194",
+    "startSilence": [
+      41.805388,
+      42.3682
+    ],
+    "endSilence": [
+      43.823169,
+      44.3697
+    ]
+  },
+  {
+    "index": 294,
+    "batch": 11,
+    "start": 44.0964345,
+    "end": 47.208837,
+    "text": "What is the number after 194?",
+    "startSilence": [
+      43.823169,
+      44.3697
+    ],
+    "endSilence": [
+      46.924574,
+      47.4931
+    ]
+  },
+  {
+    "index": 295,
+    "batch": 11,
+    "start": 47.208837,
+    "end": 49.153084500000006,
+    "text": "195",
+    "startSilence": [
+      46.924574,
+      47.4931
+    ],
+    "endSilence": [
+      48.873969,
+      49.4322
+    ]
+  },
+  {
+    "index": 296,
+    "batch": 11,
+    "start": 49.153084500000006,
+    "end": 52.3501675,
+    "text": "What is the number after 195?",
+    "startSilence": [
+      48.873969,
+      49.4322
+    ],
+    "endSilence": [
+      52.072435,
+      52.6279
+    ]
+  },
+  {
+    "index": 297,
+    "batch": 11,
+    "start": 52.3501675,
+    "end": 54.439501500000006,
+    "text": "196",
+    "startSilence": [
+      52.072435,
+      52.6279
+    ],
+    "endSilence": [
+      54.167903,
+      54.7111
+    ]
+  },
+  {
+    "index": 298,
+    "batch": 11,
+    "start": 54.439501500000006,
+    "end": 57.639137999999996,
+    "text": "What is the number after 196?",
+    "startSilence": [
+      54.167903,
+      54.7111
+    ],
+    "endSilence": [
+      57.365475999999994,
+      57.9128
+    ]
+  },
+  {
+    "index": 299,
+    "batch": 11,
+    "start": 57.639137999999996,
+    "end": 59.44,
+    "text": "197",
+    "startSilence": [
+      57.365475999999994,
+      57.9128
+    ],
+    "endSilence": null
+  },
+  {
+    "index": 300,
+    "batch": 12,
+    "start": 0,
+    "end": 3.0686895,
+    "text": "What is the number after 197?",
+    "startSilence": null,
+    "endSilence": [
+      2.755379,
+      3.382
+    ]
+  },
+  {
+    "index": 301,
+    "batch": 12,
+    "start": 3.0686895,
+    "end": 5.081237,
+    "text": "198",
+    "startSilence": [
+      2.755379,
+      3.382
+    ],
+    "endSilence": [
+      4.795874,
+      5.3666
+    ]
+  },
+  {
+    "index": 302,
+    "batch": 12,
+    "start": 5.081237,
+    "end": 8.190764,
+    "text": "What is the number after 199?",
+    "startSilence": [
+      4.795874,
+      5.3666
+    ],
+    "endSilence": [
+      7.974018,
+      8.40751
+    ]
+  },
+  {
+    "index": 303,
+    "batch": 12,
+    "start": 8.190764,
+    "end": 9.3762315,
+    "text": "200",
+    "startSilence": [
+      7.974018,
+      8.40751
+    ],
+    "endSilence": [
+      9.108363,
+      9.6441
+    ]
+  },
+  {
+    "index": 304,
+    "batch": 12,
+    "start": 9.3762315,
+    "end": 11.804392499999999,
+    "text": "What is the number after 200?",
+    "startSilence": [
+      9.108363,
+      9.6441
+    ],
+    "endSilence": [
+      11.581785,
+      12.027
+    ]
+  },
+  {
+    "index": 305,
+    "batch": 12,
+    "start": 11.804392499999999,
+    "end": 13.2562225,
+    "text": "201",
+    "startSilence": [
+      11.581785,
+      12.027
+    ],
+    "endSilence": [
+      12.967345,
+      13.5451
+    ]
+  },
+  {
+    "index": 306,
+    "batch": 12,
+    "start": 13.2562225,
+    "end": 15.9767185,
+    "text": "What is the number after 201?",
+    "startSilence": [
+      12.967345,
+      13.5451
+    ],
+    "endSilence": [
+      15.737637000000001,
+      16.2158
+    ]
+  },
+  {
+    "index": 307,
+    "batch": 12,
+    "start": 15.9767185,
+    "end": 17.481241,
+    "text": "202",
+    "startSilence": [
+      15.737637000000001,
+      16.2158
+    ],
+    "endSilence": [
+      17.208282,
+      17.7542
+    ]
+  },
+  {
+    "index": 308,
+    "batch": 12,
+    "start": 17.481241,
+    "end": 20.1719375,
+    "text": "What is the number after 202?",
+    "startSilence": [
+      17.208282,
+      17.7542
+    ],
+    "endSilence": [
+      19.920475,
+      20.4234
+    ]
+  },
+  {
+    "index": 309,
+    "batch": 12,
+    "start": 20.1719375,
+    "end": 21.676182499999996,
+    "text": "203",
+    "startSilence": [
+      19.920475,
+      20.4234
+    ],
+    "endSilence": [
+      21.395864999999997,
+      21.9565
+    ]
+  },
+  {
+    "index": 310,
+    "batch": 12,
+    "start": 21.676182499999996,
+    "end": 24.3900265,
+    "text": "What is the number after 203?",
+    "startSilence": [
+      21.395864999999997,
+      21.9565
+    ],
+    "endSilence": [
+      24.152453,
+      24.6276
+    ]
+  },
+  {
+    "index": 311,
+    "batch": 12,
+    "start": 24.3900265,
+    "end": 25.95318,
+    "text": "204",
+    "startSilence": [
+      24.152453,
+      24.6276
+    ],
+    "endSilence": [
+      25.67606,
+      26.2303
+    ]
+  },
+  {
+    "index": 312,
+    "batch": 12,
+    "start": 25.95318,
+    "end": 28.693965,
+    "text": "What is the number after 204?",
+    "startSilence": [
+      25.67606,
+      26.2303
+    ],
+    "endSilence": [
+      28.44833,
+      28.9396
+    ]
+  },
+  {
+    "index": 313,
+    "batch": 12,
+    "start": 28.693965,
+    "end": 30.2964,
+    "text": "205",
+    "startSilence": [
+      28.44833,
+      28.9396
+    ],
+    "endSilence": [
+      30.0275,
+      30.5653
+    ]
+  },
+  {
+    "index": 314,
+    "batch": 12,
+    "start": 30.2964,
+    "end": 33.112750000000005,
+    "text": "What is the number after 205?",
+    "startSilence": [
+      30.0275,
+      30.5653
+    ],
+    "endSilence": [
+      32.8858,
+      33.3397
+    ]
+  },
+  {
+    "index": 315,
+    "batch": 12,
+    "start": 33.112750000000005,
+    "end": 34.7565755,
+    "text": "206",
+    "startSilence": [
+      32.8858,
+      33.3397
+    ],
+    "endSilence": [
+      34.486450999999995,
+      35.0267
+    ]
+  },
+  {
+    "index": 316,
+    "batch": 12,
+    "start": 34.7565755,
+    "end": 37.565449,
+    "text": "What is the number after 206?",
+    "startSilence": [
+      34.486450999999995,
+      35.0267
+    ],
+    "endSilence": [
+      37.331798000000006,
+      37.7991
+    ]
+  },
+  {
+    "index": 317,
+    "batch": 12,
+    "start": 37.565449,
+    "end": 39.096066500000006,
+    "text": "207",
+    "startSilence": [
+      37.331798000000006,
+      37.7991
+    ],
+    "endSilence": [
+      38.813833,
+      39.3783
+    ]
+  },
+  {
+    "index": 318,
+    "batch": 12,
+    "start": 39.096066500000006,
+    "end": 41.854372999999995,
+    "text": "What is the number after 207?",
+    "startSilence": [
+      38.813833,
+      39.3783
+    ],
+    "endSilence": [
+      41.605245999999994,
+      42.1035
+    ]
+  },
+  {
+    "index": 319,
+    "batch": 12,
+    "start": 41.854372999999995,
+    "end": 43.433985500000006,
+    "text": "208",
+    "startSilence": [
+      41.605245999999994,
+      42.1035
+    ],
+    "endSilence": [
+      43.163271,
+      43.7047
+    ]
+  },
+  {
+    "index": 320,
+    "batch": 12,
+    "start": 43.433985500000006,
+    "end": 46.082094,
+    "text": "What is the number after 208?",
+    "startSilence": [
+      43.163271,
+      43.7047
+    ],
+    "endSilence": [
+      45.866788,
+      46.2974
+    ]
+  },
+  {
+    "index": 321,
+    "batch": 12,
+    "start": 46.082094,
+    "end": 47.6035035,
+    "text": "209",
+    "startSilence": [
+      45.866788,
+      46.2974
+    ],
+    "endSilence": [
+      47.282007,
+      47.925
+    ]
+  },
+  {
+    "index": 322,
+    "batch": 12,
+    "start": 47.6035035,
+    "end": 50.422906,
+    "text": "Which groups of animals are cold-blooded?",
+    "startSilence": [
+      47.282007,
+      47.925
+    ],
+    "endSilence": [
+      50.188212,
+      50.6576
+    ]
+  },
+  {
+    "index": 323,
+    "batch": 12,
+    "start": 50.422906,
+    "end": 54.8,
+    "text": "Fish, reptiles, amphibians, and insects.",
+    "startSilence": [
+      50.188212,
+      50.6576
+    ],
+    "endSilence": null
+  },
+  {
+    "index": 324,
+    "batch": 13,
+    "start": 0,
+    "end": 2.0006049999999997,
+    "text": "What does cold-blooded mean?",
+    "startSilence": null,
+    "endSilence": [
+      1.7636999999999998,
+      2.23751
+    ]
+  },
+  {
+    "index": 325,
+    "batch": 13,
+    "start": 2.0006049999999997,
+    "end": 5.4116064999999995,
+    "text": "Their body temperature changes with the temperature around them.",
+    "startSilence": [
+      1.7636999999999998,
+      2.23751
+    ],
+    "endSilence": [
+      5.123443,
+      5.69977
+    ]
+  },
+  {
+    "index": 326,
+    "batch": 13,
+    "start": 5.4116064999999995,
+    "end": 8.061445,
+    "text": "What do we call animals with backbones?",
+    "startSilence": [
+      5.123443,
+      5.69977
+    ],
+    "endSilence": [
+      7.838690000000001,
+      8.2842
+    ]
+  },
+  {
+    "index": 327,
+    "batch": 13,
+    "start": 8.061445,
+    "end": 9.370988,
+    "text": "Vertebrates.",
+    "startSilence": [
+      7.838690000000001,
+      8.2842
+    ],
+    "endSilence": [
+      9.134446,
+      9.60753
+    ]
+  },
+  {
+    "index": 328,
+    "batch": 13,
+    "start": 9.370988,
+    "end": 12.184468500000001,
+    "text": "Give some examples of animals with backbones.",
+    "startSilence": [
+      9.134446,
+      9.60753
+    ],
+    "endSilence": [
+      11.977337,
+      12.3916
+    ]
+  },
+  {
+    "index": 329,
+    "batch": 13,
+    "start": 12.184468500000001,
+    "end": 16.471325,
+    "text": "Cow, crocodile, bird, whale, and lizard.",
+    "startSilence": [
+      11.977337,
+      12.3916
+    ],
+    "endSilence": [
+      16.20035,
+      16.7423
+    ]
+  },
+  {
+    "index": 330,
+    "batch": 13,
+    "start": 16.471325,
+    "end": 19.386953,
+    "text": "What do we call animals without backbones?",
+    "startSilence": [
+      16.20035,
+      16.7423
+    ],
+    "endSilence": [
+      19.169605999999998,
+      19.6043
+    ]
+  },
+  {
+    "index": 331,
+    "batch": 13,
+    "start": 19.386953,
+    "end": 20.807302999999997,
+    "text": "Invertebrates.",
+    "startSilence": [
+      19.169605999999998,
+      19.6043
+    ],
+    "endSilence": [
+      20.581906,
+      21.0327
+    ]
+  },
+  {
+    "index": 332,
+    "batch": 13,
+    "start": 20.807302999999997,
+    "end": 23.80179,
+    "text": "Give some examples of animals without backbones.",
+    "startSilence": [
+      20.581906,
+      21.0327
+    ],
+    "endSilence": [
+      23.58408,
+      24.0195
+    ]
+  },
+  {
+    "index": 333,
+    "batch": 13,
+    "start": 23.80179,
+    "end": 28.3693735,
+    "text": "Insects, shrimps, starfish, worms, and clams.",
+    "startSilence": [
+      23.58408,
+      24.0195
+    ],
+    "endSilence": [
+      28.091946999999998,
+      28.6468
+    ]
+  },
+  {
+    "index": 334,
+    "batch": 13,
+    "start": 28.3693735,
+    "end": 31.0329625,
+    "text": "Are sponges animals or plants?",
+    "startSilence": [
+      28.091946999999998,
+      28.6468
+    ],
+    "endSilence": [
+      30.814425,
+      31.2515
+    ]
+  },
+  {
+    "index": 335,
+    "batch": 13,
+    "start": 31.0329625,
+    "end": 32.14839,
+    "text": "Animals.",
+    "startSilence": [
+      30.814425,
+      31.2515
+    ],
+    "endSilence": [
+      31.900679999999998,
+      32.3961
+    ]
+  },
+  {
+    "index": 336,
+    "batch": 13,
+    "start": 32.14839,
+    "end": 36.133537499999996,
+    "text": "Which cold-blooded animal uses its forked tongue to smell?",
+    "startSilence": [
+      31.900679999999998,
+      32.3961
+    ],
+    "endSilence": [
+      35.940974999999995,
+      36.3261
+    ]
+  },
+  {
+    "index": 337,
+    "batch": 13,
+    "start": 36.133537499999996,
+    "end": 37.3067535,
+    "text": "A snake.",
+    "startSilence": [
+      35.940974999999995,
+      36.3261
+    ],
+    "endSilence": [
+      37.036106999999994,
+      37.5774
+    ]
+  },
+  {
+    "index": 338,
+    "batch": 13,
+    "start": 37.3067535,
+    "end": 40.5287615,
+    "text": "Which animals can grow a new tail after losing it?",
+    "startSilence": [
+      37.036106999999994,
+      37.5774
+    ],
+    "endSilence": [
+      40.310723,
+      40.7468
+    ]
+  },
+  {
+    "index": 339,
+    "batch": 13,
+    "start": 40.5287615,
+    "end": 41.8864385,
+    "text": "Some lizards.",
+    "startSilence": [
+      40.310723,
+      40.7468
+    ],
+    "endSilence": [
+      41.649477,
+      42.1234
+    ]
+  },
+  {
+    "index": 340,
+    "batch": 13,
+    "start": 41.8864385,
+    "end": 44.109966,
+    "text": "Which lizard can change its color?",
+    "startSilence": [
+      41.649477,
+      42.1234
+    ],
+    "endSilence": [
+      43.908832000000004,
+      44.3111
+    ]
+  },
+  {
+    "index": 341,
+    "batch": 13,
+    "start": 44.109966,
+    "end": 45.4206455,
+    "text": "A chameleon.",
+    "startSilence": [
+      43.908832000000004,
+      44.3111
+    ],
+    "endSilence": [
+      45.149591,
+      45.6917
+    ]
+  },
+  {
+    "index": 342,
+    "batch": 13,
+    "start": 45.4206455,
+    "end": 50.102195,
+    "text": "What do we call the way animals blend in with their surroundings to avoid predators?",
+    "startSilence": [
+      45.149591,
+      45.6917
+    ],
+    "endSilence": [
+      49.90529,
+      50.2991
+    ]
+  },
+  {
+    "index": 343,
+    "batch": 13,
+    "start": 50.102195,
+    "end": 51.435668,
+    "text": "Camouflage.",
+    "startSilence": [
+      49.90529,
+      50.2991
+    ],
+    "endSilence": [
+      51.175736,
+      51.6956
+    ]
+  },
+  {
+    "index": 344,
+    "batch": 13,
+    "start": 51.435668,
+    "end": 54.6538135,
+    "text": "What is the difference between an octopus and a squid?",
+    "startSilence": [
+      51.175736,
+      51.6956
+    ],
+    "endSilence": [
+      54.437827,
+      54.8698
+    ]
+  },
+  {
+    "index": 345,
+    "batch": 13,
+    "start": 54.6538135,
+    "end": 60.075449500000005,
+    "text": "An octopus has eight arms. A squid has eight arms and two tentacles.",
+    "startSilence": [
+      54.437827,
+      54.8698
+    ],
+    "endSilence": [
+      59.825699,
+      60.3252
+    ]
+  },
+  {
+    "index": 346,
+    "batch": 13,
+    "start": 60.075449500000005,
+    "end": 62.414276,
+    "text": "How many legs do insects have?",
+    "startSilence": [
+      59.825699,
+      60.3252
+    ],
+    "endSilence": [
+      62.219752,
+      62.6088
+    ]
+  },
+  {
+    "index": 347,
+    "batch": 13,
+    "start": 62.414276,
+    "end": 63.36,
+    "text": "Six.",
+    "startSilence": [
+      62.219752,
+      62.6088
+    ],
+    "endSilence": null
+  },
+  {
+    "index": 348,
+    "batch": 14,
+    "start": 0,
+    "end": 3.905239,
+    "text": "A wasp is an insect. Can you name its major parts?",
+    "startSilence": null,
+    "endSilence": [
+      3.6657379999999997,
+      4.14474
+    ]
+  },
+  {
+    "index": 349,
+    "batch": 14,
+    "start": 3.905239,
+    "end": 11.168461,
+    "text": "Head, antenna, thorax, leg, wing, eye, mouth, and abdomen.",
+    "startSilence": [
+      3.6657379999999997,
+      4.14474
+    ],
+    "endSilence": [
+      10.876522,
+      11.4604
+    ]
+  },
+  {
+    "index": 350,
+    "batch": 14,
+    "start": 11.168461,
+    "end": 13.3380505,
+    "text": "What is this part of the wasp?",
+    "startSilence": [
+      10.876522,
+      11.4604
+    ],
+    "endSilence": [
+      13.057801,
+      13.6183
+    ]
+  },
+  {
+    "index": 351,
+    "batch": 14,
+    "start": 13.3380505,
+    "end": 14.2691475,
+    "text": "head",
+    "startSilence": [
+      13.057801,
+      13.6183
+    ],
+    "endSilence": [
+      14.049295,
+      14.489
+    ]
+  },
+  {
+    "index": 352,
+    "batch": 14,
+    "start": 14.2691475,
+    "end": 15.3157155,
+    "text": "antenna",
+    "startSilence": [
+      14.049295,
+      14.489
+    ],
+    "endSilence": [
+      15.095931,
+      15.5355
+    ]
+  },
+  {
+    "index": 353,
+    "batch": 14,
+    "start": 15.3157155,
+    "end": 16.5428375,
+    "text": "thorax",
+    "startSilence": [
+      15.095931,
+      15.5355
+    ],
+    "endSilence": [
+      16.330275,
+      16.7554
+    ]
+  },
+  {
+    "index": 354,
+    "batch": 14,
+    "start": 16.5428375,
+    "end": 17.4774615,
+    "text": "leg",
+    "startSilence": [
+      16.330275,
+      16.7554
+    ],
+    "endSilence": [
+      17.243323,
+      17.7116
+    ]
+  },
+  {
+    "index": 355,
+    "batch": 14,
+    "start": 17.4774615,
+    "end": 18.4469175,
+    "text": "wing",
+    "startSilence": [
+      17.243323,
+      17.7116
+    ],
+    "endSilence": [
+      18.217235000000002,
+      18.6766
+    ]
+  },
+  {
+    "index": 356,
+    "batch": 14,
+    "start": 18.4469175,
+    "end": 19.336253499999998,
+    "text": "eye",
+    "startSilence": [
+      18.217235000000002,
+      18.6766
+    ],
+    "endSilence": [
+      19.127806999999997,
+      19.5447
+    ]
+  },
+  {
+    "index": 357,
+    "batch": 14,
+    "start": 19.336253499999998,
+    "end": 20.292863500000003,
+    "text": "mouth",
+    "startSilence": [
+      19.127806999999997,
+      19.5447
+    ],
+    "endSilence": [
+      20.099927,
+      20.4858
+    ]
+  },
+  {
+    "index": 358,
+    "batch": 14,
+    "start": 20.292863500000003,
+    "end": 21.401171,
+    "text": "abdomen",
+    "startSilence": [
+      20.099927,
+      20.4858
+    ],
+    "endSilence": [
+      21.096942000000002,
+      21.7054
+    ]
+  },
+  {
+    "index": 359,
+    "batch": 14,
+    "start": 21.401171,
+    "end": 25.553872,
+    "text": "A butterfly is an insect. Can you name its major parts?",
+    "startSilence": [
+      21.096942000000002,
+      21.7054
+    ],
+    "endSilence": [
+      25.305244,
+      25.8025
+    ]
+  },
+  {
+    "index": 360,
+    "batch": 14,
+    "start": 25.553872,
+    "end": 33.253172,
+    "text": "Head, eye, antenna, leg, thorax, wing, proboscis, and abdomen.",
+    "startSilence": [
+      25.305244,
+      25.8025
+    ],
+    "endSilence": [
+      32.968444,
+      33.5379
+    ]
+  },
+  {
+    "index": 361,
+    "batch": 14,
+    "start": 33.253172,
+    "end": 35.4523415,
+    "text": "What is this part of the butterfly?",
+    "startSilence": [
+      32.968444,
+      33.5379
+    ],
+    "endSilence": [
+      35.229983000000004,
+      35.6747
+    ]
+  },
+  {
+    "index": 362,
+    "batch": 14,
+    "start": 35.4523415,
+    "end": 36.8146275,
+    "text": "proboscis",
+    "startSilence": [
+      35.229983000000004,
+      35.6747
+    ],
+    "endSilence": [
+      36.550455,
+      37.0788
+    ]
+  },
+  {
+    "index": 363,
+    "batch": 14,
+    "start": 36.8146275,
+    "end": 39.6085555,
+    "text": "Are spiders and scorpions insects?",
+    "startSilence": [
+      36.550455,
+      37.0788
+    ],
+    "endSilence": [
+      39.389111,
+      39.828
+    ]
+  },
+  {
+    "index": 364,
+    "batch": 14,
+    "start": 39.6085555,
+    "end": 40.500290500000006,
+    "text": "No.",
+    "startSilence": [
+      39.389111,
+      39.828
+    ],
+    "endSilence": [
+      40.261481,
+      40.7391
+    ]
+  },
+  {
+    "index": 365,
+    "batch": 14,
+    "start": 40.500290500000006,
+    "end": 43.722086499999996,
+    "text": "Why are spiders and scorpions not insects?",
+    "startSilence": [
+      40.261481,
+      40.7391
+    ],
+    "endSilence": [
+      43.478072999999995,
+      43.9661
+    ]
+  },
+  {
+    "index": 366,
+    "batch": 14,
+    "start": 43.722086499999996,
+    "end": 47.3314525,
+    "text": "They have eight legs. Insects have six legs.",
+    "startSilence": [
+      43.478072999999995,
+      43.9661
+    ],
+    "endSilence": [
+      47.072404999999996,
+      47.5905
+    ]
+  },
+  {
+    "index": 367,
+    "batch": 14,
+    "start": 47.3314525,
+    "end": 51.025313,
+    "text": "To what group of animals do spiders and scorpions belong?",
+    "startSilence": [
+      47.072404999999996,
+      47.5905
+    ],
+    "endSilence": [
+      50.787625999999996,
+      51.263
+    ]
+  },
+  {
+    "index": 368,
+    "batch": 14,
+    "start": 51.025313,
+    "end": 52.4277075,
+    "text": "Arachnids.",
+    "startSilence": [
+      50.787625999999996,
+      51.263
+    ],
+    "endSilence": [
+      52.130314999999996,
+      52.7251
+    ]
+  },
+  {
+    "index": 369,
+    "batch": 14,
+    "start": 52.4277075,
+    "end": 55.226434,
+    "text": "Name some neighbor countries of the Philippines.",
+    "startSilence": [
+      52.130314999999996,
+      52.7251
+    ],
+    "endSilence": [
+      54.987567999999996,
+      55.4653
+    ]
+  },
+  {
+    "index": 370,
+    "batch": 14,
+    "start": 55.226434,
+    "end": 62.1575025,
+    "text": "Vietnam, Thailand, Malaysia, Brunei, Indonesia, China, Japan.",
+    "startSilence": [
+      54.987567999999996,
+      55.4653
+    ],
+    "endSilence": [
+      61.886505,
+      62.4285
+    ]
+  },
+  {
+    "index": 371,
+    "batch": 14,
+    "start": 62.1575025,
+    "end": 64.32,
+    "text": "Say these neighbor countries with me.",
+    "startSilence": [
+      61.886505,
+      62.4285
+    ],
+    "endSilence": null
+  },
+  {
+    "index": 372,
+    "batch": 15,
+    "start": 0,
+    "end": 2.719202,
+    "text": "Vietnam, Thailand, Malaysia.",
+    "startSilence": null,
+    "endSilence": [
+      2.547864,
+      2.89054
+    ]
+  },
+  {
+    "index": 373,
+    "batch": 15,
+    "start": 2.719202,
+    "end": 4.557906000000001,
+    "text": "Brunei, Indonesia.",
+    "startSilence": [
+      2.547864,
+      2.89054
+    ],
+    "endSilence": [
+      4.3891420000000005,
+      4.72667
+    ]
+  },
+  {
+    "index": 374,
+    "batch": 15,
+    "start": 4.557906000000001,
+    "end": 6.31274,
+    "text": "China, Japan.",
+    "startSilence": [
+      4.3891420000000005,
+      4.72667
+    ],
+    "endSilence": [
+      6.03308,
+      6.5924
+    ]
+  },
+  {
+    "index": 375,
+    "batch": 15,
+    "start": 6.31274,
+    "end": 8.2860655,
+    "text": "What is being lazy?",
+    "startSilence": [
+      6.03308,
+      6.5924
+    ],
+    "endSilence": [
+      8.053061,
+      8.51907
+    ]
+  },
+  {
+    "index": 376,
+    "batch": 15,
+    "start": 8.2860655,
+    "end": 11.066455999999999,
+    "text": "Not willing to work or help when needed.",
+    "startSilence": [
+      8.053061,
+      8.51907
+    ],
+    "endSilence": [
+      10.830912,
+      11.302
+    ]
+  },
+  {
+    "index": 377,
+    "batch": 15,
+    "start": 11.066455999999999,
+    "end": 12.7278475,
+    "text": "Is it good to be lazy?",
+    "startSilence": [
+      10.830912,
+      11.302
+    ],
+    "endSilence": [
+      12.531895,
+      12.9238
+    ]
+  },
+  {
+    "index": 378,
+    "batch": 15,
+    "start": 12.7278475,
+    "end": 14.3511575,
+    "text": "No, it isn't.",
+    "startSilence": [
+      12.531895,
+      12.9238
+    ],
+    "endSilence": [
+      14.076815,
+      14.6255
+    ]
+  },
+  {
+    "index": 379,
+    "batch": 15,
+    "start": 14.3511575,
+    "end": 16.200443999999997,
+    "text": "What is disobeying?",
+    "startSilence": [
+      14.076815,
+      14.6255
+    ],
+    "endSilence": [
+      15.978188,
+      16.4227
+    ]
+  },
+  {
+    "index": 380,
+    "batch": 15,
+    "start": 16.200443999999997,
+    "end": 18.6679445,
+    "text": "Not to do what you have been told to do.",
+    "startSilence": [
+      15.978188,
+      16.4227
+    ],
+    "endSilence": [
+      18.432389,
+      18.9035
+    ]
+  },
+  {
+    "index": 381,
+    "batch": 15,
+    "start": 18.6679445,
+    "end": 20.501052,
+    "text": "Is it good to disobey?",
+    "startSilence": [
+      18.432389,
+      18.9035
+    ],
+    "endSilence": [
+      20.218104,
+      20.784
+    ]
+  },
+  {
+    "index": 382,
+    "batch": 15,
+    "start": 20.501052,
+    "end": 22.388941,
+    "text": "What is being wasteful?",
+    "startSilence": [
+      20.218104,
+      20.784
+    ],
+    "endSilence": [
+      22.165982,
+      22.6119
+    ]
+  },
+  {
+    "index": 383,
+    "batch": 15,
+    "start": 22.388941,
+    "end": 27.069633500000002,
+    "text": "Using more than what you need or throwing away things that can still be used.",
+    "startSilence": [
+      22.165982,
+      22.6119
+    ],
+    "endSilence": [
+      26.837967000000003,
+      27.3013
+    ]
+  },
+  {
+    "index": 384,
+    "batch": 15,
+    "start": 27.069633500000002,
+    "end": 28.905260499999997,
+    "text": "Is it good to be wasteful?",
+    "startSilence": [
+      26.837967000000003,
+      27.3013
+    ],
+    "endSilence": [
+      28.596621,
+      29.2139
+    ]
+  },
+  {
+    "index": 385,
+    "batch": 15,
+    "start": 28.905260499999997,
+    "end": 30.7623935,
+    "text": "What is being bossy?",
+    "startSilence": [
+      28.596621,
+      29.2139
+    ],
+    "endSilence": [
+      30.543187,
+      30.9816
+    ]
+  },
+  {
+    "index": 386,
+    "batch": 15,
+    "start": 30.7623935,
+    "end": 33.2296005,
+    "text": "To always tell what others should do.",
+    "startSilence": [
+      30.543187,
+      30.9816
+    ],
+    "endSilence": [
+      32.997400999999996,
+      33.4618
+    ]
+  },
+  {
+    "index": 387,
+    "batch": 15,
+    "start": 33.2296005,
+    "end": 35.039816,
+    "text": "Is it good to be bossy?",
+    "startSilence": [
+      32.997400999999996,
+      33.4618
+    ],
+    "endSilence": [
+      34.712832,
+      35.3668
+    ]
+  },
+  {
+    "index": 388,
+    "batch": 15,
+    "start": 35.039816,
+    "end": 37.493226,
+    "text": "Your turn. Say line 1.",
+    "startSilence": [
+      34.712832,
+      35.3668
+    ],
+    "endSilence": [
+      37.216752,
+      37.7697
+    ]
+  },
+  {
+    "index": 390,
+    "batch": 15,
+    "start": 37.493226,
+    "end": 39.9254435,
+    "text": "Your turn. Say line 2.",
+    "startSilence": [
+      37.216752,
+      37.7697
+    ],
+    "endSilence": [
+      39.629287000000005,
+      40.2216
+    ]
+  },
+  {
+    "index": 392,
+    "batch": 15,
+    "start": 39.9254435,
+    "end": 42.491750499999995,
+    "text": "Your turn. Say line 3.",
+    "startSilence": [
+      39.629287000000005,
+      40.2216
+    ],
+    "endSilence": [
+      42.186501,
+      42.797
+    ]
+  },
+  {
+    "index": 394,
+    "batch": 15,
+    "start": 42.491750499999995,
+    "end": 44.964794,
+    "text": "Your turn. Say line 4.",
+    "startSilence": [
+      42.186501,
+      42.797
+    ],
+    "endSilence": [
+      44.658388,
+      45.2712
+    ]
+  },
+  {
+    "index": 396,
+    "batch": 15,
+    "start": 44.964794,
+    "end": 47.646204499999996,
+    "text": "Your turn. Say line 5.",
+    "startSilence": [
+      44.658388,
+      45.2712
+    ],
+    "endSilence": [
+      47.370309,
+      47.9221
+    ]
+  },
+  {
+    "index": 398,
+    "batch": 15,
+    "start": 47.646204499999996,
+    "end": 50.19996,
+    "text": "Your turn. Say line 6.",
+    "startSilence": [
+      47.370309,
+      47.9221
+    ],
+    "endSilence": [
+      49.92462,
+      50.4753
+    ]
+  },
+  {
+    "index": 400,
+    "batch": 15,
+    "start": 50.19996,
+    "end": 52.833689500000006,
+    "text": "Your turn. Say line 7.",
+    "startSilence": [
+      49.92462,
+      50.4753
+    ],
+    "endSilence": [
+      52.544279,
+      53.1231
+    ]
+  },
+  {
+    "index": 402,
+    "batch": 15,
+    "start": 52.833689500000006,
+    "end": 55.2,
+    "text": "Your turn. Say line 8.",
+    "startSilence": [
+      52.544279,
+      53.1231
+    ],
+    "endSilence": null
+  },
+  {
+    "index": 404,
+    "batch": 16,
+    "start": 0,
+    "end": 2.343131,
+    "text": "Your turn. Say line 9.",
+    "startSilence": null,
+    "endSilence": [
+      2.045512,
+      2.64075
+    ]
+  },
+  {
+    "index": 406,
+    "batch": 16,
+    "start": 2.343131,
+    "end": 4.932894,
+    "text": "Your turn. Say line 10.",
+    "startSilence": [
+      2.045512,
+      2.64075
+    ],
+    "endSilence": [
+      4.607418,
+      5.25837
+    ]
+  },
+  {
+    "index": 408,
+    "batch": 16,
+    "start": 4.932894,
+    "end": 7.61164,
+    "text": "Your turn. Say line 11.",
+    "startSilence": [
+      4.607418,
+      5.25837
+    ],
+    "endSilence": [
+      7.32537,
+      7.89791
+    ]
+  },
+  {
+    "index": 410,
+    "batch": 16,
+    "start": 7.61164,
+    "end": 10.2804515,
+    "text": "Your turn. Say line 12.",
+    "startSilence": [
+      7.32537,
+      7.89791
+    ],
+    "endSilence": [
+      9.980803,
+      10.5801
+    ]
+  },
+  {
+    "index": 412,
+    "batch": 16,
+    "start": 10.2804515,
+    "end": 13.014979499999999,
+    "text": "Your turn. Say line 13.",
+    "startSilence": [
+      9.980803,
+      10.5801
+    ],
+    "endSilence": [
+      12.743959,
+      13.286
+    ]
+  },
+  {
+    "index": 414,
+    "batch": 16,
+    "start": 13.014979499999999,
+    "end": 15.516697999999998,
+    "text": "Recite the Our Father in Latin.",
+    "startSilence": [
+      12.743959,
+      13.286
+    ],
+    "endSilence": [
+      15.230495999999999,
+      15.8029
+    ]
+  },
+  {
+    "index": 416,
+    "batch": 16,
+    "start": 15.516697999999998,
+    "end": 18.281703,
+    "text": "Let’s practice the first 2 lines together.",
+    "startSilence": [
+      15.230495999999999,
+      15.8029
+    ],
+    "endSilence": [
+      17.982406,
+      18.581
+    ]
+  },
+  {
+    "index": 418,
+    "batch": 16,
+    "start": 18.281703,
+    "end": 21.2586065,
+    "text": "Let’s practice the first 4 lines together.",
+    "startSilence": [
+      17.982406,
+      18.581
+    ],
+    "endSilence": [
+      20.952813,
+      21.5644
+    ]
+  },
+  {
+    "index": 420,
+    "batch": 16,
+    "start": 21.2586065,
+    "end": 24.2870735,
+    "text": "Let’s practice the first 6 lines together.",
+    "startSilence": [
+      20.952813,
+      21.5644
+    ],
+    "endSilence": [
+      23.969647000000002,
+      24.6045
+    ]
+  },
+  {
+    "index": 422,
+    "batch": 16,
+    "start": 24.2870735,
+    "end": 27.2423025,
+    "text": "Let’s practice the first 8 lines together.",
+    "startSilence": [
+      23.969647000000002,
+      24.6045
+    ],
+    "endSilence": [
+      26.924105,
+      27.5605
+    ]
+  },
+  {
+    "index": 424,
+    "batch": 16,
+    "start": 27.2423025,
+    "end": 30.2041815,
+    "text": "Let’s practice the first 10 lines together.",
+    "startSilence": [
+      26.924105,
+      27.5605
+    ],
+    "endSilence": [
+      29.884363,
+      30.524
+    ]
+  },
+  {
+    "index": 426,
+    "batch": 16,
+    "start": 30.2041815,
+    "end": 33.432067,
+    "text": "Let’s practice the first 13 lines together.",
+    "startSilence": [
+      29.884363,
+      30.524
+    ],
+    "endSilence": [
+      33.081534000000005,
+      33.7826
+    ]
+  },
+  {
+    "index": 427,
+    "batch": 16,
+    "start": 33.432067,
+    "end": 36.238812,
+    "text": "What are the two main parts of the Bible?",
+    "startSilence": [
+      33.081534000000005,
+      33.7826
+    ],
+    "endSilence": [
+      35.970524000000005,
+      36.5071
+    ]
+  },
+  {
+    "index": 428,
+    "batch": 16,
+    "start": 36.238812,
+    "end": 38.653335,
+    "text": "Old Testament and New Testament.",
+    "startSilence": [
+      35.970524000000005,
+      36.5071
+    ],
+    "endSilence": [
+      38.33787,
+      38.9688
+    ]
+  },
+  {
+    "index": 429,
+    "batch": 16,
+    "start": 38.653335,
+    "end": 41.148429500000006,
+    "text": "How many books are in the Old Testament?",
+    "startSilence": [
+      38.33787,
+      38.9688
+    ],
+    "endSilence": [
+      40.924359,
+      41.3725
+    ]
+  },
+  {
+    "index": 430,
+    "batch": 16,
+    "start": 41.148429500000006,
+    "end": 42.540405,
+    "text": "Forty-six.",
+    "startSilence": [
+      40.924359,
+      41.3725
+    ],
+    "endSilence": [
+      42.26231,
+      42.8185
+    ]
+  },
+  {
+    "index": 431,
+    "batch": 16,
+    "start": 42.540405,
+    "end": 45.619315,
+    "text": "What are the first five books of the Old Testament?",
+    "startSilence": [
+      42.26231,
+      42.8185
+    ],
+    "endSilence": [
+      45.35673,
+      45.8819
+    ]
+  },
+  {
+    "index": 432,
+    "batch": 16,
+    "start": 45.619315,
+    "end": 50.4521245,
+    "text": "Genesis, Exodus, Leviticus, Numbers, and Deuteronomy.",
+    "startSilence": [
+      45.35673,
+      45.8819
+    ],
+    "endSilence": [
+      50.133348999999995,
+      50.7709
+    ]
+  },
+  {
+    "index": 433,
+    "batch": 16,
+    "start": 50.4521245,
+    "end": 52.857842500000004,
+    "text": "How many books are in the New Testament?",
+    "startSilence": [
+      50.133348999999995,
+      50.7709
+    ],
+    "endSilence": [
+      52.621085,
+      53.0946
+    ]
+  },
+  {
+    "index": 434,
+    "batch": 16,
+    "start": 52.857842500000004,
+    "end": 54.185533500000005,
+    "text": "Twenty-seven.",
+    "startSilence": [
+      52.621085,
+      53.0946
+    ],
+    "endSilence": [
+      53.872767,
+      54.4983
+    ]
+  },
+  {
+    "index": 435,
+    "batch": 16,
+    "start": 54.185533500000005,
+    "end": 57.0997095,
+    "text": "What are the four Gospels of the New Testament?",
+    "startSilence": [
+      53.872767,
+      54.4983
+    ],
+    "endSilence": [
+      56.849619000000004,
+      57.3498
+    ]
+  },
+  {
+    "index": 436,
+    "batch": 16,
+    "start": 57.0997095,
+    "end": 60.269137,
+    "text": "Matthew, Mark, Luke, and John.",
+    "startSilence": [
+      56.849619000000004,
+      57.3498
+    ],
+    "endSilence": [
+      59.928774,
+      60.6095
+    ]
+  },
+  {
+    "index": 437,
+    "batch": 16,
+    "start": 60.269137,
+    "end": 62.582027999999994,
+    "text": "What is name in German?",
+    "startSilence": [
+      59.928774,
+      60.6095
+    ],
+    "endSilence": [
+      62.261756,
+      62.9023
+    ]
+  },
+  {
+    "index": 439,
+    "batch": 16,
+    "start": 62.582027999999994,
+    "end": 64.72,
+    "text": "What is date in German?",
+    "startSilence": [
+      62.261756,
+      62.9023
+    ],
+    "endSilence": null
+  },
+  {
+    "index": 441,
+    "batch": 17,
+    "start": 0,
+    "end": 2.2150445,
+    "text": "What is exercise in German?",
+    "startSilence": null,
+    "endSilence": [
+      1.9599989999999998,
+      2.47009
+    ]
+  },
+  {
+    "index": 443,
+    "batch": 17,
+    "start": 2.2150445,
+    "end": 4.5041805,
+    "text": "What is letter in German?",
+    "startSilence": [
+      1.9599989999999998,
+      2.47009
+    ],
+    "endSilence": [
+      4.222491,
+      4.78587
+    ]
+  },
+  {
+    "index": 445,
+    "batch": 17,
+    "start": 4.5041805,
+    "end": 6.6505065000000005,
+    "text": "What is number in German?",
+    "startSilence": [
+      4.222491,
+      4.78587
+    ],
+    "endSilence": [
+      6.354713,
+      6.9463
+    ]
+  },
+  {
+    "index": 447,
+    "batch": 17,
+    "start": 6.6505065000000005,
+    "end": 8.8799005,
+    "text": "What is small in German?",
+    "startSilence": [
+      6.354713,
+      6.9463
+    ],
+    "endSilence": [
+      8.607871,
+      9.15193
+    ]
+  },
+  {
+    "index": 449,
+    "batch": 17,
+    "start": 8.8799005,
+    "end": 11.1322955,
+    "text": "What is big in German?",
+    "startSilence": [
+      8.607871,
+      9.15193
+    ],
+    "endSilence": [
+      10.688191,
+      11.5764
+    ]
+  },
+  {
+    "index": 491,
+    "batch": 17,
+    "start": 11.1322955,
+    "end": 13.277955500000001,
+    "text": "The Lord is my shepherd,",
+    "startSilence": [
+      10.688191,
+      11.5764
+    ],
+    "endSilence": [
+      13.118511,
+      13.4374
+    ]
+  },
+  {
+    "index": 492,
+    "batch": 17,
+    "start": 13.277955500000001,
+    "end": 14.926877000000001,
+    "text": "I shall not want.",
+    "startSilence": [
+      13.118511,
+      13.4374
+    ],
+    "endSilence": [
+      14.622954,
+      15.2308
+    ]
+  },
+  {
+    "index": 493,
+    "batch": 17,
+    "start": 14.926877000000001,
+    "end": 18.132776999999997,
+    "text": "He makes me lie down in green pastures,",
+    "startSilence": [
+      14.622954,
+      15.2308
+    ],
+    "endSilence": [
+      17.834954,
+      18.4306
+    ]
+  },
+  {
+    "index": 494,
+    "batch": 17,
+    "start": 18.132776999999997,
+    "end": 20.990074999999997,
+    "text": "He leads me beside quiet waters,",
+    "startSilence": [
+      17.834954,
+      18.4306
+    ],
+    "endSilence": [
+      20.68105,
+      21.2991
+    ]
+  },
+  {
+    "index": 495,
+    "batch": 17,
+    "start": 20.990074999999997,
+    "end": 23.126399,
+    "text": "He restores my soul.",
+    "startSilence": [
+      20.68105,
+      21.2991
+    ],
+    "endSilence": [
+      22.806898,
+      23.4459
+    ]
+  },
+  {
+    "index": 496,
+    "batch": 17,
+    "start": 23.126399,
+    "end": 26.020691499999998,
+    "text": "He guides me in paths of righteousness",
+    "startSilence": [
+      22.806898,
+      23.4459
+    ],
+    "endSilence": [
+      25.862482999999997,
+      26.1789
+    ]
+  },
+  {
+    "index": 497,
+    "batch": 17,
+    "start": 26.020691499999998,
+    "end": 27.813988,
+    "text": "For His name's sake.",
+    "startSilence": [
+      25.862482999999997,
+      26.1789
+    ],
+    "endSilence": [
+      27.481175999999998,
+      28.1468
+    ]
+  },
+  {
+    "index": 498,
+    "batch": 17,
+    "start": 27.813988,
+    "end": 29.116443750000002,
+    "text": "Even though I walk",
+    "startSilence": [
+      27.481175999999998,
+      28.1468
+    ],
+    "endSilence": [
+      29.0791875,
+      29.1537
+    ]
+  },
+  {
+    "index": 499,
+    "batch": 17,
+    "start": 29.116443750000002,
+    "end": 31.594144,
+    "text": "through the valley of the shadow of death,",
+    "startSilence": [
+      29.0791875,
+      29.1537
+    ],
+    "endSilence": [
+      31.365788000000002,
+      31.8225
+    ]
+  },
+  {
+    "index": 500,
+    "batch": 17,
+    "start": 31.594144,
+    "end": 33.572730500000006,
+    "text": "I will fear no evil,",
+    "startSilence": [
+      31.365788000000002,
+      31.8225
+    ],
+    "endSilence": [
+      33.384261,
+      33.7612
+    ]
+  },
+  {
+    "index": 501,
+    "batch": 17,
+    "start": 33.572730500000006,
+    "end": 35.2824685,
+    "text": "for you are with me;",
+    "startSilence": [
+      33.384261,
+      33.7612
+    ],
+    "endSilence": [
+      34.984237,
+      35.5807
+    ]
+  },
+  {
+    "index": 502,
+    "batch": 17,
+    "start": 35.2824685,
+    "end": 37.39677399999999,
+    "text": "your rod and your staff,",
+    "startSilence": [
+      34.984237,
+      35.5807
+    ],
+    "endSilence": [
+      37.247147999999996,
+      37.5464
+    ]
+  },
+  {
+    "index": 503,
+    "batch": 17,
+    "start": 37.39677399999999,
+    "end": 38.88933,
+    "text": "they comfort me.",
+    "startSilence": [
+      37.247147999999996,
+      37.5464
+    ],
+    "endSilence": [
+      38.38576,
+      39.3929
+    ]
+  },
+  {
+    "index": 504,
+    "batch": 17,
+    "start": 38.88933,
+    "end": 42.821782,
+    "text": "Recite Psalm twenty-three, verses one to four.",
+    "startSilence": [
+      38.38576,
+      39.3929
+    ],
+    "endSilence": [
+      42.374764,
+      43.2688
+    ]
+  },
+  {
+    "index": 505,
+    "batch": 17,
+    "start": 42.821782,
+    "end": 69.92,
+    "text": "The Lord is my shepherd,\nI shall not want.\nHe makes me lie down in green pastures,\nHe leads me beside quiet waters,\nHe restores my soul.\nHe guides me in paths of righteousness\nFor His name's sake.\nEven though I walk\nthrough the valley of the shadow of death,\nI will fear no evil,\nfor you are with me;\nyour rod and your staff,\nthey comfort me.",
+    "startSilence": [
+      42.374764,
+      43.2688
+    ],
+    "endSilence": null
+  },
+  {
+    "index": 506,
+    "batch": 18,
+    "start": 0,
+    "end": 3.431214,
+    "text": "The Lord is my shepherd,\nI shall not want.",
+    "startSilence": null,
+    "endSilence": [
+      3.097348,
+      3.76508
+    ]
+  },
+  {
+    "index": 507,
+    "batch": 18,
+    "start": 3.431214,
+    "end": 12.940301000000002,
+    "text": "The Lord is my shepherd,\nI shall not want.\nHe makes me lie down in green pastures,\nHe leads me beside quiet waters,",
+    "startSilence": [
+      3.097348,
+      3.76508
+    ],
+    "endSilence": [
+      12.620902000000001,
+      13.2597
+    ]
+  },
+  {
+    "index": 508,
+    "batch": 18,
+    "start": 12.940301000000002,
+    "end": 27.129337999999997,
+    "text": "The Lord is my shepherd,\nI shall not want.\nHe makes me lie down in green pastures,\nHe leads me beside quiet waters,\nHe restores my soul.\nHe guides me in paths of righteousness",
+    "startSilence": [
+      12.620902000000001,
+      13.2597
+    ],
+    "endSilence": [
+      26.820676,
+      27.438
+    ]
+  },
+  {
+    "index": 509,
+    "batch": 18,
+    "start": 27.129337999999997,
+    "end": 44.500103499999994,
+    "text": "The Lord is my shepherd,\nI shall not want.\nHe makes me lie down in green pastures,\nHe leads me beside quiet waters,\nHe restores my soul.\nHe guides me in paths of righteousness\nFor His name's sake.\nEven though I walk",
+    "startSilence": [
+      26.820676,
+      27.438
+    ],
+    "endSilence": [
+      44.187507,
+      44.8127
+    ]
+  },
+  {
+    "index": 510,
+    "batch": 18,
+    "start": 44.500103499999994,
+    "end": 65.954227,
+    "text": "The Lord is my shepherd,\nI shall not want.\nHe makes me lie down in green pastures,\nHe leads me beside quiet waters,\nHe restores my soul.\nHe guides me in paths of righteousness\nFor His name's sake.\nEven though I walk\nthrough the valley of the shadow of death,\nI will fear no evil,",
+    "startSilence": [
+      44.187507,
+      44.8127
+    ],
+    "endSilence": [
+      65.623354,
+      66.2851
+    ]
+  },
+  {
+    "index": 511,
+    "batch": 18,
+    "start": 65.954227,
+    "end": 67.28,
+    "text": "Thirty-nine.",
+    "startSilence": [
+      65.623354,
+      66.2851
+    ],
+    "endSilence": null
+  },
+  {
+    "index": 451,
+    "batch": 19,
+    "start": 0,
+    "end": 1.455234,
+    "text": "Anong hugis ito?",
+    "startSilence": null,
+    "endSilence": [
+      1.239928,
+      1.67054
+    ]
+  },
+  {
+    "index": 452,
+    "batch": 19,
+    "start": 1.455234,
+    "end": 2.4752335,
+    "text": "bilog",
+    "startSilence": [
+      1.239928,
+      1.67054
+    ],
+    "endSilence": [
+      2.290177,
+      2.66029
+    ]
+  },
+  {
+    "index": 453,
+    "batch": 19,
+    "start": 2.4752335,
+    "end": 3.6037274999999998,
+    "text": "parisukat",
+    "startSilence": [
+      2.290177,
+      2.66029
+    ],
+    "endSilence": [
+      3.4326049999999997,
+      3.77485
+    ]
+  },
+  {
+    "index": 454,
+    "batch": 19,
+    "start": 3.6037274999999998,
+    "end": 4.430099,
+    "text": "puso",
+    "startSilence": [
+      3.4326049999999997,
+      3.77485
+    ],
+    "endSilence": [
+      4.247548,
+      4.61265
+    ]
+  },
+  {
+    "index": 455,
+    "batch": 19,
+    "start": 4.430099,
+    "end": 5.598819,
+    "text": "diyamante",
+    "startSilence": [
+      4.247548,
+      4.61265
+    ],
+    "endSilence": [
+      5.412538,
+      5.7851
+    ]
+  },
+  {
+    "index": 456,
+    "batch": 19,
+    "start": 5.598819,
+    "end": 6.455540000000001,
+    "text": "tala",
+    "startSilence": [
+      5.412538,
+      5.7851
+    ],
+    "endSilence": [
+      6.280880000000001,
+      6.6302
+    ]
+  },
+  {
+    "index": 457,
+    "batch": 19,
+    "start": 6.455540000000001,
+    "end": 7.4795465,
+    "text": "tatsulok",
+    "startSilence": [
+      6.280880000000001,
+      6.6302
+    ],
+    "endSilence": [
+      7.335193,
+      7.6239
+    ]
+  },
+  {
+    "index": 458,
+    "batch": 19,
+    "start": 7.4795465,
+    "end": 8.505274499999999,
+    "text": "parihaba",
+    "startSilence": [
+      7.335193,
+      7.6239
+    ],
+    "endSilence": [
+      8.335989,
+      8.67456
+    ]
+  },
+  {
+    "index": 459,
+    "batch": 19,
+    "start": 8.505274499999999,
+    "end": 9.784263500000002,
+    "text": "biluhaba",
+    "startSilence": [
+      8.335989,
+      8.67456
+    ],
+    "endSilence": [
+      9.467427,
+      10.1011
+    ]
+  },
+  {
+    "index": 460,
+    "batch": 19,
+    "start": 9.784263500000002,
+    "end": 11.363340999999998,
+    "text": "Anong bilang ito?",
+    "startSilence": [
+      9.467427,
+      10.1011
+    ],
+    "endSilence": [
+      11.169281999999999,
+      11.5574
+    ]
+  },
+  {
+    "index": 461,
+    "batch": 19,
+    "start": 11.363340999999998,
+    "end": 12.211805000000002,
+    "text": "isa",
+    "startSilence": [
+      11.169281999999999,
+      11.5574
+    ],
+    "endSilence": [
+      12.066510000000001,
+      12.3571
+    ]
+  },
+  {
+    "index": 462,
+    "batch": 19,
+    "start": 12.211805000000002,
+    "end": 13.138353,
+    "text": "dalawa",
+    "startSilence": [
+      12.066510000000001,
+      12.3571
+    ],
+    "endSilence": [
+      12.981006,
+      13.2957
+    ]
+  },
+  {
+    "index": 463,
+    "batch": 19,
+    "start": 13.138353,
+    "end": 14.038095,
+    "text": "tatlo",
+    "startSilence": [
+      12.981006,
+      13.2957
+    ],
+    "endSilence": [
+      13.85229,
+      14.2239
+    ]
+  },
+  {
+    "index": 464,
+    "batch": 19,
+    "start": 14.038095,
+    "end": 14.9051285,
+    "text": "apat",
+    "startSilence": [
+      13.85229,
+      14.2239
+    ],
+    "endSilence": [
+      14.777657,
+      15.0326
+    ]
+  },
+  {
+    "index": 465,
+    "batch": 19,
+    "start": 14.9051285,
+    "end": 15.711309,
+    "text": "lima",
+    "startSilence": [
+      14.777657,
+      15.0326
+    ],
+    "endSilence": [
+      15.543418,
+      15.8792
+    ]
+  },
+  {
+    "index": 466,
+    "batch": 19,
+    "start": 15.711309,
+    "end": 16.548002,
+    "text": "anim",
+    "startSilence": [
+      15.543418,
+      15.8792
+    ],
+    "endSilence": [
+      16.433104,
+      16.6629
+    ]
+  },
+  {
+    "index": 467,
+    "batch": 19,
+    "start": 16.548002,
+    "end": 17.2884235,
+    "text": "pito",
+    "startSilence": [
+      16.433104,
+      16.6629
+    ],
+    "endSilence": [
+      17.140147,
+      17.4367
+    ]
+  },
+  {
+    "index": 468,
+    "batch": 19,
+    "start": 17.2884235,
+    "end": 18.0831705,
+    "text": "walo",
+    "startSilence": [
+      17.140147,
+      17.4367
+    ],
+    "endSilence": [
+      17.947241,
+      18.2191
+    ]
+  },
+  {
+    "index": 469,
+    "batch": 19,
+    "start": 18.0831705,
+    "end": 18.892367,
+    "text": "siyam",
+    "startSilence": [
+      17.947241,
+      18.2191
+    ],
+    "endSilence": [
+      18.791833999999998,
+      18.9929
+    ]
+  },
+  {
+    "index": 470,
+    "batch": 19,
+    "start": 18.892367,
+    "end": 19.8651865,
+    "text": "sampu",
+    "startSilence": [
+      18.791833999999998,
+      18.9929
+    ],
+    "endSilence": [
+      19.561173,
+      20.1692
+    ]
+  },
+  {
+    "index": 471,
+    "batch": 19,
+    "start": 19.8651865,
+    "end": 21.416331,
+    "text": "Anong hayop ito?",
+    "startSilence": [
+      19.561173,
+      20.1692
+    ],
+    "endSilence": [
+      21.225662,
+      21.607
+    ]
+  },
+  {
+    "index": 472,
+    "batch": 19,
+    "start": 21.416331,
+    "end": 22.332262,
+    "text": "aso",
+    "startSilence": [
+      21.225662,
+      21.607
+    ],
+    "endSilence": [
+      22.170924,
+      22.4936
+    ]
+  },
+  {
+    "index": 473,
+    "batch": 19,
+    "start": 22.332262,
+    "end": 23.165709,
+    "text": "pusa",
+    "startSilence": [
+      22.170924,
+      22.4936
+    ],
+    "endSilence": [
+      22.991718,
+      23.3397
+    ]
+  },
+  {
+    "index": 474,
+    "batch": 19,
+    "start": 23.165709,
+    "end": 24.08,
+    "text": "ibon",
+    "startSilence": [
+      22.991718,
+      23.3397
+    ],
+    "endSilence": null
+  },
+  {
+    "index": 475,
+    "batch": 20,
+    "start": 0,
+    "end": 0.7730729999999999,
+    "text": "isda",
+    "startSilence": null,
+    "endSilence": [
+      0.558209,
+      0.987937
+    ]
+  },
+  {
+    "index": 476,
+    "batch": 20,
+    "start": 0.7730729999999999,
+    "end": 1.7810140000000003,
+    "text": "daga",
+    "startSilence": [
+      0.558209,
+      0.987937
+    ],
+    "endSilence": [
+      1.5607080000000002,
+      2.00132
+    ]
+  },
+  {
+    "index": 477,
+    "batch": 20,
+    "start": 1.7810140000000003,
+    "end": 2.8635715,
+    "text": "ahas",
+    "startSilence": [
+      1.5607080000000002,
+      2.00132
+    ],
+    "endSilence": [
+      2.699433,
+      3.02771
+    ]
+  },
+  {
+    "index": 478,
+    "batch": 20,
+    "start": 2.8635715,
+    "end": 3.7909965,
+    "text": "baka",
+    "startSilence": [
+      2.699433,
+      3.02771
+    ],
+    "endSilence": [
+      3.595033,
+      3.98696
+    ]
+  },
+  {
+    "index": 479,
+    "batch": 20,
+    "start": 3.7909965,
+    "end": 4.768731,
+    "text": "bibe",
+    "startSilence": [
+      3.595033,
+      3.98696
+    ],
+    "endSilence": [
+      4.573402,
+      4.96406
+    ]
+  },
+  {
+    "index": 480,
+    "batch": 20,
+    "start": 4.768731,
+    "end": 5.819886500000001,
+    "text": "kambing",
+    "startSilence": [
+      4.573402,
+      4.96406
+    ],
+    "endSilence": [
+      5.629433000000001,
+      6.01034
+    ]
+  },
+  {
+    "index": 481,
+    "batch": 20,
+    "start": 5.819886500000001,
+    "end": 6.699842,
+    "text": "tupa",
+    "startSilence": [
+      5.629433000000001,
+      6.01034
+    ],
+    "endSilence": [
+      6.512654,
+      6.88703
+    ]
+  },
+  {
+    "index": 482,
+    "batch": 20,
+    "start": 6.699842,
+    "end": 7.713832,
+    "text": "kabayo",
+    "startSilence": [
+      6.512654,
+      6.88703
+    ],
+    "endSilence": [
+      7.538933999999999,
+      7.88873
+    ]
+  },
+  {
+    "index": 483,
+    "batch": 20,
+    "start": 7.713832,
+    "end": 8.5745495,
+    "text": "palaka",
+    "startSilence": [
+      7.538933999999999,
+      7.88873
+    ],
+    "endSilence": [
+      8.396918999999999,
+      8.75218
+    ]
+  },
+  {
+    "index": 484,
+    "batch": 20,
+    "start": 8.5745495,
+    "end": 9.5455605,
+    "text": "baboy",
+    "startSilence": [
+      8.396918999999999,
+      8.75218
+    ],
+    "endSilence": [
+      9.406581000000001,
+      9.68454
+    ]
+  },
+  {
+    "index": 485,
+    "batch": 20,
+    "start": 9.5455605,
+    "end": 10.5052795,
+    "text": "butiki",
+    "startSilence": [
+      9.406581000000001,
+      9.68454
+    ],
+    "endSilence": [
+      10.344259,
+      10.6663
+    ]
+  },
+  {
+    "index": 486,
+    "batch": 20,
+    "start": 10.5052795,
+    "end": 11.535926499999999,
+    "text": "paru-paro",
+    "startSilence": [
+      10.344259,
+      10.6663
+    ],
+    "endSilence": [
+      11.387253,
+      11.6846
+    ]
+  },
+  {
+    "index": 487,
+    "batch": 20,
+    "start": 11.535926499999999,
+    "end": 12.405873,
+    "text": "manok",
+    "startSilence": [
+      11.387253,
+      11.6846
+    ],
+    "endSilence": [
+      12.275646,
+      12.5361
+    ]
+  },
+  {
+    "index": 488,
+    "batch": 20,
+    "start": 12.405873,
+    "end": 13.397997,
+    "text": "bubuyog",
+    "startSilence": [
+      12.275646,
+      12.5361
+    ],
+    "endSilence": [
+      13.292294,
+      13.5037
+    ]
+  },
+  {
+    "index": 489,
+    "batch": 20,
+    "start": 13.397997,
+    "end": 14.320872999999999,
+    "text": "gagamba",
+    "startSilence": [
+      13.292294,
+      13.5037
+    ],
+    "endSilence": [
+      14.185645999999998,
+      14.4561
+    ]
+  },
+  {
+    "index": 490,
+    "batch": 20,
+    "start": 14.320872999999999,
+    "end": 15.36,
+    "text": "langgam",
+    "startSilence": [
+      14.185645999999998,
+      14.4561
+    ],
+    "endSilence": null
+  },
+  {
+    "index": 438,
+    "batch": 21,
+    "start": 0,
+    "end": 0.7628119999999999,
+    "text": "Name",
+    "startSilence": null,
+    "endSilence": [
+      0.5364629999999999,
+      0.989161
+    ]
+  },
+  {
+    "index": 440,
+    "batch": 21,
+    "start": 0.7628119999999999,
+    "end": 1.8477035000000002,
+    "text": "Datum",
+    "startSilence": [
+      0.5364629999999999,
+      0.989161
+    ],
+    "endSilence": [
+      1.5928170000000001,
+      2.10259
+    ]
+  },
+  {
+    "index": 442,
+    "batch": 21,
+    "start": 1.8477035000000002,
+    "end": 2.845324,
+    "text": "Übung",
+    "startSilence": [
+      1.5928170000000001,
+      2.10259
+    ],
+    "endSilence": [
+      2.624258,
+      3.06639
+    ]
+  },
+  {
+    "index": 444,
+    "batch": 21,
+    "start": 2.845324,
+    "end": 4.0665195,
+    "text": "Buchstabe",
+    "startSilence": [
+      2.624258,
+      3.06639
+    ],
+    "endSilence": [
+      3.8488890000000002,
+      4.28415
+    ]
+  },
+  {
+    "index": 446,
+    "batch": 21,
+    "start": 4.0665195,
+    "end": 5.03177,
+    "text": "Zahl",
+    "startSilence": [
+      3.8488890000000002,
+      4.28415
+    ],
+    "endSilence": [
+      4.82177,
+      5.24177
+    ]
+  },
+  {
+    "index": 448,
+    "batch": 21,
+    "start": 5.03177,
+    "end": 6.022258,
+    "text": "klein",
+    "startSilence": [
+      4.82177,
+      5.24177
+    ],
+    "endSilence": [
+      5.812156,
+      6.23236
+    ]
+  },
+  {
+    "index": 450,
+    "batch": 21,
+    "start": 6.022258,
+    "end": 7.04,
+    "text": "gross",
+    "startSilence": [
+      5.812156,
+      6.23236
+    ],
+    "endSilence": null
+  }
+]
