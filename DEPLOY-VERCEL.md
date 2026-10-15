@@ -1,6 +1,6 @@
 # Deploy Kinder Review Buddy to Vercel
 
-This archive contains the source for published version 7, including all saved audio, images, lesson data, and audio-production masters. The editable application source is directly in dist/; no bundler or framework is required.
+This archive contains the source for published version 9, including all 14 reviewer sections, Sarah Latin prayer recordings, saved audio, images, lesson data, and audio-production masters. The editable application source is directly in dist/; no bundler or framework is required.
 
 ## Deploy through GitHub
 1. Extract the ZIP.
@@ -33,7 +33,7 @@ Open http://localhost:8080. Do not open index.html with a file:// URL because th
 - scripts/: checks and audio-processing utilities.
 - audio-production/: original grouped takes and clip provenance, not deployed.
 
-No ElevenLabs key, OpenAI key, database, or backend is needed to run this version. Audio playback uses included MP3 files. Latin recordings remain unavailable as documented in README.md. Audio rebuilding requires the original generation-state JSON, which is not part of this repository export; the ready-to-play clips and masters are included.
+No ElevenLabs key, OpenAI key, database, or backend is needed to run this version. Audio playback uses included MP3 files. Sarah narrates the Latin prayer; Jessica narrates other lessons. Latin pronunciation has not been teacher-verified. Audio rebuilding requires the original generation-state JSON, which is not part of this repository export; the ready-to-play clips and masters are included.
 
 Progress and parent settings are stored in the browser per website origin. Your existing ChatGPT-hosted site's progress will not automatically transfer to the new Vercel domain. The existing hosted site remains unchanged.
 

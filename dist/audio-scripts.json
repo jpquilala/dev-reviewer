@@ -3746,6 +3746,222 @@
       "text": "langgam"
     },
     {
+      "key": "fil-phrase-0:prompt",
+      "item": 14,
+      "language": "fil-PH",
+      "text": "Basahin ang parirala."
+    },
+    {
+      "key": "fil-phrase-0:answer",
+      "item": 14,
+      "language": "fil-PH",
+      "text": "ang"
+    },
+    {
+      "key": "fil-phrase-1:prompt",
+      "item": 14,
+      "language": "fil-PH",
+      "text": "Basahin ang parirala."
+    },
+    {
+      "key": "fil-phrase-1:answer",
+      "item": 14,
+      "language": "fil-PH",
+      "text": "ang mga"
+    },
+    {
+      "key": "fil-phrase-2:prompt",
+      "item": 14,
+      "language": "fil-PH",
+      "text": "Basahin ang parirala."
+    },
+    {
+      "key": "fil-phrase-2:answer",
+      "item": 14,
+      "language": "fil-PH",
+      "text": "ang aso"
+    },
+    {
+      "key": "fil-phrase-3:prompt",
+      "item": 14,
+      "language": "fil-PH",
+      "text": "Basahin ang parirala."
+    },
+    {
+      "key": "fil-phrase-3:answer",
+      "item": 14,
+      "language": "fil-PH",
+      "text": "ang aso at ang mga pusa"
+    },
+    {
+      "key": "fil-phrase-4:prompt",
+      "item": 14,
+      "language": "fil-PH",
+      "text": "Basahin ang parirala."
+    },
+    {
+      "key": "fil-phrase-4:answer",
+      "item": 14,
+      "language": "fil-PH",
+      "text": "ang baka"
+    },
+    {
+      "key": "fil-phrase-5:prompt",
+      "item": 14,
+      "language": "fil-PH",
+      "text": "Basahin ang parirala."
+    },
+    {
+      "key": "fil-phrase-5:answer",
+      "item": 14,
+      "language": "fil-PH",
+      "text": "ang baka sa may ilog"
+    },
+    {
+      "key": "fil-phrase-6:prompt",
+      "item": 14,
+      "language": "fil-PH",
+      "text": "Basahin ang parirala."
+    },
+    {
+      "key": "fil-phrase-6:answer",
+      "item": 14,
+      "language": "fil-PH",
+      "text": "ang butiki"
+    },
+    {
+      "key": "fil-phrase-7:prompt",
+      "item": 14,
+      "language": "fil-PH",
+      "text": "Basahin ang parirala."
+    },
+    {
+      "key": "fil-phrase-7:answer",
+      "item": 14,
+      "language": "fil-PH",
+      "text": "ang butiki sa kisame"
+    },
+    {
+      "key": "fil-phrase-8:prompt",
+      "item": 14,
+      "language": "fil-PH",
+      "text": "Basahin ang parirala."
+    },
+    {
+      "key": "fil-phrase-8:answer",
+      "item": 14,
+      "language": "fil-PH",
+      "text": "ang ibon"
+    },
+    {
+      "key": "fil-phrase-9:prompt",
+      "item": 14,
+      "language": "fil-PH",
+      "text": "Basahin ang parirala."
+    },
+    {
+      "key": "fil-phrase-9:answer",
+      "item": 14,
+      "language": "fil-PH",
+      "text": "ang ibon sa may puno"
+    },
+    {
+      "key": "fil-phrase-10:prompt",
+      "item": 14,
+      "language": "fil-PH",
+      "text": "Basahin ang parirala."
+    },
+    {
+      "key": "fil-phrase-10:answer",
+      "item": 14,
+      "language": "fil-PH",
+      "text": "ang unan"
+    },
+    {
+      "key": "fil-phrase-11:prompt",
+      "item": 14,
+      "language": "fil-PH",
+      "text": "Basahin ang parirala."
+    },
+    {
+      "key": "fil-phrase-11:answer",
+      "item": 14,
+      "language": "fil-PH",
+      "text": "ang malambot na unan"
+    },
+    {
+      "key": "fil-phrase-12:prompt",
+      "item": 14,
+      "language": "fil-PH",
+      "text": "Basahin ang parirala."
+    },
+    {
+      "key": "fil-phrase-12:answer",
+      "item": 14,
+      "language": "fil-PH",
+      "text": "ang baso"
+    },
+    {
+      "key": "fil-phrase-13:prompt",
+      "item": 14,
+      "language": "fil-PH",
+      "text": "Basahin ang parirala."
+    },
+    {
+      "key": "fil-phrase-13:answer",
+      "item": 14,
+      "language": "fil-PH",
+      "text": "ang baso ng babae"
+    },
+    {
+      "key": "fil-phrase-14:prompt",
+      "item": 14,
+      "language": "fil-PH",
+      "text": "Basahin ang parirala."
+    },
+    {
+      "key": "fil-phrase-14:answer",
+      "item": 14,
+      "language": "fil-PH",
+      "text": "ang daga"
+    },
+    {
+      "key": "fil-phrase-15:prompt",
+      "item": 14,
+      "language": "fil-PH",
+      "text": "Basahin ang parirala."
+    },
+    {
+      "key": "fil-phrase-15:answer",
+      "item": 14,
+      "language": "fil-PH",
+      "text": "ang daga sa kama"
+    },
+    {
+      "key": "fil-phrase-16:prompt",
+      "item": 14,
+      "language": "fil-PH",
+      "text": "Basahin ang parirala."
+    },
+    {
+      "key": "fil-phrase-16:answer",
+      "item": 14,
+      "language": "fil-PH",
+      "text": "ang dalaga"
+    },
+    {
+      "key": "fil-phrase-17:prompt",
+      "item": 14,
+      "language": "fil-PH",
+      "text": "Basahin ang parirala."
+    },
+    {
+      "key": "fil-phrase-17:answer",
+      "item": 14,
+      "language": "fil-PH",
+      "text": "ang dalaga sa kubo"
+    },
+    {
       "key": "prayer-nonCatholic-0:prompt",
       "item": 8,
       "language": "en-US",

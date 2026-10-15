@@ -2,7 +2,7 @@ import fs from 'node:fs';
 import assert from 'node:assert/strict';
 import {makeCards,chooseSession,copyDefaults,recordProgress,statusOf,audioEntries} from '../dist/core.mjs';
 const data=JSON.parse(fs.readFileSync(new URL('../dist/lessons.json',import.meta.url)));
-const expected={words:49,phrases:31,adjectives:38,science:18,ethics:8,bible:5,german:7,shapes:8,numbers:10,animals:19};
+const expected={words:49,phrases:31,adjectives:38,science:18,ethics:8,bible:5,german:7,shapes:8,numbers:10,animals:19,filipinoPhrases:18};
 for(const [k,n] of Object.entries(expected))assert.equal(data[k].length,n,k);
 for(const track of ['','catholic','nonCatholic']){
  const cards=makeCards(data,track);assert.equal(new Set(cards.map(c=>c.id)).size,cards.length,'unique IDs');

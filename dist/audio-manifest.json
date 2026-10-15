@@ -1,19 +1,18 @@
 {
-  "version": 3,
+  "version": 5,
   "provider": "ElevenLabs",
   "model": "eleven_v4",
   "selectedVoice": "Jessica",
   "voiceId": "cgSgspJ2msm6clMCkdW9",
-  "recordingStatus": "available-except-latin",
+  "recordingStatus": "available",
   "supportedRecordedLanguages": [
     "en-US",
     "fil-PH",
-    "de-DE"
+    "de-DE",
+    "la"
   ],
-  "unavailableLanguages": {
-    "la": "Latin is not supported by this model. A verified Latin recording is still needed."
-  },
-  "uniqueRecordings": 492,
+  "unavailableLanguages": {},
+  "uniqueRecordings": 530,
   "clips": {
     "cue:welcome": {
       "src": "assets/audio/jessica-000.mp3?v=7eac5c657b77"
@@ -2399,12 +2398,232 @@
     },
     "science-14-part-abdomen:part:abdomen": {
       "src": "assets/audio/jessica-358.mp3?v=db4f8501e3f1"
+    },
+    "fil-phrase-0:prompt": {
+      "src": "assets/audio/jessica-600.mp3?v=56988c836def"
+    },
+    "fil-phrase-1:prompt": {
+      "src": "assets/audio/jessica-600.mp3?v=56988c836def"
+    },
+    "fil-phrase-2:prompt": {
+      "src": "assets/audio/jessica-600.mp3?v=56988c836def"
+    },
+    "fil-phrase-3:prompt": {
+      "src": "assets/audio/jessica-600.mp3?v=56988c836def"
+    },
+    "fil-phrase-4:prompt": {
+      "src": "assets/audio/jessica-600.mp3?v=56988c836def"
+    },
+    "fil-phrase-5:prompt": {
+      "src": "assets/audio/jessica-600.mp3?v=56988c836def"
+    },
+    "fil-phrase-6:prompt": {
+      "src": "assets/audio/jessica-600.mp3?v=56988c836def"
+    },
+    "fil-phrase-7:prompt": {
+      "src": "assets/audio/jessica-600.mp3?v=56988c836def"
+    },
+    "fil-phrase-8:prompt": {
+      "src": "assets/audio/jessica-600.mp3?v=56988c836def"
+    },
+    "fil-phrase-9:prompt": {
+      "src": "assets/audio/jessica-600.mp3?v=56988c836def"
+    },
+    "fil-phrase-10:prompt": {
+      "src": "assets/audio/jessica-600.mp3?v=56988c836def"
+    },
+    "fil-phrase-11:prompt": {
+      "src": "assets/audio/jessica-600.mp3?v=56988c836def"
+    },
+    "fil-phrase-12:prompt": {
+      "src": "assets/audio/jessica-600.mp3?v=56988c836def"
+    },
+    "fil-phrase-13:prompt": {
+      "src": "assets/audio/jessica-600.mp3?v=56988c836def"
+    },
+    "fil-phrase-14:prompt": {
+      "src": "assets/audio/jessica-600.mp3?v=56988c836def"
+    },
+    "fil-phrase-15:prompt": {
+      "src": "assets/audio/jessica-600.mp3?v=56988c836def"
+    },
+    "fil-phrase-16:prompt": {
+      "src": "assets/audio/jessica-600.mp3?v=56988c836def"
+    },
+    "fil-phrase-17:prompt": {
+      "src": "assets/audio/jessica-600.mp3?v=56988c836def"
+    },
+    "fil-phrase-0:answer": {
+      "src": "assets/audio/jessica-601.mp3?v=7824b9ddd6ef"
+    },
+    "fil-phrase-1:answer": {
+      "src": "assets/audio/jessica-602.mp3?v=908c5e7da617"
+    },
+    "fil-phrase-2:answer": {
+      "src": "assets/audio/jessica-603.mp3?v=524b064d9def"
+    },
+    "fil-phrase-3:answer": {
+      "src": "assets/audio/jessica-604.mp3?v=0104e3b4e3dd"
+    },
+    "fil-phrase-4:answer": {
+      "src": "assets/audio/jessica-605.mp3?v=b52b07339521"
+    },
+    "fil-phrase-5:answer": {
+      "src": "assets/audio/jessica-606.mp3?v=27cc921bd66d"
+    },
+    "fil-phrase-6:answer": {
+      "src": "assets/audio/jessica-607.mp3?v=a8a657adb4bc"
+    },
+    "fil-phrase-7:answer": {
+      "src": "assets/audio/jessica-608.mp3?v=4b9bfe20bfe3"
+    },
+    "fil-phrase-8:answer": {
+      "src": "assets/audio/jessica-609.mp3?v=276853e78fce"
+    },
+    "fil-phrase-9:answer": {
+      "src": "assets/audio/jessica-610.mp3?v=86fca431c07e"
+    },
+    "fil-phrase-10:answer": {
+      "src": "assets/audio/jessica-611.mp3?v=db969340cd91"
+    },
+    "fil-phrase-11:answer": {
+      "src": "assets/audio/jessica-612.mp3?v=4e1cf061f337"
+    },
+    "fil-phrase-12:answer": {
+      "src": "assets/audio/jessica-613.mp3?v=4a80654c80e7"
+    },
+    "fil-phrase-13:answer": {
+      "src": "assets/audio/jessica-614.mp3?v=c3b3d31b61c3"
+    },
+    "fil-phrase-14:answer": {
+      "src": "assets/audio/jessica-615.mp3?v=274588438b3e"
+    },
+    "fil-phrase-15:answer": {
+      "src": "assets/audio/jessica-616.mp3?v=b7e25203dc35"
+    },
+    "fil-phrase-16:answer": {
+      "src": "assets/audio/jessica-617.mp3?v=1471fd49dcdf"
+    },
+    "fil-phrase-17:answer": {
+      "src": "assets/audio/jessica-618.mp3?v=7919d60beb68"
+    },
+    "prayer-catholic-0:answer": {
+      "src": "assets/audio/sarah-latin-00.mp3?v=f780a9346b99",
+      "voiceId": "EXAVITQu4vr4xnSDxMaL",
+      "voiceName": "Sarah"
+    },
+    "prayer-catholic-1:answer": {
+      "src": "assets/audio/sarah-latin-01.mp3?v=e17dc920ee5b",
+      "voiceId": "EXAVITQu4vr4xnSDxMaL",
+      "voiceName": "Sarah"
+    },
+    "prayer-catholic-2:answer": {
+      "src": "assets/audio/sarah-latin-02.mp3?v=ae32d0650087",
+      "voiceId": "EXAVITQu4vr4xnSDxMaL",
+      "voiceName": "Sarah"
+    },
+    "prayer-catholic-3:answer": {
+      "src": "assets/audio/sarah-latin-03.mp3?v=b2021d774e89",
+      "voiceId": "EXAVITQu4vr4xnSDxMaL",
+      "voiceName": "Sarah"
+    },
+    "prayer-catholic-4:answer": {
+      "src": "assets/audio/sarah-latin-04.mp3?v=ff9ab8958f18",
+      "voiceId": "EXAVITQu4vr4xnSDxMaL",
+      "voiceName": "Sarah"
+    },
+    "prayer-catholic-5:answer": {
+      "src": "assets/audio/sarah-latin-05.mp3?v=fb5c643767ca",
+      "voiceId": "EXAVITQu4vr4xnSDxMaL",
+      "voiceName": "Sarah"
+    },
+    "prayer-catholic-6:answer": {
+      "src": "assets/audio/sarah-latin-06.mp3?v=847b89d6d579",
+      "voiceId": "EXAVITQu4vr4xnSDxMaL",
+      "voiceName": "Sarah"
+    },
+    "prayer-catholic-7:answer": {
+      "src": "assets/audio/sarah-latin-07.mp3?v=980c7049e8ea",
+      "voiceId": "EXAVITQu4vr4xnSDxMaL",
+      "voiceName": "Sarah"
+    },
+    "prayer-catholic-8:answer": {
+      "src": "assets/audio/sarah-latin-08.mp3?v=75a3d98aa0e3",
+      "voiceId": "EXAVITQu4vr4xnSDxMaL",
+      "voiceName": "Sarah"
+    },
+    "prayer-catholic-9:answer": {
+      "src": "assets/audio/sarah-latin-09.mp3?v=618c91c4bc68",
+      "voiceId": "EXAVITQu4vr4xnSDxMaL",
+      "voiceName": "Sarah"
+    },
+    "prayer-catholic-10:answer": {
+      "src": "assets/audio/sarah-latin-10.mp3?v=d5d39afefb7c",
+      "voiceId": "EXAVITQu4vr4xnSDxMaL",
+      "voiceName": "Sarah"
+    },
+    "prayer-catholic-11:answer": {
+      "src": "assets/audio/sarah-latin-11.mp3?v=e37a21f2052d",
+      "voiceId": "EXAVITQu4vr4xnSDxMaL",
+      "voiceName": "Sarah"
+    },
+    "prayer-catholic-12:answer": {
+      "src": "assets/audio/sarah-latin-12.mp3?v=947c81f5856d",
+      "voiceId": "EXAVITQu4vr4xnSDxMaL",
+      "voiceName": "Sarah"
+    },
+    "prayer-catholic-build-2:answer": {
+      "src": "assets/audio/sarah-latin-build-2.mp3?v=c6cb3f0f2d38",
+      "voiceId": "EXAVITQu4vr4xnSDxMaL",
+      "voiceName": "Sarah"
+    },
+    "prayer-catholic-build-4:answer": {
+      "src": "assets/audio/sarah-latin-build-4.mp3?v=30cc012516c3",
+      "voiceId": "EXAVITQu4vr4xnSDxMaL",
+      "voiceName": "Sarah"
+    },
+    "prayer-catholic-build-6:answer": {
+      "src": "assets/audio/sarah-latin-build-6.mp3?v=a102b720abec",
+      "voiceId": "EXAVITQu4vr4xnSDxMaL",
+      "voiceName": "Sarah"
+    },
+    "prayer-catholic-build-8:answer": {
+      "src": "assets/audio/sarah-latin-build-8.mp3?v=6bc18510434b",
+      "voiceId": "EXAVITQu4vr4xnSDxMaL",
+      "voiceName": "Sarah"
+    },
+    "prayer-catholic-build-10:answer": {
+      "src": "assets/audio/sarah-latin-build-10.mp3?v=41bcbf58d8ab",
+      "voiceId": "EXAVITQu4vr4xnSDxMaL",
+      "voiceName": "Sarah"
+    },
+    "prayer-catholic-build-13:answer": {
+      "src": "assets/audio/sarah-latin-build-13.mp3?v=1c742c5ac3dc",
+      "voiceId": "EXAVITQu4vr4xnSDxMaL",
+      "voiceName": "Sarah"
+    },
+    "prayer-catholic-full:answer": {
+      "src": "assets/audio/sarah-latin-build-13.mp3?v=1c742c5ac3dc",
+      "voiceId": "EXAVITQu4vr4xnSDxMaL",
+      "voiceName": "Sarah"
+    },
+    "test:la": {
+      "src": "assets/audio/sarah-latin-00.mp3?v=f780a9346b99",
+      "voiceId": "EXAVITQu4vr4xnSDxMaL",
+      "voiceName": "Sarah"
     }
   },
   "lessonAudioCoverage": {
-    "recorded": 646,
-    "total": 666,
-    "latinAwaitingRecording": 20
+    "recorded": 702,
+    "total": 702,
+    "latinAwaitingRecording": 0
   },
-  "clipRevision": "silence-boundaries-2026-10-14"
+  "clipRevision": "sarah-latin-2026-10-15",
+  "languageVoices": {
+    "la": {
+      "name": "Sarah",
+      "voiceId": "EXAVITQu4vr4xnSDxMaL",
+      "pronunciationStatus": "AI-generated; not teacher-verified"
+    }
+  }
 }

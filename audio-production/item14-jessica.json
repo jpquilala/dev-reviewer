@@ -1,0 +1,161 @@
+{
+  "flowId": "fOLEtpR7S3BuISPOStAr",
+  "voiceId": "cgSgspJ2msm6clMCkdW9",
+  "model": "eleven_v4",
+  "language_code": "fil",
+  "jobs": [
+    {
+      "text": "Basahin ang parirala.",
+      "language": "fil-PH",
+      "generationId": "okLIVZmu6jWrRhil4tGF",
+      "src": "assets/audio/jessica-600.mp3?v=56988c836def",
+      "duration": 1.959184,
+      "editing": "Complete individual take; no cropping"
+    },
+    {
+      "text": "ang",
+      "language": "fil-PH",
+      "generationId": "JK3r3w34gVb0wekElTe7",
+      "src": "assets/audio/jessica-601.mp3?v=7824b9ddd6ef",
+      "duration": 0.992653,
+      "editing": "Complete individual take; no cropping"
+    },
+    {
+      "text": "ang mga",
+      "language": "fil-PH",
+      "generationId": "9hGUjUz2pqUJVq9mSR17",
+      "src": "assets/audio/jessica-602.mp3?v=908c5e7da617",
+      "duration": 1.149388,
+      "editing": "Complete individual take; no cropping"
+    },
+    {
+      "text": "ang aso",
+      "language": "fil-PH",
+      "generationId": "ebO33hldh24XXbnIQpCE",
+      "src": "assets/audio/jessica-603.mp3?v=524b064d9def",
+      "duration": 1.07102,
+      "editing": "Complete individual take; no cropping"
+    },
+    {
+      "text": "ang aso at ang mga pusa",
+      "language": "fil-PH",
+      "generationId": "9Dg6ZR7sgt5fv4hxdaKF",
+      "src": "assets/audio/jessica-604.mp3?v=0104e3b4e3dd",
+      "duration": 2.35102,
+      "editing": "Complete individual take; no cropping"
+    },
+    {
+      "text": "ang baka",
+      "language": "fil-PH",
+      "generationId": "MDhsONapD5hRj4JF8gfF",
+      "src": "assets/audio/jessica-605.mp3?v=b52b07339521",
+      "duration": 1.306122,
+      "editing": "Complete individual take; no cropping"
+    },
+    {
+      "text": "ang baka sa may ilog",
+      "language": "fil-PH",
+      "generationId": "qTcd0qcf5OLlfWRZkCTL",
+      "src": "assets/audio/jessica-606.mp3?v=27cc921bd66d",
+      "duration": 2.037551,
+      "editing": "Complete individual take; no cropping"
+    },
+    {
+      "text": "ang butiki",
+      "language": "fil-PH",
+      "generationId": "aKizdyns5bWkkPWYZk3B",
+      "src": "assets/audio/jessica-607.mp3",
+      "duration": 1.52,
+      "editing": "Complete individual take; no cropping",
+      "replacedGenerationId": "gWpYjdUmXJiqnqhnR2bx"
+    },
+    {
+      "text": "ang butiki sa kisame",
+      "language": "fil-PH",
+      "generationId": "HTN3Y7mHGrWb1vBBb6Xn",
+      "src": "assets/audio/jessica-608.mp3?v=4b9bfe20bfe3",
+      "duration": 2.115918,
+      "editing": "Complete individual take; no cropping"
+    },
+    {
+      "text": "ang ibon",
+      "language": "fil-PH",
+      "generationId": "KwSlIrZ7vSMPsQkATriB",
+      "src": "assets/audio/jessica-609.mp3?v=276853e78fce",
+      "duration": 1.149388,
+      "editing": "Complete individual take; no cropping"
+    },
+    {
+      "text": "ang ibon sa may puno",
+      "language": "fil-PH",
+      "generationId": "Mi7cf90wm6onzfXKpsLz",
+      "src": "assets/audio/jessica-610.mp3?v=86fca431c07e",
+      "duration": 2.037551,
+      "editing": "Complete individual take; no cropping"
+    },
+    {
+      "text": "ang unan",
+      "language": "fil-PH",
+      "generationId": "mJI50aGW4KVeZ6YmNrhF",
+      "src": "assets/audio/jessica-611.mp3?v=db969340cd91",
+      "duration": 1.149388,
+      "editing": "Complete individual take; no cropping"
+    },
+    {
+      "text": "ang malambot na unan",
+      "language": "fil-PH",
+      "generationId": "ezWm7z4ImKMoQwKfnzoq",
+      "src": "assets/audio/jessica-612.mp3?v=4e1cf061f337",
+      "duration": 1.802449,
+      "editing": "Complete individual take; no cropping"
+    },
+    {
+      "text": "ang baso",
+      "language": "fil-PH",
+      "generationId": "azTznjBrhcWHgqvjZ7Z3",
+      "src": "assets/audio/jessica-613.mp3?v=4a80654c80e7",
+      "duration": 1.306122,
+      "editing": "Complete individual take; no cropping"
+    },
+    {
+      "text": "ang baso ng babae",
+      "language": "fil-PH",
+      "generationId": "c2JKWCBJpzI9WhM6Ozpk",
+      "src": "assets/audio/jessica-614.mp3?v=c3b3d31b61c3",
+      "duration": 1.880816,
+      "editing": "Complete individual take; no cropping"
+    },
+    {
+      "text": "ang daga",
+      "language": "fil-PH",
+      "generationId": "aTZKElh520VtCIQ5GMAI",
+      "src": "assets/audio/jessica-615.mp3?v=274588438b3e",
+      "duration": 1.306122,
+      "editing": "Complete individual take; no cropping"
+    },
+    {
+      "text": "ang daga sa kama",
+      "language": "fil-PH",
+      "generationId": "j3fVpiiycqjjzLY46Wy2",
+      "src": "assets/audio/jessica-616.mp3?v=b7e25203dc35",
+      "duration": 1.802449,
+      "editing": "Complete individual take; no cropping"
+    },
+    {
+      "text": "ang dalaga",
+      "language": "fil-PH",
+      "generationId": "TwtcaqddtcKD5L3LUk1M",
+      "src": "assets/audio/jessica-617.mp3?v=1471fd49dcdf",
+      "duration": 1.410612,
+      "editing": "Complete individual take; no cropping"
+    },
+    {
+      "text": "ang dalaga sa kubo",
+      "language": "fil-PH",
+      "generationId": "lVkJBuv4lQpSupcScVub",
+      "src": "assets/audio/jessica-618.mp3?v=7919d60beb68",
+      "duration": 1.802449,
+      "editing": "Complete individual take; no cropping"
+    }
+  ]
+}

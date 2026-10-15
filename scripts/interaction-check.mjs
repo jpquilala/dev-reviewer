@@ -1,5 +1,6 @@
 import fs from 'node:fs';import assert from 'node:assert/strict';
 const nodes=new Map(),events=new Map(),store=new Map();
+store.set('kinder-buddy-v1',JSON.stringify({settings:{enabled:[1,2,8,13],length:8}}));
 class Node{constructor(){this.innerHTML='';this.textContent='';this.classList={add(){},remove(){},toggle(){}};this.open=false;this.value='';}showModal(){this.open=true;}close(){this.open=false;}click(){}}
 globalThis.document={querySelector(s){if(!nodes.has(s))nodes.set(s,new Node());return nodes.get(s);},addEventListener(k,f){events.set(k,f);},createElement(){return new Node();},hidden:false};
 globalThis.window={scrollTo(){},speechSynthesis:{getVoices(){return ['en-US','fil-PH','de-DE','la'].map(lang=>({lang,name:lang}));},addEventListener(){},cancel(){},speak(u){queueMicrotask(()=>u.onend?.());}}};
@@ -13,11 +14,12 @@ const html=()=>nodes.get('#app').innerHTML;
 async function click(action,data={}){events.get('click')({target:{closest:()=>({dataset:{action,...data},disabled:false})}});await new Promise(r=>setImmediate(r));}
 assert.match(html(),/Ready to learn/);assert.match(html(),/13\. Filipino/);
 await click('start');assert.match(html(),/sti<mark>ck<\/mark>/);await click('reveal');await click('next');assert.match(html(),/qua<mark>ck<\/mark>/);assert.equal(JSON.parse(store.get('kinder-buddy-v1')).stars,1);
+assert.deepEqual(JSON.parse(store.get('kinder-buddy-v1')).settings.enabled,[1,2,8,13,14],'Existing enabled subjects are preserved and Item 14 is enabled once');
 await click('page',{page:'home'});await click('start');assert.match(html(),/qua<mark>ck<\/mark>/,'Resume at the next unfinished word');
 await click('reveal');for(let i=0;i<7;i++)await click('next');assert.match(html(),/cra<mark>ck<\/mark>/,'Help does not reinsert an earlier card');
 await click('next');await click('page',{page:'home'});await click('start');assert.match(html(),/tri<mark>ck<\/mark>/,'Next session continues in reviewer order');
 await click('parent');assert.ok(nodes.get('#modal').open);const m=nodes.get('#modal').innerHTML.match(/what is (\d+) \+ (\d+)/);document.querySelector('#gate-answer').value=String(Number(m[1])+Number(m[2]));nodes.get('#gate-form').onsubmit({preventDefault(){}});assert.match(html(),/Religion review/);
-await click('track',{value:'catholic'});assert.match(html(),/Latin Our Father/);await click('topic',{id:'8'});await click('full-prayer');assert.match(html(),/Pater noster/);assert.doesNotMatch(html(),/The Lord is my shepherd/);
+await click('track',{value:'catholic'});assert.match(html(),/Latin Our Father/);await click('topic',{id:'8'});assert.match(html(),/Sarah reads the Latin Our Father/);await click('full-prayer');assert.match(html(),/Pater noster/);assert.doesNotMatch(html(),/The Lord is my shepherd/);
 await click('page',{page:'parent'});await click('track',{value:'nonCatholic'});await click('topic',{id:'8'});await click('full-prayer');assert.match(html(),/The Lord is my shepherd/);assert.doesNotMatch(html(),/Pater noster/);
 await click('card',{key:'science-4'});assert.match(html(),/without backbones/);assert.doesNotMatch(html(),/class="answer/);
 const choices=[...html().matchAll(/data-action="choice" data-index="(\d+)">([^<]+)/g)];const correct=choices.find(x=>x[2]==='Invertebrates');assert.ok(correct);await click('choice',{index:correct[1]});assert.match(html(),/right choice/);assert.equal(JSON.parse(store.get('kinder-buddy-v1')).progress['science-4'].correct,1);
@@ -31,5 +33,7 @@ await click('start');assert.match(html(),/Take a break/);
 for(let i=0;i<13;i++)await click('next');assert.match(html(),/mi<mark>ght<\/mark>/,'Unlimited practice continues beyond 12 activities');
 await click('leave');await click('confirm-leave');assert.match(html(),/Ready to learn/);
 await click('start');assert.match(html(),/mi<mark>ght<\/mark>/,'A parent break preserves the next unfinished activity');
+await click('topic',{id:'14'});assert.match(html(),/18 activities/);assert.match(html(),/ang dalaga sa kubo/);
+await click('card',{key:'fil-phrase-17'});assert.match(html(),/ang dalaga sa kubo/);
 console.log('PASS: synthetic DOM interaction check: home, practice, progress, adult gate, religion switching, answer reveal, science selection, animal image, deliberate reset. Browser visual/audio QA remains outstanding.');
 process.exit(0);

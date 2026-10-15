@@ -1,0 +1,98 @@
+{
+  "voiceId": "EXAVITQu4vr4xnSDxMaL",
+  "model": "eleven_v4",
+  "jobs": [
+    {
+      "text": "Pater noster, qui es in caelis,",
+      "generationId": "ur3ptdcJPVeo5ZJKRwtt",
+      "duration": 3.12,
+      "src": "assets/audio/sarah-latin-00.mp3",
+      "editing": "Complete take; no cropping"
+    },
+    {
+      "text": "sanctificetur nomen tuum.",
+      "generationId": "8kaog9r5qdGXiGI0epCJ",
+      "duration": 2.32,
+      "src": "assets/audio/sarah-latin-01.mp3",
+      "editing": "Complete take; no cropping"
+    },
+    {
+      "text": "Adveniat regnum tuum.",
+      "generationId": "x3JyXlqFjzW9nd6ODqrB",
+      "duration": 2.16,
+      "src": "assets/audio/sarah-latin-02.mp3",
+      "editing": "Complete take; no cropping"
+    },
+    {
+      "text": "Fiat voluntas tua, sicut in caelo",
+      "generationId": "zUfrJz1CS1cRFZ5MgHFC",
+      "duration": 3.52,
+      "src": "assets/audio/sarah-latin-03.mp3",
+      "editing": "Complete take; no cropping"
+    },
+    {
+      "text": "et in terra.",
+      "generationId": "DAsEEsrv3awgZGdIgDzu",
+      "duration": 1.52,
+      "src": "assets/audio/sarah-latin-04.mp3",
+      "editing": "Complete take; no cropping"
+    },
+    {
+      "text": "Panem nostrum quotidianum",
+      "generationId": "UB9utTQQhZ7Q7MU4sdV3",
+      "duration": 2.32,
+      "src": "assets/audio/sarah-latin-05.mp3",
+      "editing": "Complete take; no cropping"
+    },
+    {
+      "text": "da nobis hodie,",
+      "generationId": "njwgiWyIE8RkvEt2ITEm",
+      "duration": 1.84,
+      "src": "assets/audio/sarah-latin-06.mp3",
+      "editing": "Complete take; no cropping"
+    },
+    {
+      "text": "et dimitte nobis debita nostra",
+      "generationId": "EF2bR03zhtfli3Fj5XPk",
+      "duration": 2.8,
+      "src": "assets/audio/sarah-latin-07.mp3",
+      "editing": "Complete take; no cropping"
+    },
+    {
+      "text": "sicut et nos dimittimus",
+      "generationId": "AckdrrVqTOird7dVeTJK",
+      "duration": 2.16,
+      "src": "assets/audio/sarah-latin-08.mp3",
+      "editing": "Complete take; no cropping"
+    },
+    {
+      "text": "debitoribus nostris.",
+      "generationId": "JRa2JvPCZJcMpcwMYP7J",
+      "duration": 1.92,
+      "src": "assets/audio/sarah-latin-09.mp3",
+      "editing": "Complete take; no cropping"
+    },
+    {
+      "text": "Et ne nos inducas in tentationem,",
+      "generationId": "0kTgRRut9oHrazmCweg0",
+      "duration": 2.96,
+      "src": "assets/audio/sarah-latin-10.mp3",
+      "editing": "Complete take; no cropping"
+    },
+    {
+      "text": "sed libera nos a malo.",
+      "generationId": "OB8aWOETYIQFCeeXhChf",
+      "duration": 2.24,
+      "src": "assets/audio/sarah-latin-11.mp3",
+      "editing": "Complete take; no cropping"
+    },
+    {
+      "text": "Amen.",
+      "generationId": "vVIV7DxK6T4yPPbLdCf4",
+      "duration": 1.12,
+      "src": "assets/audio/sarah-latin-12.mp3",
+      "editing": "Complete take; no cropping"
+    }
+  ],
+  "assembly": "Full and build-up clips concatenate complete lines without cropping."
+}

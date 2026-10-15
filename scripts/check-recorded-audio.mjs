@@ -1,4 +1,5 @@
 import assert from 'node:assert/strict';
+import fs from 'node:fs';
 import {BuddyAudio} from '../dist/audio.mjs';
 const players=[],states=[];
 globalThis.window={speechSynthesis:{getVoices:()=>[],addEventListener(){},cancel(){}}};
@@ -13,4 +14,10 @@ players[0].onended();assert.equal(states.at(-1),'playing','stale completion cann
 players[1].onended();assert.equal(await answer,true);
 const replay=player.play('A butterfly.','en-US','answer');player.stop();assert.equal(await replay,false);assert.equal(players[2].paused,true);
 assert.equal(await player.play('Pater noster','la','missing-latin'),false);assert.equal(states.at(-1),'unavailable');
-console.log('PASS: local recordings, slow playback, question/answer interruption, replay stop, stale events and explicit missing-Latin state.');
+const manifest=JSON.parse(fs.readFileSync(new URL('../dist/audio-manifest.json',import.meta.url)));
+for(const key of [...Array.from({length:13},(_,i)=>`prayer-catholic-${i}:answer`),...[2,4,6,8,10,13].map(n=>`prayer-catholic-build-${n}:answer`),'prayer-catholic-full:answer','test:la'])assert.equal(manifest.clips[key]?.voiceId,'EXAVITQu4vr4xnSDxMaL',key);
+const latinPlayer=new BuddyAudio(manifest,()=>{});
+assert.ok(latinPlayer.canSpeak('la','prayer-catholic-full:answer'),'Latin works without a device Latin voice');
+const latinPlayback=latinPlayer.play('Pater noster','la','prayer-catholic-full:answer');
+assert.match(players.at(-1).src,/sarah-latin-build-13/);players.at(-1).onended();assert.equal(await latinPlayback,true);
+console.log('PASS: recording playback, interruption, slow speed, stale events, all Sarah Latin mappings, full prayer playback without a device voice, and missing-language fallback.');

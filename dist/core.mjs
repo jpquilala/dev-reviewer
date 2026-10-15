@@ -11,7 +11,8 @@ export const subjects = [
  {id:10,title:'10. German',subtitle:'Seven new words to say',icon:'💬',tint:'#fff2d9',tag:'GERMAN · WORDS',group:'Languages'},
  {id:11,title:'11. Filipino',subtitle:'Kilalanin ang mga hugis',icon:'🔶',tint:'#fbead9',tag:'FILIPINO · SHAPES',group:'Languages'},
  {id:12,title:'12. Filipino',subtitle:'Magbilang tayo hanggang sampu',icon:'🍎',tint:'#f8e8e1',tag:'FILIPINO · NUMBERS',group:'Languages'},
- {id:13,title:'13. Filipino',subtitle:'Anong hayop ito?',icon:'🐸',tint:'#e9f1df',tag:'FILIPINO · ANIMALS',group:'Languages'}
+ {id:13,title:'13. Filipino',subtitle:'Anong hayop ito?',icon:'🐸',tint:'#e9f1df',tag:'FILIPINO · ANIMALS',group:'Languages'},
+ {id:14,title:'14. Filipino',subtitle:'Pagbasa ng Parirala',icon:'📖',tint:'#f5eadf',tag:'FILIPINO · PHRASES',group:'Languages'}
 ];
 export const defaults={track:'',length:0,pause:8,slow:false,auto:false,mode:'learn',enabled:subjects.map(s=>s.id)};
 export const copyDefaults=()=>({...defaults,enabled:[...defaults.enabled]});
@@ -43,6 +44,7 @@ export function makeCards(d,track=''){
  d.shapes.forEach((x,i)=>push(11,`shape-${i}`,'shape','Anong hugis ito?',x.name,{shape:x.kind,promptLang:'fil-PH',answerLang:'fil-PH',choices:[x.name,d.shapes[(i+2)%8].name,d.shapes[(i+5)%8].name],correct:x.name}));
  d.numbers.forEach((x,i)=>push(12,`fil-number-${i}`,'number','Anong bilang ito?',x,{number:i+1,promptLang:'fil-PH',answerLang:'fil-PH',choices:[x,d.numbers[(i+3)%10],d.numbers[(i+7)%10]],correct:x}));
  d.animals.forEach((x,i)=>push(13,`animal-${i}`,'animal','Anong hayop ito?',x.name,{asset:x.name,icon:x.emoji,promptLang:'fil-PH',answerLang:'fil-PH',choices:[x.name,d.animals[(i+3)%19].name,d.animals[(i+9)%19].name],correct:x.name}));
+ d.filipinoPhrases.forEach((x,i)=>push(14,`fil-phrase-${i}`,'phrase','Basahin ang parirala.',x,{promptLang:'fil-PH',answerLang:'fil-PH'}));
  return a;
 }
 export function chooseSession(cards,progress,settings,subject=0){
