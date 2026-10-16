@@ -1,10 +1,11 @@
 import fs from 'node:fs';import assert from 'node:assert/strict';
+const played=[];
 const nodes=new Map(),events=new Map(),store=new Map();
 store.set('kinder-buddy-v1',JSON.stringify({settings:{enabled:[1,2,8,13],length:8}}));
 class Node{constructor(){this.innerHTML='';this.textContent='';this.classList={add(){},remove(){},toggle(){}};this.open=false;this.value='';}showModal(){this.open=true;}close(){this.open=false;}click(){}}
 globalThis.document={querySelector(s){if(!nodes.has(s))nodes.set(s,new Node());return nodes.get(s);},addEventListener(k,f){events.set(k,f);},createElement(){return new Node();},hidden:false};
 globalThis.window={scrollTo(){},speechSynthesis:{getVoices(){return ['en-US','fil-PH','de-DE','la'].map(lang=>({lang,name:lang}));},addEventListener(){},cancel(){},speak(u){queueMicrotask(()=>u.onend?.());}}};
-globalThis.Audio=class{constructor(src){this.src=src;this.currentTime=0;}play(){queueMicrotask(()=>this.onended?.());return Promise.resolve();}pause(){}};
+globalThis.Audio=class{constructor(src){this.src=src;this.currentTime=0;}play(){played.push(this.src);queueMicrotask(()=>this.onended?.());return Promise.resolve();}pause(){}};
 globalThis.localStorage={getItem:k=>store.get(k)||null,setItem:(k,v)=>store.set(k,v)};globalThis.SpeechSynthesisUtterance=class{constructor(text){this.text=text;}};
 globalThis.fetch=async p=>({ok:true,json:async()=>JSON.parse(fs.readFileSync(new URL('../dist/'+p.replace('./',''),import.meta.url)))});
 await import('../dist/app.mjs');
@@ -23,6 +24,15 @@ await click('track',{value:'catholic'});assert.match(html(),/Latin Our Father/);
 await click('page',{page:'parent'});await click('track',{value:'nonCatholic'});await click('topic',{id:'8'});await click('full-prayer');assert.match(html(),/The Lord is my shepherd/);assert.doesNotMatch(html(),/Pater noster/);
 await click('card',{key:'science-4'});assert.match(html(),/without backbones/);assert.doesNotMatch(html(),/class="answer/);
 const choices=[...html().matchAll(/data-action="choice" data-index="(\d+)">([^<]+)/g)];const correct=choices.find(x=>x[2]==='Invertebrates');assert.ok(correct);await click('choice',{index:correct[1]});assert.match(html(),/right choice/);assert.equal(JSON.parse(store.get('kinder-buddy-v1')).progress['science-4'].correct,1);
+await click('card',{key:'after-136'});
+const mathChoices=[...html().matchAll(/data-action="choice" data-index="(\d+)">([^<]+)/g)];
+const wrong=mathChoices.find(x=>x[2]==='136'),right=mathChoices.find(x=>x[2]==='137');
+let before=played.length;await click('choice',{index:wrong[1]});
+assert.match(html(),/Not quite/);assert.match(html(),/→<\/span> \?/);assert.equal([...html().matchAll(/data-action="choice"/g)].length,3);
+assert.deepEqual(played.slice(before),['./assets/audio/math-try-again.wav'],'Wrong math plays only feedback, not the answer');
+await click('choice',{index:wrong[1]});assert.match(html(),/→<\/span> \?/);
+await click('choice',{index:right[1]});assert.match(html(),/right choice/);assert.match(html(),/→<\/span> 137/);
+await click('card',{key:'after-136'});await click('choice',{index:[...html().matchAll(/data-action="choice" data-index="(\d+)">([^<]+)/g)].find(x=>x[2]==='136')[1]});await click('reveal');assert.match(html(),/→<\/span> 137/,'Help me can still reveal the answer');
 await click('card',{key:'animal-0'});assert.match(html(),/assets\/aso.webp/);assert.match(html(),/Anong hayop ito/);await click('reveal');assert.match(html(),/class="answer">aso/);
 await click('page',{page:'parent'});await click('reset');assert.ok(nodes.get('#modal').open);await click('confirm-reset');assert.equal(JSON.parse(store.get('kinder-buddy-v1')).stars,0);assert.equal(JSON.parse(store.get('kinder-buddy-v1')).settings.track,'nonCatholic');
 await click('page',{page:'home'});

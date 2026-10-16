@@ -1,0 +1,11 @@
+{
+  "text": "quack",
+  "spokenPrompt": "Quack.",
+  "generationId": "wtJFPiilv2XjwRdudEN4",
+  "voiceId": "cgSgspJ2msm6clMCkdW9",
+  "model": "eleven_v4",
+  "language_code": "en",
+  "src": "assets/audio/jessica-008.mp3",
+  "duration": 0.8,
+  "editing": "Complete take, no cropping"
+}

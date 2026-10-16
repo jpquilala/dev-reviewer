@@ -19,10 +19,10 @@ for(const track of ['','catholic','nonCatholic']){
  const settings={...copyDefaults(),length:8,track};const seen=[];const ordered=cards.filter(c=>!c.supplement);
  const mixedProgress=Object.fromEntries(cards.map((c,i)=>[c.id,{views:i%3,needsHelp:i%2===0,last:999-i}]));
  while(seen.length<ordered.length){const batch=chooseSession(cards,mixedProgress,settings);seen.push(...batch.map(c=>c.id));settings.reviewerAfter={[track||'none']:batch.at(-1).id};}
- assert.deepEqual(seen,ordered.map(c=>c.id),'Whole reviewer stays in order across sessions, regardless of old progress');
+ assert.deepEqual(seen.filter(id=>!id.startsWith('after-')),ordered.filter(c=>c.item!==4).map(c=>c.id),'Non-math reviewer order preserved');assert.equal(new Set(seen).size,ordered.length,'Resume never skips or repeats questions');assert.deepEqual([...seen].sort(),ordered.map(c=>c.id).sort());
  assert.equal(chooseSession(cards,mixedProgress,settings)[0].id,'word-0','Completed reviewer restarts');
  assert.equal(chooseSession(cards,{}, {...copyDefaults(),enabled:[2]})[0].id,'phrase-0');
- assert.deepEqual(chooseSession(cards,{}, {...copyDefaults(),length:0}).map(c=>c.id),ordered.map(c=>c.id),'No limit includes the complete reviewer');
+ assert.deepEqual(chooseSession(cards,{}, {...copyDefaults(),length:0}).map(c=>c.id).sort(),ordered.map(c=>c.id).sort(),'No limit includes the complete reviewer');
  assert.equal(chooseSession(cards,{}, {...copyDefaults(),length:0},1).length,49,'No limit works for subject practice');
  assert.equal(chooseSession(cards,{}, {...copyDefaults(),enabled:[]}).length,0);
  const math=cards.filter(c=>c.item===4);for(const c of math)assert.equal(Number(c.answer),c.number+1);

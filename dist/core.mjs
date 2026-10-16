@@ -27,7 +27,7 @@ export function makeCards(d,track=''){
   const diagram=x.diagram?.animal||x.diagram?.type||(typeof x.diagram==='string'?x.diagram:null)||(x.question.toLowerCase().includes('wasp')?'wasp':x.question.toLowerCase().includes('butterfly')?'butterfly':null);
   const choices=x.choices?.map(c=>typeof c==='string'?c:String(c));
   const normalize=v=>v.toLowerCase().replace(/[.!]/g,'').trim();
-  push(5,`science-${i}`,'question',x.question,x.answer,{icon:x.icon,diagram,parts:x.parts,choices,correct:choices?.find(c=>normalize(x.answer)===normalize(c))});
+  push(5,`science-${i}`,'question',x.question,x.answer,{icon:x.icon,diagram,parts:x.parts,choices,correct:choices?.find(c=>normalize(x.correct??x.answer)===normalize(c))});
   if(x.parts)for(const part of x.parts)push(5,`science-${i}-part-${part}`,'anatomy',`What is this part of the ${diagram}?`,part,{diagram,part,parts:x.parts,supplement:true});
  });
  push(6,'neighbors-all','countries','Name some neighbor countries of the Philippines.',d.countries.join(', ')+'.',{countries:d.countries});
@@ -47,9 +47,23 @@ export function makeCards(d,track=''){
  d.filipinoPhrases.forEach((x,i)=>push(14,`fil-phrase-${i}`,'phrase','Basahin ang parirala.',x,{promptLang:'fil-PH',answerLang:'fil-PH'}));
  return a;
 }
+export function shuffleQuestions(cards){
+ const result=[...cards];
+ for(let i=result.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[result[i],result[j]]=[result[j],result[i]];}
+ return result;
+}
 export function chooseSession(cards,progress,settings,subject=0){
  if(!subject){
-  const ordered=cards.filter(c=>!c.supplement).sort((a,b)=>a.item-b.item);
+  const base=cards.filter(c=>!c.supplement).sort((a,b)=>a.item-b.item);
+  const math=base.filter(c=>c.item===4),key=settings.track||'none';
+  settings.reviewerMathOrder??={};
+  let ids=settings.reviewerMathOrder[key];
+  const cursor=settings.reviewerAfter?.[key];
+  if(!ids||ids.length!==math.length||new Set(ids).size!==math.length||!math.every(c=>ids.includes(c.id))||cursor===base.at(-1)?.id){
+   ids=shuffleQuestions(math).map(c=>c.id);settings.reviewerMathOrder[key]=ids;
+  }
+  const byId=new Map(math.map(c=>[c.id,c]));let m=0;
+  const ordered=base.map(c=>c.item===4?byId.get(ids[m++]):c);
   const after=ordered.findIndex(c=>c.id===settings.reviewerAfter?.[settings.track||'none']);
   const enabled=c=>settings.enabled.includes(c.item);
   const remaining=ordered.slice(after+1).filter(enabled);
@@ -57,7 +71,8 @@ export function chooseSession(cards,progress,settings,subject=0){
  }
  let pool=cards.filter(c=>(subject?c.item===subject:settings.enabled.includes(c.item))&&!c.supplement);
  const score=c=>{const p=progress[c.id];if(!p)return 1;return p.needsHelp?0:p.parentChecked?4:p.correct>0?3:2;};
- if(subject===8)pool.sort((a,b)=>Number(Boolean(progress[a.id]?.views))-Number(Boolean(progress[b.id]?.views))||(a.line||100)-(b.line||100));
+ if(subject===4)pool=shuffleQuestions(pool);
+ else if(subject===8)pool.sort((a,b)=>Number(Boolean(progress[a.id]?.views))-Number(Boolean(progress[b.id]?.views))||(a.line||100)-(b.line||100));
  else if(subject)pool.sort((a,b)=>score(a)-score(b)||(progress[a.id]?.last||0)-(progress[b.id]?.last||0));
  return pool.slice(0,settings.length===0?undefined:settings.length);
 }

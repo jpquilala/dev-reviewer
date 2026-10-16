@@ -1,0 +1,20 @@
+{
+  "voiceId": "cgSgspJ2msm6clMCkdW9",
+  "model": "eleven_v4",
+  "jobs": [
+    {
+      "text": "Body temperature is the same temperature as their environment.",
+      "generationId": "tyihajLndVDhThse1dEj",
+      "src": "assets/audio/jessica-325.mp3",
+      "duration": 3.6,
+      "editing": "Complete take, no cropping"
+    },
+    {
+      "text": "An octopus has eight arms, a squid has ten.",
+      "generationId": "GyT7y3KiWUEmosntYPnh",
+      "src": "assets/audio/jessica-345.mp3",
+      "duration": 3.68,
+      "editing": "Complete take, no cropping"
+    }
+  ]
+}

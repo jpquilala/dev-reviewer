@@ -1,0 +1,27 @@
+{
+  "voiceId": "cgSgspJ2msm6clMCkdW9",
+  "model": "eleven_v4",
+  "jobs": [
+    {
+      "text": "lizards.",
+      "generationId": "ryFfnnJ8YtPe24xmS0RF",
+      "src": "assets/audio/jessica-339.mp3",
+      "duration": 1.12,
+      "editing": "Complete take, no cropping"
+    },
+    {
+      "text": "snake.",
+      "generationId": "zAGMs15MZsVl0x4eWnUF",
+      "src": "assets/audio/jessica-337.mp3",
+      "duration": 0.96,
+      "editing": "Complete take, no cropping"
+    },
+    {
+      "text": "chameleon.",
+      "generationId": "cEBHVMqaYVqcl4MYzbNn",
+      "src": "assets/audio/jessica-341.mp3",
+      "duration": 0.96,
+      "editing": "Complete take, no cropping"
+    }
+  ]
+}

@@ -688,10 +688,10 @@
     },
     {
       "question": "What does cold-blooded mean?",
-      "answer": "Their body temperature changes with the temperature around them.",
+      "answer": "Body temperature is the same temperature as their environment.",
       "icon": "🌡️",
       "schoolAnswer": "Body temperature is the same temperature as their environment.",
-      "parentNote": "The child answer uses a more accurate simple definition; body temperature is influenced by the environment, not always identical to it.",
+      "parentNote": "The answer follows the school reviewer. More precisely, body temperature is influenced by the environment and is not always identical to it.",
       "id": "science-02",
       "source": {
         "document": "kinder-ac-reviewer.pdf",
@@ -790,12 +790,12 @@
     },
     {
       "question": "Which cold-blooded animal uses its forked tongue to smell?",
-      "answer": "A snake.",
+      "answer": "snake",
       "icon": "🐍",
       "choices": [
-        "A snake",
-        "A fish",
-        "A butterfly"
+        "snake",
+        "fish",
+        "butterfly"
       ],
       "id": "science-08",
       "source": {
@@ -803,16 +803,17 @@
         "item": 5,
         "page": 2,
         "prompt": 8
-      }
+      },
+      "correct": "snake"
     },
     {
       "question": "Which animals can grow a new tail after losing it?",
-      "answer": "Some lizards.",
+      "answer": "lizards",
       "icon": "🦎",
       "choices": [
-        "Some lizards",
-        "Birds",
-        "Whales"
+        "lizards",
+        "birds",
+        "whales"
       ],
       "schoolAnswer": "Lizards.",
       "parentNote": "Some lizards can regrow a lost tail; this is not true of every lizard.",
@@ -822,16 +823,17 @@
         "item": 5,
         "page": 2,
         "prompt": 9
-      }
+      },
+      "correct": "lizards"
     },
     {
       "question": "Which lizard can change its color?",
-      "answer": "A chameleon.",
+      "answer": "chameleon",
       "icon": "🦎",
       "choices": [
-        "A chameleon",
-        "A crocodile",
-        "A frog"
+        "chameleon",
+        "frog",
+        "crocodile"
       ],
       "schoolQuestion": "What lizard changes its color and blends into its surroundings?",
       "parentNote": "The standalone prompt avoids teaching that chameleons change color only to match their background.",
@@ -841,7 +843,8 @@
         "item": 5,
         "page": 2,
         "prompt": 10
-      }
+      },
+      "correct": "chameleon"
     },
     {
       "question": "What do we call the way animals blend in with their surroundings to avoid predators?",
@@ -862,10 +865,10 @@
     },
     {
       "question": "What is the difference between an octopus and a squid?",
-      "answer": "An octopus has eight arms. A squid has eight arms and two tentacles.",
+      "answer": "An octopus has eight arms, a squid has ten.",
       "icon": "🐙",
       "schoolAnswer": "An octopus has eight arms, a squid has ten.",
-      "parentNote": "The handout calls all ten squid appendages arms. The app distinguishes eight arms and two tentacles.",
+      "parentNote": "The answer follows the school reviewer, which counts all ten squid appendages together. More precisely, a squid has eight arms and two tentacles.",
       "id": "science-12",
       "source": {
         "document": "kinder-ac-reviewer.pdf",
@@ -1701,8 +1704,8 @@
     "Item 2: the full handout phrases are retained where slide extraction is incomplete, including a plate of rice, the new bag, beautiful girl, and many candies.",
     "Item 3: all 38 adjective sets are present. Ordering is grouped by the school slides rather than the scan column continuation; the words are unchanged.",
     "Item 4: prompts run from 131 through 209, producing answers 132 through 210. The four required examples are 136→137, 154→155, 198→199, and 209→210. Slide example 126→127 is outside the handout range and is excluded. Whether 210→211 is expected remains a teacher clarification.",
-    "Item 5: the source defines cold-blooded as body temperature being the same as the environment. The child answer says body temperature changes with surrounding temperature, avoiding an absolute equivalence.",
-    "Item 5: the source says a squid has ten arms. The child answer uses eight arms and two tentacles. The octopus answer stays eight arms.",
+    "Item 5: the cold-blooded answer follows the school reviewer. More precisely, body temperature is influenced by the environment and is not always identical to it.",
+    "Item 5: the octopus and squid answer follows the school reviewer, counting ten squid appendages together. More precisely, a squid has eight arms and two tentacles.",
     "Item 5: tail regrowth applies to some lizards. The standalone chameleon prompt asks about color change without claiming camouflage is its only cause.",
     "Item 5: wasp labels are head, antenna, thorax, leg, wing, eye, mouth, abdomen (slide 59). Butterfly labels are head, eye, antenna, leg, thorax, wing, proboscis, abdomen (slide 60).",
     "Item 6 parent-only source note: the school handout lists China (including Taiwan and Hong Kong). The child list is Vietnam, Thailand, Malaysia, Brunei, Indonesia, China, Japan; supporting visuals should use neutral place labels.",

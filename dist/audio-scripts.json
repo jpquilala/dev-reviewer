@@ -2387,7 +2387,7 @@
       "key": "science-1:answer",
       "item": 5,
       "language": "en-US",
-      "text": "Their body temperature changes with the temperature around them."
+      "text": "Body temperature is the same temperature as their environment."
     },
     {
       "key": "science-2:prompt",
@@ -2459,7 +2459,7 @@
       "key": "science-7:answer",
       "item": 5,
       "language": "en-US",
-      "text": "A snake."
+      "text": "snake"
     },
     {
       "key": "science-8:prompt",
@@ -2471,7 +2471,7 @@
       "key": "science-8:answer",
       "item": 5,
       "language": "en-US",
-      "text": "Some lizards."
+      "text": "lizards"
     },
     {
       "key": "science-9:prompt",
@@ -2483,7 +2483,7 @@
       "key": "science-9:answer",
       "item": 5,
       "language": "en-US",
-      "text": "A chameleon."
+      "text": "chameleon"
     },
     {
       "key": "science-10:prompt",
@@ -2507,7 +2507,7 @@
       "key": "science-11:answer",
       "item": 5,
       "language": "en-US",
-      "text": "An octopus has eight arms. A squid has eight arms and two tentacles."
+      "text": "An octopus has eight arms, a squid has ten."
     },
     {
       "key": "science-12:prompt",
