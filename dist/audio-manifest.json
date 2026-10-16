@@ -417,325 +417,1587 @@
       "src": "assets/audio/jessica-056.mp3?v=c44746f51ebe"
     },
     "phrase-0:answer": {
-      "src": "assets/audio/jessica-057.mp3?v=939ab87d0a9c"
+      "src": "assets/audio/jessica-057.mp3?v=939ab87d0a9c",
+      "words": [
+        {
+          "text": "a",
+          "start": 0.38,
+          "end": 0.64
+        },
+        {
+          "text": "blue",
+          "start": 0.64,
+          "end": 1.07
+        },
+        {
+          "text": "sky",
+          "start": 1.07,
+          "end": 1.41
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "phrase-1:answer": {
-      "src": "assets/audio/jessica-058.mp3?v=3f1529875616"
+      "src": "assets/audio/jessica-058.mp3?v=3f1529875616",
+      "words": [
+        {
+          "text": "a",
+          "start": 0.36,
+          "end": 0.7
+        },
+        {
+          "text": "fat",
+          "start": 0.7,
+          "end": 1.06
+        },
+        {
+          "text": "talking",
+          "start": 1.06,
+          "end": 1.52
+        },
+        {
+          "text": "hen",
+          "start": 1.52,
+          "end": 1.78
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "phrase-2:answer": {
-      "src": "assets/audio/jessica-059.mp3?v=cd4860d156af"
+      "src": "assets/audio/jessica-059.mp3?v=cd4860d156af",
+      "words": [
+        {
+          "text": "a",
+          "start": 0.35,
+          "end": 0.52
+        },
+        {
+          "text": "few",
+          "start": 0.52,
+          "end": 0.75
+        },
+        {
+          "text": "minutes",
+          "start": 0.75,
+          "end": 1.26
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "phrase-3:answer": {
-      "src": "assets/audio/jessica-060.mp3?v=19a1db43a396"
+      "src": "assets/audio/jessica-060.mp3?v=19a1db43a396",
+      "words": [
+        {
+          "text": "a",
+          "start": 0.33,
+          "end": 0.53
+        },
+        {
+          "text": "happy",
+          "start": 0.53,
+          "end": 0.96
+        },
+        {
+          "text": "lass",
+          "start": 0.96,
+          "end": 1.31
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "phrase-4:answer": {
-      "src": "assets/audio/jessica-061.mp3?v=f7bf1750c9ea"
+      "src": "assets/audio/jessica-061.mp3?v=f7bf1750c9ea",
+      "words": [
+        {
+          "text": "a",
+          "start": 0.34,
+          "end": 0.56
+        },
+        {
+          "text": "long",
+          "start": 0.56,
+          "end": 0.92
+        },
+        {
+          "text": "time",
+          "start": 0.92,
+          "end": 1.29
+        },
+        {
+          "text": "ago",
+          "start": 1.29,
+          "end": 1.6
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "phrase-5:answer": {
-      "src": "assets/audio/jessica-062.mp3?v=2b0cb8c13a1c"
+      "src": "assets/audio/jessica-062.mp3?v=2b0cb8c13a1c",
+      "words": [
+        {
+          "text": "a",
+          "start": 0.34,
+          "end": 0.59
+        },
+        {
+          "text": "pearl",
+          "start": 0.59,
+          "end": 0.93
+        },
+        {
+          "text": "necklace",
+          "start": 0.93,
+          "end": 1.49
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "phrase-6:answer": {
-      "src": "assets/audio/jessica-063.mp3?v=2aae102057ff"
+      "src": "assets/audio/jessica-063.mp3?v=2aae102057ff",
+      "words": [
+        {
+          "text": "a",
+          "start": 0.33,
+          "end": 0.59
+        },
+        {
+          "text": "pink",
+          "start": 0.59,
+          "end": 0.89
+        },
+        {
+          "text": "dress",
+          "start": 0.89,
+          "end": 1.25
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "phrase-7:answer": {
-      "src": "assets/audio/jessica-064.mp3?v=d371a05469cd"
+      "src": "assets/audio/jessica-064.mp3?v=d371a05469cd",
+      "words": [
+        {
+          "text": "a",
+          "start": 0.32,
+          "end": 0.54
+        },
+        {
+          "text": "plate",
+          "start": 0.54,
+          "end": 0.82
+        },
+        {
+          "text": "of",
+          "start": 0.82,
+          "end": 0.97
+        },
+        {
+          "text": "rice",
+          "start": 0.97,
+          "end": 1.28
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "phrase-8:answer": {
-      "src": "assets/audio/jessica-065.mp3?v=8ba08b22a8d2"
+      "src": "assets/audio/jessica-065.mp3?v=8ba08b22a8d2",
+      "words": [
+        {
+          "text": "a",
+          "start": 0.31,
+          "end": 0.53
+        },
+        {
+          "text": "small",
+          "start": 0.53,
+          "end": 0.96
+        },
+        {
+          "text": "new",
+          "start": 0.96,
+          "end": 1.29
+        },
+        {
+          "text": "ball",
+          "start": 1.29,
+          "end": 1.66
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "phrase-9:answer": {
-      "src": "assets/audio/jessica-066.mp3?v=23db82967c02"
+      "src": "assets/audio/jessica-066.mp3?v=23db82967c02",
+      "words": [
+        {
+          "text": "a",
+          "start": 0.33,
+          "end": 0.56
+        },
+        {
+          "text": "worn-out",
+          "start": 0.56,
+          "end": 1.09
+        },
+        {
+          "text": "doll",
+          "start": 1.09,
+          "end": 1.47
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "phrase-10:answer": {
-      "src": "assets/audio/jessica-067.mp3?v=d1088161dda6"
+      "src": "assets/audio/jessica-067.mp3?v=d1088161dda6",
+      "words": [
+        {
+          "text": "a",
+          "start": 0.32,
+          "end": 0.55
+        },
+        {
+          "text": "very",
+          "start": 0.55,
+          "end": 0.92
+        },
+        {
+          "text": "tall",
+          "start": 0.92,
+          "end": 1.32
+        },
+        {
+          "text": "beanstalk",
+          "start": 1.32,
+          "end": 2.09
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "phrase-11:answer": {
-      "src": "assets/audio/jessica-068.mp3?v=d7d97bfb42c2"
+      "src": "assets/audio/jessica-068.mp3?v=d7d97bfb42c2",
+      "words": [
+        {
+          "text": "the",
+          "start": 0.17,
+          "end": 0.42
+        },
+        {
+          "text": "baby's",
+          "start": 0.42,
+          "end": 0.84
+        },
+        {
+          "text": "blanket",
+          "start": 0.84,
+          "end": 1.41
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "phrase-12:answer": {
-      "src": "assets/audio/jessica-069.mp3?v=d5b603010c1e"
+      "src": "assets/audio/jessica-069.mp3?v=d5b603010c1e",
+      "words": [
+        {
+          "text": "the",
+          "start": 0.32,
+          "end": 0.61
+        },
+        {
+          "text": "bright",
+          "start": 0.61,
+          "end": 1.06
+        },
+        {
+          "text": "man",
+          "start": 1.06,
+          "end": 1.35
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "phrase-13:answer": {
-      "src": "assets/audio/jessica-070.mp3?v=cfebd89479d8"
+      "src": "assets/audio/jessica-070.mp3?v=cfebd89479d8",
+      "words": [
+        {
+          "text": "the",
+          "start": 0.32,
+          "end": 0.57
+        },
+        {
+          "text": "canteen",
+          "start": 0.57,
+          "end": 0.98
+        },
+        {
+          "text": "helper",
+          "start": 0.98,
+          "end": 1.43
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "phrase-14:answer": {
-      "src": "assets/audio/jessica-071.mp3?v=e730d1e64f56"
+      "src": "assets/audio/jessica-071.mp3?v=e730d1e64f56",
+      "words": [
+        {
+          "text": "the",
+          "start": 0.31,
+          "end": 0.65
+        },
+        {
+          "text": "good",
+          "start": 0.65,
+          "end": 0.97
+        },
+        {
+          "text": "lad",
+          "start": 0.97,
+          "end": 1.26
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "phrase-15:answer": {
-      "src": "assets/audio/jessica-072.mp3?v=fff38144c6ce"
+      "src": "assets/audio/jessica-072.mp3?v=fff38144c6ce",
+      "words": [
+        {
+          "text": "the",
+          "start": 0.28,
+          "end": 0.54
+        },
+        {
+          "text": "new",
+          "start": 0.54,
+          "end": 0.8
+        },
+        {
+          "text": "bag",
+          "start": 0.8,
+          "end": 1.07
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "phrase-16:answer": {
-      "src": "assets/audio/jessica-073.mp3?v=7def2668418c"
+      "src": "assets/audio/jessica-073.mp3?v=7def2668418c",
+      "words": [
+        {
+          "text": "the",
+          "start": 0.29,
+          "end": 0.67
+        },
+        {
+          "text": "tall",
+          "start": 0.67,
+          "end": 1.09
+        },
+        {
+          "text": "tree",
+          "start": 1.09,
+          "end": 1.49
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "phrase-17:answer": {
-      "src": "assets/audio/jessica-074.mp3?v=174e4b682dd8"
+      "src": "assets/audio/jessica-074.mp3?v=174e4b682dd8",
+      "words": [
+        {
+          "text": "the",
+          "start": 0.29,
+          "end": 0.61
+        },
+        {
+          "text": "pretty",
+          "start": 0.61,
+          "end": 0.96
+        },
+        {
+          "text": "woman",
+          "start": 0.96,
+          "end": 1.28
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "phrase-18:answer": {
-      "src": "assets/audio/jessica-075.mp3?v=c92c21c1d026"
+      "src": "assets/audio/jessica-075.mp3?v=c92c21c1d026",
+      "words": [
+        {
+          "text": "always",
+          "start": 0.29,
+          "end": 0.8
+        },
+        {
+          "text": "laughing",
+          "start": 0.8,
+          "end": 1.52
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "phrase-19:answer": {
-      "src": "assets/audio/jessica-076.mp3?v=1ceebf3805fd"
+      "src": "assets/audio/jessica-076.mp3?v=1ceebf3805fd",
+      "words": [
+        {
+          "text": "beautiful",
+          "start": 0.26,
+          "end": 0.95
+        },
+        {
+          "text": "girl",
+          "start": 0.95,
+          "end": 1.37
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "phrase-20:answer": {
-      "src": "assets/audio/jessica-077.mp3?v=2459f8115d4a"
+      "src": "assets/audio/jessica-077.mp3?v=2459f8115d4a",
+      "words": [
+        {
+          "text": "loaf",
+          "start": 0.29,
+          "end": 0.54
+        },
+        {
+          "text": "of",
+          "start": 0.54,
+          "end": 0.83
+        },
+        {
+          "text": "bread",
+          "start": 0.83,
+          "end": 1.14
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "phrase-21:answer": {
-      "src": "assets/audio/jessica-078.mp3?v=65db7d209a16"
+      "src": "assets/audio/jessica-078.mp3?v=65db7d209a16",
+      "words": [
+        {
+          "text": "many",
+          "start": 0.28,
+          "end": 0.7
+        },
+        {
+          "text": "candies",
+          "start": 0.7,
+          "end": 1.39
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "phrase-22:answer": {
-      "src": "assets/audio/jessica-079.mp3?v=45510b955558"
+      "src": "assets/audio/jessica-079.mp3?v=45510b955558",
+      "words": [
+        {
+          "text": "men",
+          "start": 0.26,
+          "end": 0.55
+        },
+        {
+          "text": "at",
+          "start": 0.55,
+          "end": 0.78
+        },
+        {
+          "text": "work",
+          "start": 0.78,
+          "end": 1.3
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "phrase-23:answer": {
-      "src": "assets/audio/jessica-080.mp3?v=3de7bd1f54da"
+      "src": "assets/audio/jessica-080.mp3?v=3de7bd1f54da",
+      "words": [
+        {
+          "text": "once",
+          "start": 0.28,
+          "end": 0.51
+        },
+        {
+          "text": "in",
+          "start": 0.51,
+          "end": 0.66
+        },
+        {
+          "text": "a",
+          "start": 0.66,
+          "end": 0.81
+        },
+        {
+          "text": "while",
+          "start": 0.81,
+          "end": 1.1
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "phrase-24:answer": {
-      "src": "assets/audio/jessica-081.mp3?v=92f092174c1f"
+      "src": "assets/audio/jessica-081.mp3?v=92f092174c1f",
+      "words": [
+        {
+          "text": "once",
+          "start": 0.3,
+          "end": 0.57
+        },
+        {
+          "text": "upon",
+          "start": 0.57,
+          "end": 0.87
+        },
+        {
+          "text": "a",
+          "start": 0.87,
+          "end": 1.06
+        },
+        {
+          "text": "time",
+          "start": 1.06,
+          "end": 1.35
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "phrase-25:answer": {
-      "src": "assets/audio/jessica-082.mp3?v=f75f2ccec60d"
+      "src": "assets/audio/jessica-082.mp3?v=f75f2ccec60d",
+      "words": [
+        {
+          "text": "on",
+          "start": 0.26,
+          "end": 0.42
+        },
+        {
+          "text": "top",
+          "start": 0.42,
+          "end": 0.69
+        },
+        {
+          "text": "of",
+          "start": 0.69,
+          "end": 0.87
+        },
+        {
+          "text": "the",
+          "start": 0.87,
+          "end": 1.11
+        },
+        {
+          "text": "branch",
+          "start": 1.11,
+          "end": 1.57
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "phrase-26:answer": {
-      "src": "assets/audio/jessica-083.mp3?v=adddb6191736"
+      "src": "assets/audio/jessica-083.mp3?v=adddb6191736",
+      "words": [
+        {
+          "text": "open",
+          "start": 0.24,
+          "end": 0.68
+        },
+        {
+          "text": "windows",
+          "start": 0.68,
+          "end": 1.25
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "phrase-27:answer": {
-      "src": "assets/audio/jessica-084.mp3?v=fa7df93411ad"
+      "src": "assets/audio/jessica-084.mp3?v=fa7df93411ad",
+      "words": [
+        {
+          "text": "seven",
+          "start": 0.3,
+          "end": 0.61
+        },
+        {
+          "text": "days",
+          "start": 0.61,
+          "end": 0.83
+        },
+        {
+          "text": "a",
+          "start": 0.83,
+          "end": 0.97
+        },
+        {
+          "text": "week",
+          "start": 0.97,
+          "end": 1.34
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "phrase-28:answer": {
-      "src": "assets/audio/jessica-085.mp3?v=61c6f3d1cc2f"
+      "src": "assets/audio/jessica-085.mp3?v=61c6f3d1cc2f",
+      "words": [
+        {
+          "text": "summer",
+          "start": 0.28,
+          "end": 0.78
+        },
+        {
+          "text": "vacation",
+          "start": 0.78,
+          "end": 1.43
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "phrase-29:answer": {
-      "src": "assets/audio/jessica-086.mp3?v=c915f597ee90"
+      "src": "assets/audio/jessica-086.mp3?v=c915f597ee90",
+      "words": [
+        {
+          "text": "under",
+          "start": 0.27,
+          "end": 0.6
+        },
+        {
+          "text": "the",
+          "start": 0.6,
+          "end": 0.86
+        },
+        {
+          "text": "table",
+          "start": 0.86,
+          "end": 1.23
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "phrase-30:answer": {
-      "src": "assets/audio/jessica-087.mp3?v=c160898ced9f"
+      "src": "assets/audio/jessica-087.mp3?v=c160898ced9f",
+      "words": [
+        {
+          "text": "white",
+          "start": 0.27,
+          "end": 0.56
+        },
+        {
+          "text": "handkerchief",
+          "start": 0.56,
+          "end": 1.11
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "adjective-0:prompt": {
       "src": "assets/audio/jessica-088.mp3?v=ea395cdc89b7"
     },
     "adjective-0:answer": {
-      "src": "assets/audio/jessica-089.mp3?v=06068cfbe90d"
+      "src": "assets/audio/jessica-089.mp3?v=06068cfbe90d",
+      "words": [
+        {
+          "text": "bad,",
+          "start": 0.35,
+          "end": 0.76
+        },
+        {
+          "text": "worse,",
+          "start": 0.76,
+          "end": 1.7
+        },
+        {
+          "text": "worst",
+          "start": 1.7,
+          "end": 2.64
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "adjective-1:prompt": {
       "src": "assets/audio/jessica-090.mp3?v=319826cc2f38"
     },
     "adjective-1:answer": {
-      "src": "assets/audio/jessica-091.mp3?v=8f517d75215e"
+      "src": "assets/audio/jessica-091.mp3?v=8f517d75215e",
+      "words": [
+        {
+          "text": "few,",
+          "start": 0.36,
+          "end": 0.76
+        },
+        {
+          "text": "fewer,",
+          "start": 0.76,
+          "end": 1.7
+        },
+        {
+          "text": "fewest",
+          "start": 1.7,
+          "end": 2.84
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "adjective-2:prompt": {
       "src": "assets/audio/jessica-092.mp3?v=4e8541b9b810"
     },
     "adjective-2:answer": {
-      "src": "assets/audio/jessica-093.mp3?v=0ee8091546ca"
+      "src": "assets/audio/jessica-093.mp3?v=0ee8091546ca",
+      "words": [
+        {
+          "text": "little,",
+          "start": 0.38,
+          "end": 1.29
+        },
+        {
+          "text": "less,",
+          "start": 1.29,
+          "end": 1.72
+        },
+        {
+          "text": "least",
+          "start": 1.72,
+          "end": 2.64
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "adjective-3:prompt": {
       "src": "assets/audio/jessica-094.mp3?v=ac06f2d4b813"
     },
     "adjective-3:answer": {
-      "src": "assets/audio/jessica-095.mp3?v=266d8d1999c8"
+      "src": "assets/audio/jessica-095.mp3?v=266d8d1999c8",
+      "words": [
+        {
+          "text": "good,",
+          "start": 0.42,
+          "end": 0.75
+        },
+        {
+          "text": "better,",
+          "start": 0.75,
+          "end": 1.62
+        },
+        {
+          "text": "best",
+          "start": 1.62,
+          "end": 2.52
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "adjective-4:prompt": {
       "src": "assets/audio/jessica-096.mp3?v=b3e318a6ce29"
     },
     "adjective-4:answer": {
-      "src": "assets/audio/jessica-097.mp3?v=36a6dcc32729"
+      "src": "assets/audio/jessica-097.mp3?v=36a6dcc32729",
+      "words": [
+        {
+          "text": "many,",
+          "start": 0.39,
+          "end": 0.88
+        },
+        {
+          "text": "more,",
+          "start": 0.88,
+          "end": 1.71
+        },
+        {
+          "text": "most",
+          "start": 1.71,
+          "end": 2.61
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "adjective-5:prompt": {
       "src": "assets/audio/jessica-098.mp3?v=9968a76c9492"
     },
     "adjective-5:answer": {
-      "src": "assets/audio/jessica-099.mp3?v=87072dfecbc9"
+      "src": "assets/audio/jessica-099.mp3?v=87072dfecbc9",
+      "words": [
+        {
+          "text": "brave,",
+          "start": 0.4,
+          "end": 1.33
+        },
+        {
+          "text": "braver,",
+          "start": 1.33,
+          "end": 1.86
+        },
+        {
+          "text": "bravest",
+          "start": 1.86,
+          "end": 2.9
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "adjective-6:prompt": {
       "src": "assets/audio/jessica-100.mp3?v=c531b10a944c"
     },
     "adjective-6:answer": {
-      "src": "assets/audio/jessica-101.mp3?v=93d475e65570"
+      "src": "assets/audio/jessica-101.mp3?v=93d475e65570",
+      "words": [
+        {
+          "text": "bright,",
+          "start": 0.41,
+          "end": 1.29
+        },
+        {
+          "text": "brighter,",
+          "start": 1.29,
+          "end": 1.76
+        },
+        {
+          "text": "brightest",
+          "start": 1.76,
+          "end": 2.73
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "adjective-7:prompt": {
       "src": "assets/audio/jessica-102.mp3?v=18f7c4a489ac"
     },
     "adjective-7:answer": {
-      "src": "assets/audio/jessica-103.mp3?v=4554de98d5ca"
+      "src": "assets/audio/jessica-103.mp3?v=4554de98d5ca",
+      "words": [
+        {
+          "text": "clean,",
+          "start": 0.39,
+          "end": 0.86
+        },
+        {
+          "text": "cleaner,",
+          "start": 0.86,
+          "end": 1.76
+        },
+        {
+          "text": "cleanest",
+          "start": 1.76,
+          "end": 2.76
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "adjective-8:prompt": {
       "src": "assets/audio/jessica-104.mp3?v=20c1f7626e1a"
     },
     "adjective-8:answer": {
-      "src": "assets/audio/jessica-105.mp3?v=0c3477a182d6"
+      "src": "assets/audio/jessica-105.mp3?v=0c3477a182d6",
+      "words": [
+        {
+          "text": "cold,",
+          "start": 0.39,
+          "end": 0.81
+        },
+        {
+          "text": "colder,",
+          "start": 0.81,
+          "end": 1.77
+        },
+        {
+          "text": "coldest",
+          "start": 1.77,
+          "end": 2.81
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "adjective-9:prompt": {
       "src": "assets/audio/jessica-106.mp3?v=79306757c4fd"
     },
     "adjective-9:answer": {
-      "src": "assets/audio/jessica-107.mp3?v=a25da77282c8"
+      "src": "assets/audio/jessica-107.mp3?v=a25da77282c8",
+      "words": [
+        {
+          "text": "cool,",
+          "start": 0.39,
+          "end": 0.81
+        },
+        {
+          "text": "cooler,",
+          "start": 0.81,
+          "end": 1.7
+        },
+        {
+          "text": "coolest",
+          "start": 1.7,
+          "end": 2.68
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "adjective-10:prompt": {
       "src": "assets/audio/jessica-108.mp3?v=f459417a6756"
     },
     "adjective-10:answer": {
-      "src": "assets/audio/jessica-109.mp3?v=9531ea78ae74"
+      "src": "assets/audio/jessica-109.mp3?v=9531ea78ae74",
+      "words": [
+        {
+          "text": "dark,",
+          "start": 0.42,
+          "end": 1.28
+        },
+        {
+          "text": "darker,",
+          "start": 1.28,
+          "end": 2.13
+        },
+        {
+          "text": "darkest",
+          "start": 2.13,
+          "end": 2.77
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "adjective-11:prompt": {
       "src": "assets/audio/jessica-110.mp3?v=51c50f073176"
     },
     "adjective-11:answer": {
-      "src": "assets/audio/jessica-111.mp3?v=7bc0dd9b7a43"
+      "src": "assets/audio/jessica-111.mp3?v=7bc0dd9b7a43",
+      "words": [
+        {
+          "text": "dirty,",
+          "start": 0.41,
+          "end": 0.84
+        },
+        {
+          "text": "dirtier,",
+          "start": 0.84,
+          "end": 1.77
+        },
+        {
+          "text": "dirtiest",
+          "start": 1.77,
+          "end": 2.78
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "adjective-12:prompt": {
       "src": "assets/audio/jessica-112.mp3?v=cc404d6dc6ad"
     },
     "adjective-12:answer": {
-      "src": "assets/audio/jessica-113.mp3?v=f0158a89803a"
+      "src": "assets/audio/jessica-113.mp3?v=f0158a89803a",
+      "words": [
+        {
+          "text": "early,",
+          "start": 0.17,
+          "end": 0.61
+        },
+        {
+          "text": "earlier,",
+          "start": 0.61,
+          "end": 1.47
+        },
+        {
+          "text": "earliest",
+          "start": 1.47,
+          "end": 2.5
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "adjective-13:prompt": {
       "src": "assets/audio/jessica-114.mp3?v=66607a828c8b"
     },
     "adjective-13:answer": {
-      "src": "assets/audio/jessica-115.mp3?v=94abf2a7f2af"
+      "src": "assets/audio/jessica-115.mp3?v=94abf2a7f2af",
+      "words": [
+        {
+          "text": "funny,",
+          "start": 0.45,
+          "end": 0.81
+        },
+        {
+          "text": "funnier,",
+          "start": 0.81,
+          "end": 1.65
+        },
+        {
+          "text": "funniest",
+          "start": 1.65,
+          "end": 2.59
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "adjective-14:prompt": {
       "src": "assets/audio/jessica-116.mp3?v=ccb9970a1103"
     },
     "adjective-14:answer": {
-      "src": "assets/audio/jessica-117.mp3?v=64e05d7db1e1"
+      "src": "assets/audio/jessica-117.mp3?v=64e05d7db1e1",
+      "words": [
+        {
+          "text": "happy,",
+          "start": 0.37,
+          "end": 0.85
+        },
+        {
+          "text": "happier,",
+          "start": 0.85,
+          "end": 1.66
+        },
+        {
+          "text": "happiest",
+          "start": 1.66,
+          "end": 2.6
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "adjective-15:prompt": {
       "src": "assets/audio/jessica-118.mp3?v=2be9f41e288a"
     },
     "adjective-15:answer": {
-      "src": "assets/audio/jessica-119.mp3?v=eeeb96ddfde5"
+      "src": "assets/audio/jessica-119.mp3?v=eeeb96ddfde5",
+      "words": [
+        {
+          "text": "hard,",
+          "start": 0.38,
+          "end": 0.75
+        },
+        {
+          "text": "harder,",
+          "start": 0.75,
+          "end": 1.57
+        },
+        {
+          "text": "hardest",
+          "start": 1.57,
+          "end": 2.51
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "adjective-16:prompt": {
       "src": "assets/audio/jessica-120.mp3?v=223b53d9707a"
     },
     "adjective-16:answer": {
-      "src": "assets/audio/jessica-121.mp3?v=56b2af46723c"
+      "src": "assets/audio/jessica-121.mp3?v=56b2af46723c",
+      "words": [
+        {
+          "text": "heavy,",
+          "start": 0.38,
+          "end": 0.78
+        },
+        {
+          "text": "heavier,",
+          "start": 0.78,
+          "end": 1.59
+        },
+        {
+          "text": "heaviest",
+          "start": 1.59,
+          "end": 2.54
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "adjective-17:prompt": {
       "src": "assets/audio/jessica-122.mp3?v=863fc4404fd7"
     },
     "adjective-17:answer": {
-      "src": "assets/audio/jessica-123.mp3?v=48df78d1ca7a"
+      "src": "assets/audio/jessica-123.mp3?v=48df78d1ca7a",
+      "words": [
+        {
+          "text": "high,",
+          "start": 0.38,
+          "end": 0.72
+        },
+        {
+          "text": "higher,",
+          "start": 0.72,
+          "end": 1.5
+        },
+        {
+          "text": "highest",
+          "start": 1.5,
+          "end": 2.48
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "adjective-18:prompt": {
       "src": "assets/audio/jessica-124.mp3?v=830980387e9f"
     },
     "adjective-18:answer": {
-      "src": "assets/audio/jessica-125.mp3?v=30446fee2980"
+      "src": "assets/audio/jessica-125.mp3?v=30446fee2980",
+      "words": [
+        {
+          "text": "hot,",
+          "start": 0.38,
+          "end": 0.6
+        },
+        {
+          "text": "hotter,",
+          "start": 0.6,
+          "end": 1.41
+        },
+        {
+          "text": "hottest",
+          "start": 1.41,
+          "end": 2.37
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "adjective-19:prompt": {
       "src": "assets/audio/jessica-126.mp3?v=a228fbc04945"
     },
     "adjective-19:answer": {
-      "src": "assets/audio/jessica-127.mp3?v=5d53c502c49b"
+      "src": "assets/audio/jessica-127.mp3?v=5d53c502c49b",
+      "words": [
+        {
+          "text": "large,",
+          "start": 0.34,
+          "end": 0.86
+        },
+        {
+          "text": "larger,",
+          "start": 0.86,
+          "end": 1.69
+        },
+        {
+          "text": "largest",
+          "start": 1.69,
+          "end": 2.65
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "adjective-20:prompt": {
       "src": "assets/audio/jessica-128.mp3?v=90e6080c008d"
     },
     "adjective-20:answer": {
-      "src": "assets/audio/jessica-129.mp3?v=7bbb68df928a"
+      "src": "assets/audio/jessica-129.mp3?v=7bbb68df928a",
+      "words": [
+        {
+          "text": "late,",
+          "start": 0.34,
+          "end": 1.13
+        },
+        {
+          "text": "later,",
+          "start": 1.13,
+          "end": 1.59
+        },
+        {
+          "text": "latest",
+          "start": 1.59,
+          "end": 2.47
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "adjective-21:prompt": {
       "src": "assets/audio/jessica-130.mp3?v=f3cd2642e231"
     },
     "adjective-21:answer": {
-      "src": "assets/audio/jessica-131.mp3?v=e7e081cbcc8a"
+      "src": "assets/audio/jessica-131.mp3?v=e7e081cbcc8a",
+      "words": [
+        {
+          "text": "light,",
+          "start": 0.35,
+          "end": 0.8
+        },
+        {
+          "text": "lighter,",
+          "start": 0.8,
+          "end": 1.56
+        },
+        {
+          "text": "lightest",
+          "start": 1.56,
+          "end": 2.47
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "adjective-22:prompt": {
       "src": "assets/audio/jessica-132.mp3?v=b1dd617f5ace"
     },
     "adjective-22:answer": {
-      "src": "assets/audio/jessica-133.mp3?v=a8c4851c9ce5"
+      "src": "assets/audio/jessica-133.mp3?v=a8c4851c9ce5",
+      "words": [
+        {
+          "text": "lonely,",
+          "start": 0.34,
+          "end": 0.92
+        },
+        {
+          "text": "lonelier,",
+          "start": 0.92,
+          "end": 1.86
+        },
+        {
+          "text": "loneliest",
+          "start": 1.86,
+          "end": 2.92
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "adjective-23:prompt": {
       "src": "assets/audio/jessica-134.mp3?v=498ce9098685"
     },
     "adjective-23:answer": {
-      "src": "assets/audio/jessica-135.mp3?v=a2b848cafa50"
+      "src": "assets/audio/jessica-135.mp3?v=a2b848cafa50",
+      "words": [
+        {
+          "text": "long,",
+          "start": 0.38,
+          "end": 0.84
+        },
+        {
+          "text": "longer,",
+          "start": 0.84,
+          "end": 1.81
+        },
+        {
+          "text": "longest",
+          "start": 1.81,
+          "end": 2.87
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "adjective-24:prompt": {
       "src": "assets/audio/jessica-136.mp3?v=b1da815a94fe"
     },
     "adjective-24:answer": {
-      "src": "assets/audio/jessica-137.mp3?v=462df14a1267"
+      "src": "assets/audio/jessica-137.mp3?v=462df14a1267",
+      "words": [
+        {
+          "text": "nice,",
+          "start": 0.39,
+          "end": 0.91
+        },
+        {
+          "text": "nicer,",
+          "start": 0.91,
+          "end": 1.8
+        },
+        {
+          "text": "nicest",
+          "start": 1.8,
+          "end": 2.83
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "adjective-25:prompt": {
       "src": "assets/audio/jessica-138.mp3?v=ecca77a83a9d"
     },
     "adjective-25:answer": {
-      "src": "assets/audio/jessica-139.mp3?v=305ebea14596"
+      "src": "assets/audio/jessica-139.mp3?v=305ebea14596",
+      "words": [
+        {
+          "text": "old,",
+          "start": 0.42,
+          "end": 0.76
+        },
+        {
+          "text": "older,",
+          "start": 0.76,
+          "end": 1.71
+        },
+        {
+          "text": "oldest",
+          "start": 1.71,
+          "end": 2.74
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "adjective-26:prompt": {
       "src": "assets/audio/jessica-140.mp3?v=e794a158b0f6"
     },
     "adjective-26:answer": {
-      "src": "assets/audio/jessica-141.mp3?v=c291be70a063"
+      "src": "assets/audio/jessica-141.mp3?v=c291be70a063",
+      "words": [
+        {
+          "text": "rare,",
+          "start": 0.41,
+          "end": 0.89
+        },
+        {
+          "text": "rarer,",
+          "start": 0.89,
+          "end": 1.79
+        },
+        {
+          "text": "rarest",
+          "start": 1.79,
+          "end": 2.88
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "adjective-27:prompt": {
       "src": "assets/audio/jessica-142.mp3?v=ed47866a1790"
     },
     "adjective-27:answer": {
-      "src": "assets/audio/jessica-143.mp3?v=51e2d70f0a6e"
+      "src": "assets/audio/jessica-143.mp3?v=51e2d70f0a6e",
+      "words": [
+        {
+          "text": "sad,",
+          "start": 0.36,
+          "end": 0.75
+        },
+        {
+          "text": "sadder,",
+          "start": 0.75,
+          "end": 1.71
+        },
+        {
+          "text": "saddest",
+          "start": 1.71,
+          "end": 2.87
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "adjective-28:prompt": {
       "src": "assets/audio/jessica-144.mp3?v=287c8ed95948"
     },
     "adjective-28:answer": {
-      "src": "assets/audio/jessica-145.mp3?v=1e8505ed9cf1"
+      "src": "assets/audio/jessica-145.mp3?v=1e8505ed9cf1",
+      "words": [
+        {
+          "text": "short,",
+          "start": 0.39,
+          "end": 1.29
+        },
+        {
+          "text": "shorter,",
+          "start": 1.29,
+          "end": 1.84
+        },
+        {
+          "text": "shortest",
+          "start": 1.84,
+          "end": 2.83
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "adjective-29:prompt": {
       "src": "assets/audio/jessica-146.mp3?v=6b0901448061"
     },
     "adjective-29:answer": {
-      "src": "assets/audio/jessica-147.mp3?v=a01c17108f60"
+      "src": "assets/audio/jessica-147.mp3?v=a01c17108f60",
+      "words": [
+        {
+          "text": "slow,",
+          "start": 0.36,
+          "end": 0.87
+        },
+        {
+          "text": "slower,",
+          "start": 0.87,
+          "end": 1.85
+        },
+        {
+          "text": "slowest",
+          "start": 1.85,
+          "end": 3
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "adjective-30:prompt": {
       "src": "assets/audio/jessica-148.mp3?v=ce46ad474e10"
     },
     "adjective-30:answer": {
-      "src": "assets/audio/jessica-149.mp3?v=dc6d480b86eb"
+      "src": "assets/audio/jessica-149.mp3?v=dc6d480b86eb",
+      "words": [
+        {
+          "text": "small,",
+          "start": 0.4,
+          "end": 0.91
+        },
+        {
+          "text": "smaller,",
+          "start": 0.91,
+          "end": 1.91
+        },
+        {
+          "text": "smallest",
+          "start": 1.91,
+          "end": 3
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "adjective-31:prompt": {
       "src": "assets/audio/jessica-150.mp3?v=c329498ee3f1"
     },
     "adjective-31:answer": {
-      "src": "assets/audio/jessica-151.mp3?v=a800bf8bae0b"
+      "src": "assets/audio/jessica-151.mp3?v=a800bf8bae0b",
+      "words": [
+        {
+          "text": "soft,",
+          "start": 0.39,
+          "end": 0.96
+        },
+        {
+          "text": "softer,",
+          "start": 0.96,
+          "end": 1.95
+        },
+        {
+          "text": "softest",
+          "start": 1.95,
+          "end": 3
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "adjective-32:prompt": {
       "src": "assets/audio/jessica-152.mp3?v=458aabb155e7"
     },
     "adjective-32:answer": {
-      "src": "assets/audio/jessica-153.mp3?v=b0d472e4c37b"
+      "src": "assets/audio/jessica-153.mp3?v=b0d472e4c37b",
+      "words": [
+        {
+          "text": "strong,",
+          "start": 0.37,
+          "end": 0.96
+        },
+        {
+          "text": "stronger,",
+          "start": 0.96,
+          "end": 1.97
+        },
+        {
+          "text": "strongest",
+          "start": 1.97,
+          "end": 3.07
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "adjective-33:prompt": {
       "src": "assets/audio/jessica-154.mp3?v=733cfd067d23"
     },
     "adjective-33:answer": {
-      "src": "assets/audio/jessica-155.mp3?v=3b8a6575b330"
+      "src": "assets/audio/jessica-155.mp3?v=3b8a6575b330",
+      "words": [
+        {
+          "text": "tall,",
+          "start": 0.41,
+          "end": 0.8
+        },
+        {
+          "text": "taller,",
+          "start": 0.8,
+          "end": 1.75
+        },
+        {
+          "text": "tallest",
+          "start": 1.75,
+          "end": 2.8
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "adjective-34:prompt": {
       "src": "assets/audio/jessica-156.mp3?v=8cd1c6fd30a3"
     },
     "adjective-34:answer": {
-      "src": "assets/audio/jessica-157.mp3?v=501bfe569f40"
+      "src": "assets/audio/jessica-157.mp3?v=501bfe569f40",
+      "words": [
+        {
+          "text": "thick,",
+          "start": 0.53,
+          "end": 1.47
+        },
+        {
+          "text": "thicker,",
+          "start": 1.47,
+          "end": 2.21
+        },
+        {
+          "text": "thickest",
+          "start": 2.21,
+          "end": 2.76
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "adjective-35:prompt": {
       "src": "assets/audio/jessica-158.mp3?v=af2e60614393"
     },
     "adjective-35:answer": {
-      "src": "assets/audio/jessica-159.mp3?v=2581811b977f"
+      "src": "assets/audio/jessica-159.mp3?v=2581811b977f",
+      "words": [
+        {
+          "text": "thin,",
+          "start": 0.55,
+          "end": 0.86
+        },
+        {
+          "text": "thinner,",
+          "start": 0.86,
+          "end": 1.78
+        },
+        {
+          "text": "thinnest",
+          "start": 1.78,
+          "end": 2.79
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "adjective-36:prompt": {
       "src": "assets/audio/jessica-160.mp3?v=ba0666dfe891"
     },
     "adjective-36:answer": {
-      "src": "assets/audio/jessica-161.mp3?v=4b52a998a50c"
+      "src": "assets/audio/jessica-161.mp3?v=4b52a998a50c",
+      "words": [
+        {
+          "text": "warm,",
+          "start": 0.39,
+          "end": 0.84
+        },
+        {
+          "text": "warmer,",
+          "start": 0.84,
+          "end": 1.75
+        },
+        {
+          "text": "warmest",
+          "start": 1.75,
+          "end": 2.88
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "adjective-37:prompt": {
       "src": "assets/audio/jessica-162.mp3?v=dd10d9a37baf"
     },
     "adjective-37:answer": {
-      "src": "assets/audio/jessica-163.mp3?v=f4c5e7019ee2"
+      "src": "assets/audio/jessica-163.mp3?v=f4c5e7019ee2",
+      "words": [
+        {
+          "text": "young,",
+          "start": 0.39,
+          "end": 0.87
+        },
+        {
+          "text": "younger,",
+          "start": 0.87,
+          "end": 1.83
+        },
+        {
+          "text": "youngest",
+          "start": 1.83,
+          "end": 2.87
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "after-136:prompt": {
       "src": "assets/audio/jessica-164.mp3?v=a5e0d34fbbf1"
@@ -1905,10 +3167,10 @@
       "src": "assets/audio/jessica-475.mp3?v=14b6c0bf3988"
     },
     "animal-4:answer": {
-      "src": "assets/audio/jessica-476.mp3?v=cf32a991374b"
+      "src": "assets/audio/jessica-476.mp3?v=499bb3be808e"
     },
     "animal-5:answer": {
-      "src": "assets/audio/jessica-477.mp3?v=225370eadb3b"
+      "src": "assets/audio/jessica-477.mp3?v=3926c0641df0"
     },
     "animal-6:answer": {
       "src": "assets/audio/jessica-478.mp3?v=bc6daca5bf30"
@@ -2454,58 +3716,387 @@
       "src": "assets/audio/jessica-600.mp3?v=56988c836def"
     },
     "fil-phrase-0:answer": {
-      "src": "assets/audio/jessica-601.mp3?v=7824b9ddd6ef"
+      "src": "assets/audio/jessica-601.mp3?v=d8f11d1d838c",
+      "words": [
+        {
+          "text": "ang",
+          "start": 0.09,
+          "end": 0.56
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "fil-phrase-1:answer": {
-      "src": "assets/audio/jessica-602.mp3?v=908c5e7da617"
+      "src": "assets/audio/jessica-602.mp3?v=908c5e7da617",
+      "words": [
+        {
+          "text": "ang",
+          "start": 0.04,
+          "end": 0.4
+        },
+        {
+          "text": "mga",
+          "start": 0.4,
+          "end": 0.78
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "fil-phrase-2:answer": {
-      "src": "assets/audio/jessica-603.mp3?v=524b064d9def"
+      "src": "assets/audio/jessica-603.mp3?v=524b064d9def",
+      "words": [
+        {
+          "text": "ang",
+          "start": 0.03,
+          "end": 0.49
+        },
+        {
+          "text": "aso",
+          "start": 0.49,
+          "end": 0.91
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "fil-phrase-3:answer": {
-      "src": "assets/audio/jessica-604.mp3?v=0104e3b4e3dd"
+      "src": "assets/audio/jessica-604.mp3?v=0104e3b4e3dd",
+      "words": [
+        {
+          "text": "ang",
+          "start": 0.04,
+          "end": 0.32
+        },
+        {
+          "text": "aso",
+          "start": 0.32,
+          "end": 0.6
+        },
+        {
+          "text": "at",
+          "start": 0.6,
+          "end": 0.91
+        },
+        {
+          "text": "ang",
+          "start": 0.91,
+          "end": 1.37
+        },
+        {
+          "text": "mga",
+          "start": 1.37,
+          "end": 1.72
+        },
+        {
+          "text": "pusa",
+          "start": 1.72,
+          "end": 2.17
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "fil-phrase-4:answer": {
-      "src": "assets/audio/jessica-605.mp3?v=b52b07339521"
+      "src": "assets/audio/jessica-605.mp3?v=b52b07339521",
+      "words": [
+        {
+          "text": "ang",
+          "start": 0.03,
+          "end": 0.42
+        },
+        {
+          "text": "baka",
+          "start": 0.42,
+          "end": 0.96
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "fil-phrase-5:answer": {
-      "src": "assets/audio/jessica-606.mp3?v=27cc921bd66d"
+      "src": "assets/audio/jessica-606.mp3?v=27cc921bd66d",
+      "words": [
+        {
+          "text": "ang",
+          "start": 0.03,
+          "end": 0.35
+        },
+        {
+          "text": "baka",
+          "start": 0.35,
+          "end": 0.82
+        },
+        {
+          "text": "sa",
+          "start": 0.82,
+          "end": 1.07
+        },
+        {
+          "text": "may",
+          "start": 1.07,
+          "end": 1.39
+        },
+        {
+          "text": "ilog",
+          "start": 1.39,
+          "end": 1.82
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "fil-phrase-6:answer": {
-      "src": "assets/audio/jessica-607.mp3?v=a8a657adb4bc"
+      "src": "assets/audio/jessica-607.mp3?v=a8a657adb4bc",
+      "words": [
+        {
+          "text": "ang",
+          "start": 0.05,
+          "end": 0.41
+        },
+        {
+          "text": "butiki",
+          "start": 0.41,
+          "end": 1.17
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "fil-phrase-7:answer": {
-      "src": "assets/audio/jessica-608.mp3?v=4b9bfe20bfe3"
+      "src": "assets/audio/jessica-608.mp3?v=7944da0adf28",
+      "words": [
+        {
+          "text": "ang",
+          "start": 0.04,
+          "end": 0.33
+        },
+        {
+          "text": "butiki",
+          "start": 0.33,
+          "end": 0.96
+        },
+        {
+          "text": "sa",
+          "start": 0.96,
+          "end": 1.24
+        },
+        {
+          "text": "kisame",
+          "start": 1.24,
+          "end": 1.74
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "fil-phrase-8:answer": {
-      "src": "assets/audio/jessica-609.mp3?v=276853e78fce"
+      "src": "assets/audio/jessica-609.mp3?v=276853e78fce",
+      "words": [
+        {
+          "text": "ang",
+          "start": 0.04,
+          "end": 0.46
+        },
+        {
+          "text": "ibon",
+          "start": 0.46,
+          "end": 0.93
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "fil-phrase-9:answer": {
-      "src": "assets/audio/jessica-610.mp3?v=86fca431c07e"
+      "src": "assets/audio/jessica-610.mp3?v=86fca431c07e",
+      "words": [
+        {
+          "text": "ang",
+          "start": 0.04,
+          "end": 0.34
+        },
+        {
+          "text": "ibon",
+          "start": 0.34,
+          "end": 0.69
+        },
+        {
+          "text": "sa",
+          "start": 0.69,
+          "end": 0.9
+        },
+        {
+          "text": "may",
+          "start": 0.9,
+          "end": 1.27
+        },
+        {
+          "text": "puno",
+          "start": 1.27,
+          "end": 1.63
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "fil-phrase-10:answer": {
-      "src": "assets/audio/jessica-611.mp3?v=db969340cd91"
+      "src": "assets/audio/jessica-611.mp3?v=db969340cd91",
+      "words": [
+        {
+          "text": "ang",
+          "start": 0.03,
+          "end": 0.44
+        },
+        {
+          "text": "unan",
+          "start": 0.44,
+          "end": 0.93
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "fil-phrase-11:answer": {
-      "src": "assets/audio/jessica-612.mp3?v=4e1cf061f337"
+      "src": "assets/audio/jessica-612.mp3?v=4e1cf061f337",
+      "words": [
+        {
+          "text": "ang",
+          "start": 0.09,
+          "end": 0.39
+        },
+        {
+          "text": "malambot",
+          "start": 0.39,
+          "end": 1.01
+        },
+        {
+          "text": "na",
+          "start": 1.01,
+          "end": 1.24
+        },
+        {
+          "text": "unan",
+          "start": 1.24,
+          "end": 1.62
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "fil-phrase-12:answer": {
-      "src": "assets/audio/jessica-613.mp3?v=4a80654c80e7"
+      "src": "assets/audio/jessica-613.mp3?v=4a80654c80e7",
+      "words": [
+        {
+          "text": "ang",
+          "start": 0.04,
+          "end": 0.42
+        },
+        {
+          "text": "baso",
+          "start": 0.42,
+          "end": 0.92
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "fil-phrase-13:answer": {
-      "src": "assets/audio/jessica-614.mp3?v=c3b3d31b61c3"
+      "src": "assets/audio/jessica-614.mp3?v=c3b3d31b61c3",
+      "words": [
+        {
+          "text": "ang",
+          "start": 0.03,
+          "end": 0.36
+        },
+        {
+          "text": "baso",
+          "start": 0.36,
+          "end": 0.76
+        },
+        {
+          "text": "ng",
+          "start": 0.76,
+          "end": 1.01
+        },
+        {
+          "text": "babae",
+          "start": 1.01,
+          "end": 1.49
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "fil-phrase-14:answer": {
-      "src": "assets/audio/jessica-615.mp3?v=274588438b3e"
+      "src": "assets/audio/jessica-615.mp3?v=274588438b3e",
+      "words": [
+        {
+          "text": "ang",
+          "start": 0.03,
+          "end": 0.38
+        },
+        {
+          "text": "daga",
+          "start": 0.38,
+          "end": 0.91
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "fil-phrase-15:answer": {
-      "src": "assets/audio/jessica-616.mp3?v=b7e25203dc35"
+      "src": "assets/audio/jessica-616.mp3?v=b7e25203dc35",
+      "words": [
+        {
+          "text": "ang",
+          "start": 0.03,
+          "end": 0.35
+        },
+        {
+          "text": "daga",
+          "start": 0.35,
+          "end": 0.74
+        },
+        {
+          "text": "sa",
+          "start": 0.74,
+          "end": 0.99
+        },
+        {
+          "text": "kama",
+          "start": 0.99,
+          "end": 1.4
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "fil-phrase-16:answer": {
-      "src": "assets/audio/jessica-617.mp3?v=1471fd49dcdf"
+      "src": "assets/audio/jessica-617.mp3?v=1471fd49dcdf",
+      "words": [
+        {
+          "text": "ang",
+          "start": 0.04,
+          "end": 0.39
+        },
+        {
+          "text": "dalaga",
+          "start": 0.39,
+          "end": 0.96
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "fil-phrase-17:answer": {
-      "src": "assets/audio/jessica-618.mp3?v=7919d60beb68"
+      "src": "assets/audio/jessica-618.mp3?v=7919d60beb68",
+      "words": [
+        {
+          "text": "ang",
+          "start": 0.03,
+          "end": 0.35
+        },
+        {
+          "text": "dalaga",
+          "start": 0.35,
+          "end": 0.85
+        },
+        {
+          "text": "sa",
+          "start": 0.85,
+          "end": 1.13
+        },
+        {
+          "text": "kubo",
+          "start": 1.13,
+          "end": 1.56
+        }
+      ],
+      "wordTimingMethod": "estimated-acoustic-activity"
     },
     "prayer-catholic-0:answer": {
       "src": "assets/audio/sarah-latin-00.mp3?v=f780a9346b99",

@@ -34,6 +34,6 @@ for(let i=0;i<13;i++)await click('next');assert.match(html(),/mi<mark>ght<\/mark
 await click('leave');await click('confirm-leave');assert.match(html(),/Ready to learn/);
 await click('start');assert.match(html(),/mi<mark>ght<\/mark>/,'A parent break preserves the next unfinished activity');
 await click('topic',{id:'14'});assert.match(html(),/18 activities/);assert.match(html(),/ang dalaga sa kubo/);
-await click('card',{key:'fil-phrase-17'});assert.match(html(),/ang dalaga sa kubo/);
+await click('card',{key:'fil-phrase-17'});assert.match(html().replace(/<[^>]*>/g,''),/ang dalaga sa kubo/);assert.equal([...html().matchAll(/data-read-word=/g)].length,4);
 console.log('PASS: synthetic DOM interaction check: home, practice, progress, adult gate, religion switching, answer reveal, science selection, animal image, deliberate reset. Browser visual/audio QA remains outstanding.');
 process.exit(0);

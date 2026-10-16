@@ -15,10 +15,12 @@
     {
       "text": "ang",
       "language": "fil-PH",
-      "generationId": "JK3r3w34gVb0wekElTe7",
-      "src": "assets/audio/jessica-601.mp3?v=7824b9ddd6ef",
-      "duration": 0.992653,
-      "editing": "Complete individual take; no cropping"
+      "generationId": "GYerFm7ElLlZrt6fONFY",
+      "src": "assets/audio/jessica-601.mp3",
+      "duration": 0.72,
+      "editing": "Complete individual take; no cropping",
+      "replacedGenerationId": "JK3r3w34gVb0wekElTe7",
+      "spokenPrompt": "Ahng."
     },
     {
       "text": "ang mga",

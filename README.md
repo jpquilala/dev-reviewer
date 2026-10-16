@@ -4,6 +4,8 @@ Kindergarten oral-review app based on the supplied Test 7 handout and enrichment
 
 The app includes all requested sections 1–14, both religion options, guided and per-lesson sessions, repeat/recall modes, checks for suitable answers, local progress, and adult settings. Item 14 includes all 18 Filipino phrases in printed column order. Existing installations enable this newly added lesson once while preserving other settings. No microphone recordings or automated speech grading are used.
 
+Items 2, 3 and 14 underline spoken answer words and fade each underline over 750ms. Playback follows the media clock for replay and slower speech. Word times are estimates from acoustic activity and word length, not forced alignment; regenerate with `python3 scripts/build-reading-timings.py` after replacing these recordings (requires ffmpeg and numpy). Browser speech fallback uses word-boundary events where available. Reduced-motion preferences remove the transitions. `node scripts/check-reading-motion.mjs` verifies mappings and playback lifecycle; browser visual QA remains outstanding.
+
 The home “Let’s start” button follows the reviewer’s numbered subject order and the stored printed order within each subject. Short sessions resume after the last completed card, with a separate place for each religion track. Existing practice scores do not reorder this queue, and help does not insert repeats. Disabled subjects are skipped; completing the reviewer returns to its beginning. Reset progress also resets the saved review position. Individual subject practice retains its focused practice behavior.
 
 ## Audio status

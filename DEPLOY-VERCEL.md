@@ -1,6 +1,6 @@
 # Deploy Kinder Review Buddy to Vercel
 
-This archive contains the source for published version 9, including all 14 reviewer sections, Sarah Latin prayer recordings, saved audio, images, lesson data, and audio-production masters. The editable application source is directly in dist/; no bundler or framework is required.
+This archive contains the source for published version 13, including the corrected butiki/kisame phrase recording, fading reading underlines for Items 2, 3 and 14, the revised Filipino recordings, all 14 reviewer sections, Sarah Latin prayer recordings, saved audio, images, lesson data, and audio-production masters. The editable application source is directly in dist/; no bundler or framework is required.
 
 ## Deploy through GitHub
 1. Extract the ZIP.
